@@ -1,0 +1,12 @@
+httpx>=0.27
+pymupdf>=1.24
+rapidfuzz>=3.6
+streamlit>=1.38
+scipy>=1.13
+scikit-learn>=1.5
+networkx>=3.3
+pyvis>=0.3
+spacy>=3.7
+# modelo de NER em português; "pip install -r requirements.txt" já resolve isso,
+# mas também pode ser instalado com: python -m spacy download pt_core_news_sm
+https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.8.0/pt_core_news_sm-3.8.0-py3-none-any.whl

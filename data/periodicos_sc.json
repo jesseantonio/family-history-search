@@ -1,0 +1,4206 @@
+[
+  {
+    "bib": "028550",
+    "titulo": "Diário Catarinense (SC) - 1986 a 1987"
+  },
+  {
+    "bib": "071170",
+    "titulo": "Boletim Trimestral -Sub Comissão Catarinense de Folclore (SC) - 1949 a 1997"
+  },
+  {
+    "bib": "098027_01",
+    "titulo": "O Estado (SC) - 1915 a 1919"
+  },
+  {
+    "bib": "098027_02",
+    "titulo": "O Estado (SC) - 1920 a 1929"
+  },
+  {
+    "bib": "098027_03",
+    "titulo": "O Estado (SC) - 1930 a 1939"
+  },
+  {
+    "bib": "098027_04",
+    "titulo": "O Estado (SC) - 1940 a 1941"
+  },
+  {
+    "bib": "184020",
+    "titulo": "Panal : Mensario de letras, artes e sciencias (SC) - 1924 a 1926"
+  },
+  {
+    "bib": "184883",
+    "titulo": "A Época (SC) - 1912"
+  },
+  {
+    "bib": "194875",
+    "titulo": "A Época (SC) - 1910 a 1911"
+  },
+  {
+    "bib": "217549",
+    "titulo": "O Dia : Orgão do Partido Republicano Catharinense (SC) - 1901 a 1918"
+  },
+  {
+    "bib": "233889",
+    "titulo": "O Argos da Provincia de Santa Catharina (SC) - 1856 a 1861"
+  },
+  {
+    "bib": "237965",
+    "titulo": "A Verdade : Folha Conservadora - Litteraria Noticiosa e Commercial (SC) - 1879 a 1881"
+  },
+  {
+    "bib": "242675",
+    "titulo": "Archivo Catharinense : Revista Mensal, Illustrada (SC) - 1908"
+  },
+  {
+    "bib": "259527",
+    "titulo": "A Estrella : Revista litteraria, scientifica, imparcial e critica (SC) - 1908 e 1909"
+  },
+  {
+    "bib": "259705",
+    "titulo": "Die Fackel (SC) - 1910 a 1911"
+  },
+  {
+    "bib": "305766",
+    "titulo": "Gazeta do Commercio (SC) - 1914 a 1918"
+  },
+  {
+    "bib": "307041",
+    "titulo": "O Apostolo : Orgão do Apostolado da Oração (SC) - 1929 a 1959"
+  },
+  {
+    "bib": "327468",
+    "titulo": "Sul : Revista do Circulo de Arte Moderna (SC) - 1948 a 1952"
+  },
+  {
+    "bib": "335037",
+    "titulo": "Falla do Presidente da Provincia de Santa Catharina: Assembléa Legislativa Provincial (SC) - 1841 a 1884"
+  },
+  {
+    "bib": "354694",
+    "titulo": "Archivo Catharinense de Medicina (SC) - 1935"
+  },
+  {
+    "bib": "709581",
+    "titulo": "O Despertador (SC) - 1863 a 1883"
+  },
+  {
+    "bib": "709603",
+    "titulo": "A Regeneração : jornal da Provincia de Santa Catharina (SC) - 1868 a 1889"
+  },
+  {
+    "bib": "711497",
+    "titulo": "Republica (SC) - 1895 a 1897"
+  },
+  {
+    "bib": "711497x",
+    "titulo": "Republica (SC) - 1858 a 1937"
+  },
+  {
+    "bib": "711543",
+    "titulo": "A Justiça (SC) - 1919"
+  },
+  {
+    "bib": "711560",
+    "titulo": "O Imparcial : Semanário noticioso e independente (SC) - 1926 e 1927"
+  },
+  {
+    "bib": "711608",
+    "titulo": "Gazeta de Joinville : Orgam dos interesses Agricolas, Mercantis e Industriaes desta Provincia e especialmente da Comarca de S. Francisco (SC) - 1877 a 1908"
+  },
+  {
+    "bib": "711667",
+    "titulo": "O Mercantil (SC) - 1861 a 1868"
+  },
+  {
+    "bib": "711772",
+    "titulo": "Rolonie, Haus Und Hof (SC) - 1911 a 1920"
+  },
+  {
+    "bib": "711802",
+    "titulo": "O Mensageiro (SC) - 1916 a 1919"
+  },
+  {
+    "bib": "711950",
+    "titulo": "Folha do Norte (SC) - 1918"
+  },
+  {
+    "bib": "713171",
+    "titulo": "O Arado (SC) - 1882"
+  },
+  {
+    "bib": "713260",
+    "titulo": "Municipio de Araraquara (SC) -1884"
+  },
+  {
+    "bib": "717711x",
+    "titulo": "O Reporter (SC) - 1896 a 1897"
+  },
+  {
+    "bib": "720518",
+    "titulo": "Relatorios dos Presidentes dos Estados Brasileiros (SC) - 1891 a 1930"
+  },
+  {
+    "bib": "720780",
+    "titulo": "Reform (SC) - 1887 a 1888"
+  },
+  {
+    "bib": "733903",
+    "titulo": "O Artista : orgao industrioso e artistico da Provincia de Santa Catharina (SC) - 1978 a 1980"
+  },
+  {
+    "bib": "733954",
+    "titulo": "A Ideia : Orgam Litterario (SC) - 1899 a 1900"
+  },
+  {
+    "bib": "733997",
+    "titulo": "Matraca : periodico critico (SC) - 1882 a 1888"
+  },
+  {
+    "bib": "734004",
+    "titulo": "Mercurio : Orgam da Classe Caixeiral (SC) - 1886"
+  },
+  {
+    "bib": "734012",
+    "titulo": "O Mosquito (SC) - 1888 a 1927"
+  },
+  {
+    "bib": "734012x",
+    "titulo": "O Mosquito : Periodico semanal, de principios agradaveis, criticos e litterarios (SC)  - 1888 a 1889"
+  },
+  {
+    "bib": "734039",
+    "titulo": "Primeiro de Abril : periodico humoristico, noticioso e recreativo (SC) - 1884"
+  },
+  {
+    "bib": "759449",
+    "titulo": "O Conciliador Catharinense : Jornal Official, Noticioso e Litterario (SC) - 1849 a 1850"
+  },
+  {
+    "bib": "766321",
+    "titulo": "Bota-Fogo : Parte Religiosa (SC) - 1858"
+  },
+  {
+    "bib": "766348",
+    "titulo": "A Lealdade, Orgão da Imparcialidade (SC) - 1868"
+  },
+  {
+    "bib": "766356",
+    "titulo": "A Perseverança : Jornal Litterario (SC) - 1868"
+  },
+  {
+    "bib": "766364",
+    "titulo": "Mercantil : Orgam do Gremio I. e B. dos Empregados no Commercio (SC) - 1900 a 1902"
+  },
+  {
+    "bib": "766372",
+    "titulo": "O Santelmo (SC) - 1858"
+  },
+  {
+    "bib": "766399",
+    "titulo": "O Progressista (SC) - 1860 a 1861"
+  },
+  {
+    "bib": "766402",
+    "titulo": "A Estrella : Periodico Litterario, Politico e Noticioso (SC) - 1861"
+  },
+  {
+    "bib": "766410",
+    "titulo": "A Quinzena : Jornal Litterario e Recreativo (SC) - 1861 a 1862"
+  },
+  {
+    "bib": "766429",
+    "titulo": "O Pacaja : Jornal Litterario, Recreativo e Noticioso (SC) - 1862"
+  },
+  {
+    "bib": "766437",
+    "titulo": "Periodico da Semana (SC) - 1864 a 1865"
+  },
+  {
+    "bib": "766500",
+    "titulo": "A Idéa : Periodico neutro (SC) - 1880"
+  },
+  {
+    "bib": "767050",
+    "titulo": "O Conservador : Jornal Politico, Noticioso e Commercial (SC) - 1873 a 1880"
+  },
+  {
+    "bib": "767069",
+    "titulo": "Conservador : Orgão do Partido (SC) - 1884 a 1889"
+  },
+  {
+    "bib": "767077",
+    "titulo": "O Municipio de Joinville (SC) - 1919 a 1920"
+  },
+  {
+    "bib": "767085",
+    "titulo": "Gazeta de Joinville (SC) - 1909 a 1910"
+  },
+  {
+    "bib": "767158",
+    "titulo": "O Mensageiro (SC) - 1855 a 1916"
+  },
+  {
+    "bib": "767530",
+    "titulo": "A Revelação : Revista Religiosa e Litteraria (SC) - 1852 a 1853"
+  },
+  {
+    "bib": "767549",
+    "titulo": "O Correio Catharinense : Jornal Commercial, Noticioso e Litterario (SC) - 1852 a 1854"
+  },
+  {
+    "bib": "767557",
+    "titulo": "O Conservador (SC) - 1854 a 1855"
+  },
+  {
+    "bib": "767565",
+    "titulo": "O Correio Official (SC) - 1860 a 1861"
+  },
+  {
+    "bib": "767620",
+    "titulo": "O Catharinense : Uniao e Liberdade, Independencia ou Morte (SC) - 1831 a 1832"
+  },
+  {
+    "bib": "767638",
+    "titulo": "O Catharinense : Jornal Politico e Noticioso (SC) - 1860"
+  },
+  {
+    "bib": "767646",
+    "titulo": "O Expositor : Patria, Ordem e Liberdade (SC) - 1832 a 1833"
+  },
+  {
+    "bib": "767654",
+    "titulo": "Conciliador : Orgam Conservador (SC) - 1835"
+  },
+  {
+    "bib": "767662",
+    "titulo": "O Conservador (SC) - 1854 a 1855"
+  },
+  {
+    "bib": "767670",
+    "titulo": "O Conservador : Jornal Politico, Noticioso e Commercial (SC) - 1875 a 1876"
+  },
+  {
+    "bib": "767689",
+    "titulo": "O Conservador : Orgão do Partido Conservador (SC) - 1879 a 1913"
+  },
+  {
+    "bib": "767697",
+    "titulo": "O Correio Catharinense (SC) - 1854"
+  },
+  {
+    "bib": "767700",
+    "titulo": "Conservador : Orgão do Partido (SC) - 1885 a 1888"
+  },
+  {
+    "bib": "767719",
+    "titulo": "O Conservador (SC) - 1855"
+  },
+  {
+    "bib": "767727",
+    "titulo": "O Mensageiro (SC) - 1856 a 1857"
+  },
+  {
+    "bib": "767735",
+    "titulo": "O Argos (SC) - 1857 a 1861"
+  },
+  {
+    "bib": "767743",
+    "titulo": "Mercantil : Orgam do Gremio I. e B. dos Empregados no Commercio (SC) - 1900"
+  },
+  {
+    "bib": "767751",
+    "titulo": "Regeneração (SC) - 1900 a 1902"
+  },
+  {
+    "bib": "767808",
+    "titulo": "O Apostolo : Orgão do Apostolado da Oração (SC) - 1929 a 1932"
+  },
+  {
+    "bib": "805024",
+    "titulo": "Revista do CEMJ (SC) - 2005 a 2022"
+  },
+  {
+    "bib": "809187",
+    "titulo": "O Aprendiz : Periodico Litterario e Recreativo (SC) - 1881"
+  },
+  {
+    "bib": "811017",
+    "titulo": "A Lucta (SC) - 1885"
+  },
+  {
+    "bib": "811025",
+    "titulo": "Jupiter : Orgam Litterario e Critico (SC) - 1885 a 1887"
+  },
+  {
+    "bib": "811033",
+    "titulo": "Folha Livre : Propriedade de uma Associação (SC) - 1887"
+  },
+  {
+    "bib": "811041",
+    "titulo": "Gazeta Lagunense : Trabalho - Justiça (SC) - 1893"
+  },
+  {
+    "bib": "811050",
+    "titulo": "O Ronco (SC) - 1896"
+  },
+  {
+    "bib": "811068",
+    "titulo": "Blondinista : Revista Critica, Litteraria e Noticiosa (SC) - 1900 a 1905"
+  },
+  {
+    "bib": "811076",
+    "titulo": "A Tesoura : Periodico Critico, Litterario e Noticioso (SC) - 1901"
+  },
+  {
+    "bib": "811092",
+    "titulo": "Sete de Julho (SC) - 1901 a 1902"
+  },
+  {
+    "bib": "811106",
+    "titulo": "A Aurora : Periodico Litterario e Noticioso (SC) - 1902"
+  },
+  {
+    "bib": "811114",
+    "titulo": "Aurora : Orgam Litterario, Critico e Noticioso (SC) - 1902"
+  },
+  {
+    "bib": "811122",
+    "titulo": "O Escudo (SC) - 1908"
+  },
+  {
+    "bib": "811130",
+    "titulo": "A Lucta : semanario critico, humoristico e noticioso (SC) - 1918"
+  },
+  {
+    "bib": "820229",
+    "titulo": "O Despertador (SC) - 1874"
+  },
+  {
+    "bib": "826197",
+    "titulo": "Itajahy : Periodico Litterario, Noticioso e Commercial (SC) - 1884"
+  },
+  {
+    "bib": "826200",
+    "titulo": "Professor (SC) - 1889"
+  },
+  {
+    "bib": "826219",
+    "titulo": "Almanach Catharinense : Para 1896 (SC) - 1896"
+  },
+  {
+    "bib": "826227",
+    "titulo": "Annuario de Santa Catharina : Para 1900 (SC) - 1900"
+  },
+  {
+    "bib": "830216",
+    "titulo": "Écos da Semana : Orgão da União dos Estudantes do Crato (SC) - 1948 a 1949"
+  },
+  {
+    "bib": "843709",
+    "titulo": "A Noticia (SC) - 1925 a 1967"
+  },
+  {
+    "bib": "844411",
+    "titulo": "Zé Pereira (SC) - 1901"
+  },
+  {
+    "bib": "844420",
+    "titulo": "Altonaer Fastnachts-Umzug-Zeitung (SC) - 1901"
+  },
+  {
+    "bib": "844438",
+    "titulo": "Bummelauer Fastnachts-Zeitung : Unabhängiges deutsches Narren-Blatt (SC) - 1903 - 1906"
+  },
+  {
+    "bib": "844446",
+    "titulo": "Teutonia Faschingsnummer (SC) - 1904"
+  },
+  {
+    "bib": "844454",
+    "titulo": "Kiriri (SC) - 1920"
+  },
+  {
+    "bib": "844462",
+    "titulo": "Die Schnauze (SC) - 1920 a 1936"
+  },
+  {
+    "bib": "844470",
+    "titulo": "A Ortiga (SC) - 1924"
+  },
+  {
+    "bib": "844489",
+    "titulo": "Der Mosquito (SC) - 1930 a 1935"
+  },
+  {
+    "bib": "844497",
+    "titulo": "Die verlorene Zeit (SC) - 1930"
+  },
+  {
+    "bib": "844500",
+    "titulo": "Die Gurke (SC) - 1932 a 1935"
+  },
+  {
+    "bib": "844519",
+    "titulo": "Lontraner Fastnachts (SC) - Anzeiger"
+  },
+  {
+    "bib": "844527",
+    "titulo": "Die Quasselbude (SC) 1932-1934"
+  },
+  {
+    "bib": "844535",
+    "titulo": "Die Mistgabel : Organ zur Förderung der leiblichen Interessen der Pommerodaner (SC) - 1934 a 1938"
+  },
+  {
+    "bib": "844543",
+    "titulo": "Der Hansabote (SC) - 1904 a 1913"
+  },
+  {
+    "bib": "844551",
+    "titulo": "Hochzeits Kladderadatsch (SC) - 1909 a 1957"
+  },
+  {
+    "bib": "844560",
+    "titulo": "Amoristisch - satirische Festzeitung : zur Vermählungsfeier von Fräulein Helga Ebert mit Herrn Luiz Rischbieter  (SC) - 1912"
+  },
+  {
+    "bib": "844578",
+    "titulo": "Sod Hochzeits : Gedenkblatt (SC) - 1914"
+  },
+  {
+    "bib": "844586",
+    "titulo": "Hochzeits-Zeitung (SC) - 1915 a 1969"
+  },
+  {
+    "bib": "844594",
+    "titulo": "Festzeitung (SC) - 1917"
+  },
+  {
+    "bib": "844616",
+    "titulo": "Die fröhliche Stunde (SC) - 1920 a 1956"
+  },
+  {
+    "bib": "844624",
+    "titulo": "ULK : Wochenbeilage zum Berliner Tageblatt (SC) - 1920"
+  },
+  {
+    "bib": "844632",
+    "titulo": "Bemtevi (SC) - 1923"
+  },
+  {
+    "bib": "844640",
+    "titulo": "Südarm-Glocken (SC) - 1929"
+  },
+  {
+    "bib": "844659",
+    "titulo": "Die Grüne Hochzeitspost (SC) - 1929 a 1940"
+  },
+  {
+    "bib": "844667",
+    "titulo": "Der Urwaldsbote (SC)"
+  },
+  {
+    "bib": "844675",
+    "titulo": "Hochzeitskuchen (SC) - 1951"
+  },
+  {
+    "bib": "844683",
+    "titulo": "Hochzeits-Klatsch (SC) - 1951"
+  },
+  {
+    "bib": "844691",
+    "titulo": "Die Wahrheit (SC) - 1956"
+  },
+  {
+    "bib": "844705",
+    "titulo": "Fest-Zeitung : zur Hochzeitsfeier (SC) - 1956"
+  },
+  {
+    "bib": "844713",
+    "titulo": "Gazeta Nupcial (SC)"
+  },
+  {
+    "bib": "873438",
+    "titulo": "Mensagens do Governador de Santa Catarina para Assembléia (SC) - 1891 a 1912"
+  },
+  {
+    "bib": "873764",
+    "titulo": "Cicuta : Boletim Oficial dos Quatro Justus (SC) - 1947"
+  },
+  {
+    "bib": "874469",
+    "titulo": "Folha da Juventude (SC) - 1946 a 1947"
+  },
+  {
+    "bib": "882747",
+    "titulo": "A Actualidade (SC) - 1916 a 1917"
+  },
+  {
+    "bib": "882755",
+    "titulo": "Actualidade (SC) - 1918"
+  },
+  {
+    "bib": "882763",
+    "titulo": "A Actualidade (SC) - 1905"
+  },
+  {
+    "bib": "882771",
+    "titulo": "A Aurora (SC) - 1906 a 1907"
+  },
+  {
+    "bib": "882780",
+    "titulo": "A Aurora (SC) - 1902"
+  },
+  {
+    "bib": "882798",
+    "titulo": "A Barra (SC) - 1934"
+  },
+  {
+    "bib": "882801",
+    "titulo": "A Capital : Semanário Illustrado (SC) - 1920 e 1921"
+  },
+  {
+    "bib": "882810",
+    "titulo": "A Carochinha (SC) - 1914"
+  },
+  {
+    "bib": "882828",
+    "titulo": "A Casaca (SC) -1911"
+  },
+  {
+    "bib": "882836",
+    "titulo": "A Casaca (SC) - 1911"
+  },
+  {
+    "bib": "882844",
+    "titulo": "A Cidade (SC) - 1925 a 1934"
+  },
+  {
+    "bib": "882860",
+    "titulo": "A Cidade (SC) - 1924 a 1973"
+  },
+  {
+    "bib": "882879",
+    "titulo": "A Coisa (SC) - 1902"
+  },
+  {
+    "bib": "882887",
+    "titulo": "A Comarca : Folha Independente (SC) - 1916"
+  },
+  {
+    "bib": "882895",
+    "titulo": "A Comarca (SC) - 1915 a 1918"
+  },
+  {
+    "bib": "882909",
+    "titulo": "A Crise (SC) - 1918"
+  },
+  {
+    "bib": "882917",
+    "titulo": "A Defesa (SC) - 1915"
+  },
+  {
+    "bib": "882925",
+    "titulo": "A Defesa (SC) - 1931"
+  },
+  {
+    "bib": "882933",
+    "titulo": "Defesa (SC) - 1932"
+  },
+  {
+    "bib": "882941",
+    "titulo": "A Encrenca (SC) - 1915"
+  },
+  {
+    "bib": "882950",
+    "titulo": "A Época (SC) - 1924 a 1932"
+  },
+  {
+    "bib": "882968",
+    "titulo": "A Época (SC) - 1914 a 1916"
+  },
+  {
+    "bib": "882976",
+    "titulo": "A Época (SC) - 1910 a 1911"
+  },
+  {
+    "bib": "882984",
+    "titulo": "A Escola (SC) - 1916"
+  },
+  {
+    "bib": "882992",
+    "titulo": "A Escola (SC) - 1919"
+  },
+  {
+    "bib": "883000",
+    "titulo": "A Esperança (SC) - 1867"
+  },
+  {
+    "bib": "883018",
+    "titulo": "A Esperança (SC) - 1907"
+  },
+  {
+    "bib": "883026",
+    "titulo": "A Evolução (SC) - 1905"
+  },
+  {
+    "bib": "883034",
+    "titulo": "A Farpa (SC) - 1932"
+  },
+  {
+    "bib": "883042",
+    "titulo": "A Farpa (SC) - 1915 a 1917"
+  },
+  {
+    "bib": "883050",
+    "titulo": "A Fé (SC) - 1903 a 1909"
+  },
+  {
+    "bib": "883069",
+    "titulo": "A Flecha (SC) - 1899 a 1906"
+  },
+  {
+    "bib": "883077",
+    "titulo": "A Folha da Cidade (SC) - 1992"
+  },
+  {
+    "bib": "883085",
+    "titulo": "A Folha (SC) - 1934"
+  },
+  {
+    "bib": "883093",
+    "titulo": "A Folha (SC) - 1913"
+  },
+  {
+    "bib": "883107",
+    "titulo": "A Folha Semanal (SC) - 1931"
+  },
+  {
+    "bib": "883115",
+    "titulo": "A Formiga (SC) - 1904"
+  },
+  {
+    "bib": "883123",
+    "titulo": "A Gazeta : A Voz do Povo (SC) - 1934 a 1945"
+  },
+  {
+    "bib": "883131",
+    "titulo": "A Gazeta (SC) - 1934 a 1952"
+  },
+  {
+    "bib": "883140",
+    "titulo": "A Idéa (SC) - 1980"
+  },
+  {
+    "bib": "883158",
+    "titulo": "A Infancia (SC) - 1900"
+  },
+  {
+    "bib": "883166",
+    "titulo": "A Lanterna (SC) - 1884"
+  },
+  {
+    "bib": "883174",
+    "titulo": "A Lealdade (SC) - 1868"
+  },
+  {
+    "bib": "883182",
+    "titulo": "A Luz (SC) - 1896"
+  },
+  {
+    "bib": "883190",
+    "titulo": "A Noute d' O Dia (SC) - 1916"
+  },
+  {
+    "bib": "883204",
+    "titulo": "A Paz (SC) -  1902"
+  },
+  {
+    "bib": "883212",
+    "titulo": "A Paz (SC) - 1925"
+  },
+  {
+    "bib": "883220",
+    "titulo": "A Província (SC) - 1870 a 1872"
+  },
+  {
+    "bib": "883239",
+    "titulo": "A Razão (SC) - 1931 a 1934"
+  },
+  {
+    "bib": "883247",
+    "titulo": "A Razão (SC) - 1918 a 1930"
+  },
+  {
+    "bib": "883255",
+    "titulo": "A Tarde (SC) - 1917"
+  },
+  {
+    "bib": "883263",
+    "titulo": "A Tesoura (SC) - 1901 a 1916"
+  },
+  {
+    "bib": "883271",
+    "titulo": "A Tribuna (SC) - 1915"
+  },
+  {
+    "bib": "883280",
+    "titulo": "A Urucubaca (SC) - 1915"
+  },
+  {
+    "bib": "883298",
+    "titulo": "A Verdade (SC) - 1928"
+  },
+  {
+    "bib": "883301",
+    "titulo": "A Verdade (SC) - 1926"
+  },
+  {
+    "bib": "883310",
+    "titulo": "A Violeta (SC) - 1899"
+  },
+  {
+    "bib": "883328",
+    "titulo": "A Voz Serrana (SC) - 1923"
+  },
+  {
+    "bib": "883336",
+    "titulo": "Abolicionista (SC) - 1884 a 1885"
+  },
+  {
+    "bib": "883344",
+    "titulo": "A Época (SC) - 1929"
+  },
+  {
+    "bib": "883352",
+    "titulo": "A Gazeta (SC) - 1930"
+  },
+  {
+    "bib": "883360",
+    "titulo": "A Guilhada (SC) - 1911"
+  },
+  {
+    "bib": "883379",
+    "titulo": "A Hora (SC) - 1918"
+  },
+  {
+    "bib": "883387",
+    "titulo": "A Idea (SC) - 1905"
+  },
+  {
+    "bib": "883395",
+    "titulo": "A Ideia (SC) - 1899 a 1900"
+  },
+  {
+    "bib": "883409",
+    "titulo": "A Imprensa (SC) - 1939"
+  },
+  {
+    "bib": "883417",
+    "titulo": "A Imprensa Catharinense (SC) - 1888"
+  },
+  {
+    "bib": "883425",
+    "titulo": "A Instrucção (SC) - 1905 a 1906"
+  },
+  {
+    "bib": "883433",
+    "titulo": "A Legalidade (SC) - 1892 a 1901"
+  },
+  {
+    "bib": "883441",
+    "titulo": "Liberdade (SC) - 1888"
+  },
+  {
+    "bib": "883450",
+    "titulo": "A Liberdade (SC) - 1887"
+  },
+  {
+    "bib": "883468",
+    "titulo": "Almanach Catharinense (SC) - 1896"
+  },
+  {
+    "bib": "883476",
+    "titulo": "Almofadinha (SC) - 1921"
+  },
+  {
+    "bib": "883484",
+    "titulo": "Altonaer (SC) - 1901"
+  },
+  {
+    "bib": "883492",
+    "titulo": "A Lucta (SC) - 1885"
+  },
+  {
+    "bib": "883506",
+    "titulo": "A Lucta (SC) - 1918"
+  },
+  {
+    "bib": "883514",
+    "titulo": "A Lucta (SC) - 1917"
+  },
+  {
+    "bib": "883522",
+    "titulo": "A Luz (SC) - 1931 a 1932"
+  },
+  {
+    "bib": "883530",
+    "titulo": "A Luz : Orgam da Federação Espírita Catharinense (SC) - 1916 a 1923"
+  },
+  {
+    "bib": "883549",
+    "titulo": "A Luz (SC) - 1920 a 1922"
+  },
+  {
+    "bib": "883557",
+    "titulo": "A Luz (SC) - 1907"
+  },
+  {
+    "bib": "883565",
+    "titulo": "Alvorada (SC) - 1935"
+  },
+  {
+    "bib": "883573",
+    "titulo": "A Lyra (SC) - 1908"
+  },
+  {
+    "bib": "883581",
+    "titulo": "A Matraca (SC) - 1917"
+  },
+  {
+    "bib": "883590",
+    "titulo": "A Metralha (SC) - 1896"
+  },
+  {
+    "bib": "883603",
+    "titulo": "A Metralhadora (SC) - 1919"
+  },
+  {
+    "bib": "883611",
+    "titulo": "L' Amico (SC) - 1904"
+  },
+  {
+    "bib": "883620",
+    "titulo": "Amor e Fé (SC) - 1904"
+  },
+  {
+    "bib": "883638",
+    "titulo": "Amoristisch (SC) - 1912"
+  },
+  {
+    "bib": "883646",
+    "titulo": "A Mortalha (SC) - 1904"
+  },
+  {
+    "bib": "883662",
+    "titulo": "A Nação (SC) - 1943 a 1970"
+  },
+  {
+    "bib": "883670",
+    "titulo": "A Navalhada (SC) - 1919"
+  },
+  {
+    "bib": "883689",
+    "titulo": "Anuário de Itajaí (SC) - 1949"
+  },
+  {
+    "bib": "883697",
+    "titulo": "A Noite (SC) - 1918 a 1920"
+  },
+  {
+    "bib": "883700",
+    "titulo": "A Nota (SC) - 1918"
+  },
+  {
+    "bib": "883719",
+    "titulo": "A Nota (SC) - 1930"
+  },
+  {
+    "bib": "883727",
+    "titulo": "A Nota (SC) - 1917 a 1919"
+  },
+  {
+    "bib": "883735",
+    "titulo": "A Nota (SC) - 1919"
+  },
+  {
+    "bib": "883743",
+    "titulo": "A Noticia : Jornal de Viagem (SC) - 1906"
+  },
+  {
+    "bib": "883751",
+    "titulo": "Annuario de Santa Catharina (SC) - 1900"
+  },
+  {
+    "bib": "883760",
+    "titulo": "A Opinião (SC) - 1915 a 1916"
+  },
+  {
+    "bib": "883778",
+    "titulo": "A'  Ordem (SC) - 1916"
+  },
+  {
+    "bib": "883786",
+    "titulo": "A Ordem (SC) - 1922"
+  },
+  {
+    "bib": "883794",
+    "titulo": "A Ortiga (SC) - 1924"
+  },
+  {
+    "bib": "883808",
+    "titulo": "A Pagina (SC) - 1900"
+  },
+  {
+    "bib": "883816",
+    "titulo": "A Palavra (SC) - 1906"
+  },
+  {
+    "bib": "883824",
+    "titulo": "Actualidade (SC) - 1917"
+  },
+  {
+    "bib": "883832",
+    "titulo": "A Palavra (SC) - 1917"
+  },
+  {
+    "bib": "883840",
+    "titulo": "A Patria (SC) - 1918"
+  },
+  {
+    "bib": "883859",
+    "titulo": "A Patria (SC) - 1905"
+  },
+  {
+    "bib": "883867",
+    "titulo": "A Patria (SC) - 1906 a 1907"
+  },
+  {
+    "bib": "883875",
+    "titulo": "A Patrulha (SC) - 1950"
+  },
+  {
+    "bib": "883883",
+    "titulo": "A Pavúna ... (SC) - 1930"
+  },
+  {
+    "bib": "883891",
+    "titulo": "A Penna (SC) - 1893"
+  },
+  {
+    "bib": "883905",
+    "titulo": "A Pena (SC) - 1902"
+  },
+  {
+    "bib": "883913",
+    "titulo": "A Penna (SC) - 1904"
+  },
+  {
+    "bib": "883921",
+    "titulo": "A Penna (SC) - 1910"
+  },
+  {
+    "bib": "883930",
+    "titulo": "A Phenix (SC) - 1916"
+  },
+  {
+    "bib": "883948",
+    "titulo": "A Ponta (SC) - 1993 a 2008"
+  },
+  {
+    "bib": "883956",
+    "titulo": "A Pontuação (SC) - 1895"
+  },
+  {
+    "bib": "883964",
+    "titulo": "Arauto (SC) - 1921"
+  },
+  {
+    "bib": "883972",
+    "titulo": "A Razão (SC) - 1902"
+  },
+  {
+    "bib": "883980",
+    "titulo": "A Capital (SC) - 1924"
+  },
+  {
+    "bib": "883999",
+    "titulo": "A Reforma (SC) - 1916"
+  },
+  {
+    "bib": "884006",
+    "titulo": "A Reforma (SC) - 1931"
+  },
+  {
+    "bib": "884014",
+    "titulo": "A Revelação (SC) - 1906 a 1916"
+  },
+  {
+    "bib": "884022",
+    "titulo": "A Revista (SC) - 1908"
+  },
+  {
+    "bib": "884030",
+    "titulo": "Argo (SC) - 1910"
+  },
+  {
+    "bib": "884049",
+    "titulo": "Artes e Letras (SC) - 1924"
+  },
+  {
+    "bib": "884057",
+    "titulo": "Asas e Cárcere (SC) - 1996 a 2005"
+  },
+  {
+    "bib": "884065",
+    "titulo": "A Semana : Periódico de Acção Social (SC) - 1920"
+  },
+  {
+    "bib": "884073",
+    "titulo": "A Capital (SC) - 1936"
+  },
+  {
+    "bib": "884081",
+    "titulo": "A Semana (SC) - 1928 a 1930"
+  },
+  {
+    "bib": "884090",
+    "titulo": "A Semana : Redactores e Collaboradores Diversos (SC) - 1914"
+  },
+  {
+    "bib": "884103",
+    "titulo": "A Semana (SC) - 1923"
+  },
+  {
+    "bib": "884111",
+    "titulo": "A Semana (SC) - 1927"
+  },
+  {
+    "bib": "884120",
+    "titulo": "O Estado de Florianópolis (SC) - 1915 a 1980"
+  },
+  {
+    "bib": "884138",
+    "titulo": "A Semana (SC) - 1901"
+  },
+  {
+    "bib": "884146",
+    "titulo": "A Semana (SC) - 1898"
+  },
+  {
+    "bib": "884154",
+    "titulo": "A Semana (SC) - 1920"
+  },
+  {
+    "bib": "884162",
+    "titulo": "A Sentinella (SC) - 1906"
+  },
+  {
+    "bib": "884170",
+    "titulo": "A Sogra : Jornal Litterário, Crítico, Humorístico e Noticioso (SC) - 1925 a 1927"
+  },
+  {
+    "bib": "884189",
+    "titulo": "Atalaia do Sul (SC) - 1921"
+  },
+  {
+    "bib": "884197",
+    "titulo": "A Tarde (SC) - 1919"
+  },
+  {
+    "bib": "884200",
+    "titulo": "A Tarde (SC) - 1914 a 1915"
+  },
+  {
+    "bib": "884219",
+    "titulo": "A Tesoura (SC) - 1918"
+  },
+  {
+    "bib": "884227",
+    "titulo": "A Thesoura (SC) - 1926"
+  },
+  {
+    "bib": "884235",
+    "titulo": "A Thesoura (SC) - 1911"
+  },
+  {
+    "bib": "884243",
+    "titulo": "A Tribuna : Semanário popular e noticioso (SC) - 1919"
+  },
+  {
+    "bib": "884251",
+    "titulo": "A Tribuna (SC) - 1919"
+  },
+  {
+    "bib": "884260",
+    "titulo": "A Tribuna (SC) - 1928"
+  },
+  {
+    "bib": "884278",
+    "titulo": "A Tribuna (SC) - 1919"
+  },
+  {
+    "bib": "884286",
+    "titulo": "A Tribuna : Semamnário Independente (SC) - 1931"
+  },
+  {
+    "bib": "884294",
+    "titulo": "Atualidades (SC) - 1945 a 1950"
+  },
+  {
+    "bib": "884308",
+    "titulo": "A União : Jornal Independente e Noticioso (SC) - 1933"
+  },
+  {
+    "bib": "884316",
+    "titulo": "A União : Revista Literária e Noticiosa (SC) - 1868"
+  },
+  {
+    "bib": "884324",
+    "titulo": "A União (SC) : Orgam noticioso - 1919"
+  },
+  {
+    "bib": "884332",
+    "titulo": "A União (SC) - 1884 a 1885"
+  },
+  {
+    "bib": "884340",
+    "titulo": "A União : Orgam Independente e Noticioso (SC) - 1922"
+  },
+  {
+    "bib": "884359",
+    "titulo": "Aurora (SC) - 1902"
+  },
+  {
+    "bib": "884367",
+    "titulo": "Avante ! - (SC) - 1930 a 1931"
+  },
+  {
+    "bib": "884375",
+    "titulo": "A Varzea (SC) - 1904 a 1905"
+  },
+  {
+    "bib": "884383",
+    "titulo": "A Ventarola (SC) - 1896"
+  },
+  {
+    "bib": "884391",
+    "titulo": "A Verdade (SC) - 1902 a 1904"
+  },
+  {
+    "bib": "884405",
+    "titulo": "A Verdade (SC) - 1879 a 1885"
+  },
+  {
+    "bib": "884413",
+    "titulo": "A Verdade (SC) - 1921"
+  },
+  {
+    "bib": "884421",
+    "titulo": "A Vespa (SC) - 1935"
+  },
+  {
+    "bib": "884430",
+    "titulo": "A Vida (SC) - 1903"
+  },
+  {
+    "bib": "884448",
+    "titulo": "A Voz da Imperatriz (SC) - 1925"
+  },
+  {
+    "bib": "884456",
+    "titulo": "A Voz da Palhoça (SC) - 1906"
+  },
+  {
+    "bib": "884464",
+    "titulo": "A Voz do Estreito (SC) - 1982 a 1988"
+  },
+  {
+    "bib": "884472",
+    "titulo": "A Voz do Oeste (SC) - 1930"
+  },
+  {
+    "bib": "884480",
+    "titulo": "A Voz do Operário (SC) - 1932"
+  },
+  {
+    "bib": "884499",
+    "titulo": "A Voz do Povo (SC) - 1885"
+  },
+  {
+    "bib": "884502",
+    "titulo": "A Voz do Povo (SC) - 1918 a 1919"
+  },
+  {
+    "bib": "884510",
+    "titulo": "A Voz do Povo (SC) - 1918"
+  },
+  {
+    "bib": "884529",
+    "titulo": "A Voz do Povo (SC) - 1915"
+  },
+  {
+    "bib": "884537",
+    "titulo": "Voz do Povo (SC) - 1902"
+  },
+  {
+    "bib": "884545",
+    "titulo": "Voz do Sertão (SC) - 1926"
+  },
+  {
+    "bib": "884553",
+    "titulo": "A Voz (SC) - 1890 a 1891"
+  },
+  {
+    "bib": "884561",
+    "titulo": "A Yergasta (SC) - 1904"
+  },
+  {
+    "bib": "884588",
+    "titulo": "Babitonga (SC) - 1885"
+  },
+  {
+    "bib": "884596",
+    "titulo": "Balão Correio (SC) - 1884"
+  },
+  {
+    "bib": "884600",
+    "titulo": "Bem Te Vi (SC) - 1928"
+  },
+  {
+    "bib": "884618",
+    "titulo": "Bisturi (SC) - 1910"
+  },
+  {
+    "bib": "884626",
+    "titulo": "Blondinista (SC) - 1900 a 1905"
+  },
+  {
+    "bib": "884634",
+    "titulo": "Blumenau em Cadernos (SC) - 1957 a 1998"
+  },
+  {
+    "bib": "884642",
+    "titulo": "Blumenau Zeitung (SC) - 1891 a 1898"
+  },
+  {
+    "bib": "884650",
+    "titulo": "Boi de Mamão (SC) - 1979 a 1981"
+  },
+  {
+    "bib": "884669",
+    "titulo": "Boletim Anti-alcoolico (SC) - 1932"
+  },
+  {
+    "bib": "884677",
+    "titulo": "Boletim Trimestral -Sub Comissão Catarinense de Folclore (SC) - 1949 a 2011"
+  },
+  {
+    "bib": "884685",
+    "titulo": "Boletim dos Grandes Clientes (SC) - 1990"
+  },
+  {
+    "bib": "884693",
+    "titulo": "Boletim Commercial (SC) - 1918 a 1955"
+  },
+  {
+    "bib": "884715",
+    "titulo": "Boletim Escolar (SC) - 1905"
+  },
+  {
+    "bib": "884723",
+    "titulo": "Boletim Liberal (SC) - 1929"
+  },
+  {
+    "bib": "884731",
+    "titulo": "Boletim de  Informações (SC) - 1934"
+  },
+  {
+    "bib": "884731x",
+    "titulo": "Boletim de Informações (SC) - 1934"
+  },
+  {
+    "bib": "884740",
+    "titulo": "Bota-Fogo (SC) - 1858"
+  },
+  {
+    "bib": "884758",
+    "titulo": "Brazil (SC) - 1919"
+  },
+  {
+    "bib": "884766",
+    "titulo": "Brusquer Zeitung (SC) - 1912"
+  },
+  {
+    "bib": "884774",
+    "titulo": "O Estado (SC) - 1892 a 1902"
+  },
+  {
+    "bib": "884782",
+    "titulo": "O Acadêmico (SC) - 1945"
+  },
+  {
+    "bib": "884804",
+    "titulo": "O Aço (SC) - 1901"
+  },
+  {
+    "bib": "884812",
+    "titulo": "O Aeronave (SC) - 1902"
+  },
+  {
+    "bib": "884839",
+    "titulo": "O Aguia (SC) - 1921"
+  },
+  {
+    "bib": "884847",
+    "titulo": "O Albor (SC) - 1901 a 1963"
+  },
+  {
+    "bib": "884855",
+    "titulo": "O Alfinete (SC) - 1921"
+  },
+  {
+    "bib": "884863",
+    "titulo": "O Alliado (SC) - 1915 a 1917"
+  },
+  {
+    "bib": "884871",
+    "titulo": "O Alpha (SC) - 1911"
+  },
+  {
+    "bib": "884880",
+    "titulo": "O Alphabeto (SC) - 1908 a 1909"
+  },
+  {
+    "bib": "884898",
+    "titulo": "O Anno Novo (SC) - 1931 a 1933"
+  },
+  {
+    "bib": "884901",
+    "titulo": "O Anzol (SC) - 1917"
+  },
+  {
+    "bib": "884910",
+    "titulo": "O Apostolo (SC) - 1929 a 1932"
+  },
+  {
+    "bib": "884928",
+    "titulo": "O Aprendiz (SC) - 1881"
+  },
+  {
+    "bib": "884936",
+    "titulo": "O Arara (SC) - 1902"
+  },
+  {
+    "bib": "884944",
+    "titulo": "O Arauto (SC) - 1903"
+  },
+  {
+    "bib": "884952",
+    "titulo": "Arauto (SC) - 1918"
+  },
+  {
+    "bib": "884960",
+    "titulo": "O Arauto (SC) - 1931"
+  },
+  {
+    "bib": "884979",
+    "titulo": "O Argonauta (SC) - 1911 a 1912"
+  },
+  {
+    "bib": "884995",
+    "titulo": "Oasis (SC) - 1918"
+  },
+  {
+    "bib": "885002",
+    "titulo": "O Astro (SC) - 1913"
+  },
+  {
+    "bib": "885010",
+    "titulo": "O Atalaia (SC) - 1926 a 1929"
+  },
+  {
+    "bib": "885029",
+    "titulo": "O Azul (SC) - 1908"
+  },
+  {
+    "bib": "885037",
+    "titulo": "O Barriga Verde (SC) - 1928"
+  },
+  {
+    "bib": "885045",
+    "titulo": "O Beija-Flor (SC) - 1867 a 1868"
+  },
+  {
+    "bib": "885053",
+    "titulo": "O Bilontra (SC) - 1898"
+  },
+  {
+    "bib": "885061",
+    "titulo": "O Binoculo : Orgam Humorístico e Noticioso (SC) - 1902"
+  },
+  {
+    "bib": "885070",
+    "titulo": "O Bisturi (SC) - 1916"
+  },
+  {
+    "bib": "885088",
+    "titulo": "O Brasil (SC) - 1901"
+  },
+  {
+    "bib": "885096",
+    "titulo": "O Brasil Catholico (SC) - 1921"
+  },
+  {
+    "bib": "885100",
+    "titulo": "O Cacique (SC) - 1870 a 1871"
+  },
+  {
+    "bib": "885118",
+    "titulo": "O Caixeiro (SC) - 1882 a 1883"
+  },
+  {
+    "bib": "885126",
+    "titulo": "O Campeão (SC) - 1885 a 1886"
+  },
+  {
+    "bib": "885134",
+    "titulo": "O Campo-Alegrense (SC) - 1899"
+  },
+  {
+    "bib": "885142",
+    "titulo": "O Camponez (SC) - 1932"
+  },
+  {
+    "bib": "885150",
+    "titulo": "O Canoinhas (SC) - 1909"
+  },
+  {
+    "bib": "885169",
+    "titulo": "O Careca (SC) - 1931"
+  },
+  {
+    "bib": "885177",
+    "titulo": "O Catharinense (SC) - 1831"
+  },
+  {
+    "bib": "885185",
+    "titulo": "O Catharinense (SC) - 1860 a 1861"
+  },
+  {
+    "bib": "885193",
+    "titulo": "O Catharinense (SC) - 1911 a 1919"
+  },
+  {
+    "bib": "885207",
+    "titulo": "O Chapecó (SC) - 1918"
+  },
+  {
+    "bib": "885215",
+    "titulo": "O Chaveco (SC) - 1860"
+  },
+  {
+    "bib": "885223",
+    "titulo": "O Chavéco (SC) - 1933"
+  },
+  {
+    "bib": "885231",
+    "titulo": "O Chicote (SC) - 1902"
+  },
+  {
+    "bib": "885240",
+    "titulo": "O Chimpalhaço (SC) - 1896"
+  },
+  {
+    "bib": "885258",
+    "titulo": "O Cinema (SC) - 1922 a 1927"
+  },
+  {
+    "bib": "885266",
+    "titulo": "O Cinematographo (SC) - 1920 a 1921"
+  },
+  {
+    "bib": "885274",
+    "titulo": "O Clamor (SC) - 1917"
+  },
+  {
+    "bib": "885282",
+    "titulo": "O Clamor do Povo (SC) - 1916"
+  },
+  {
+    "bib": "885290",
+    "titulo": "O Clarão (SC) - 1911 a 1918"
+  },
+  {
+    "bib": "885304",
+    "titulo": "O Clarim (SC) - 1932 a 1933"
+  },
+  {
+    "bib": "885312",
+    "titulo": "O Clarim (SC) - 1908"
+  },
+  {
+    "bib": "885320",
+    "titulo": "O Clarim (SC) - 1907 a 1908"
+  },
+  {
+    "bib": "885339",
+    "titulo": "O Coió (SC) - 1903"
+  },
+  {
+    "bib": "885347",
+    "titulo": "O Coisa (SC) - 1896"
+  },
+  {
+    "bib": "885355",
+    "titulo": "O Collegial (SC) - 1915"
+  },
+  {
+    "bib": "885363",
+    "titulo": "O Colegial (SC) - 1884"
+  },
+  {
+    "bib": "885371",
+    "titulo": "O Colegial (SC) - 1945 a 1950"
+  },
+  {
+    "bib": "885380",
+    "titulo": "O Colibri (SC) - 1912"
+  },
+  {
+    "bib": "885398",
+    "titulo": "O Commercio (SC) - 1918 a 1924"
+  },
+  {
+    "bib": "885401",
+    "titulo": "O Commercio (SC) - 1903 a 1904"
+  },
+  {
+    "bib": "885410",
+    "titulo": "O Comercio (SC) - 1935"
+  },
+  {
+    "bib": "885428",
+    "titulo": "O Commercio (SC) - 1901"
+  },
+  {
+    "bib": "885436",
+    "titulo": "O Commercio (SC) - 1931 a 1932"
+  },
+  {
+    "bib": "885444",
+    "titulo": "O Conciliador (SC) - 1872 a 1873"
+  },
+  {
+    "bib": "885452",
+    "titulo": "O Conciliador Catharinense (SC) - 1849 a 1851"
+  },
+  {
+    "bib": "885460",
+    "titulo": "O Condor (SC) - 1901"
+  },
+  {
+    "bib": "885479",
+    "titulo": "Conservador (SC) - 1885 a 1888"
+  },
+  {
+    "bib": "885487",
+    "titulo": "O Constitucional (SC) - 1870 a 1871"
+  },
+  {
+    "bib": "885495",
+    "titulo": "O Constitucional (SC) - 1867 a 1869"
+  },
+  {
+    "bib": "885509",
+    "titulo": "O Cooperativista (SC) - 1929 a 1931"
+  },
+  {
+    "bib": "885517",
+    "titulo": "O Correio (SC) - 1927 a 1931"
+  },
+  {
+    "bib": "885525",
+    "titulo": "O Coveiro (SC) - 1923"
+  },
+  {
+    "bib": "885533",
+    "titulo": "O Crepusculo (SC) - 1902 a 1903"
+  },
+  {
+    "bib": "885541",
+    "titulo": "O Cruzeiro : Orgam Independente e Noticioso (SC) - 1918"
+  },
+  {
+    "bib": "885550",
+    "titulo": "O Cruzeiro : Orgão Imparcial (SC) - 1892"
+  },
+  {
+    "bib": "885568",
+    "titulo": "O Cruzeiro : Orgão do Partido Catholico (SC) - 1931 a 1933"
+  },
+  {
+    "bib": "885576",
+    "titulo": "O Cruzeiro do Sul (SC) - 1959 a 1960"
+  },
+  {
+    "bib": "885584",
+    "titulo": "O Cruzeiro : Jornal Politico, Literário e Noticioso (SC) - 1860"
+  },
+  {
+    "bib": "885592",
+    "titulo": "O Curioso (SC) - 1932"
+  },
+  {
+    "bib": "885606",
+    "titulo": "O Cursilho (SC) - 2014 a 2015"
+  },
+  {
+    "bib": "885614",
+    "titulo": "O Debate (SC) - 1900"
+  },
+  {
+    "bib": "885622",
+    "titulo": "O Democrata (SC) - 1919 a 1920"
+  },
+  {
+    "bib": "885630",
+    "titulo": "O Democrata (SC) - 1918 a 1919"
+  },
+  {
+    "bib": "885649",
+    "titulo": "O Democrata (SC) - 1885"
+  },
+  {
+    "bib": "885657",
+    "titulo": "O Democrata (SC) - 1931 a 1932"
+  },
+  {
+    "bib": "885665",
+    "titulo": "O Dente (SC) - 1902"
+  },
+  {
+    "bib": "885673",
+    "titulo": "O Desporto (SC) - 1931"
+  },
+  {
+    "bib": "885681",
+    "titulo": "O Desterrense (SC) - 1865"
+  },
+  {
+    "bib": "885690",
+    "titulo": "O Dever (SC) - 1918 a  1920"
+  },
+  {
+    "bib": "885703",
+    "titulo": "O Dia (SC) - 1901 a 1918"
+  },
+  {
+    "bib": "885711",
+    "titulo": "O Diálogo (SC) - 1966"
+  },
+  {
+    "bib": "885720",
+    "titulo": "O Diario (SC) - 1925"
+  },
+  {
+    "bib": "885738",
+    "titulo": "O Direito (SC) - 1921"
+  },
+  {
+    "bib": "885746",
+    "titulo": "O Direito (SC) - 1926"
+  },
+  {
+    "bib": "885754",
+    "titulo": "O D. Quixote (SC) - 1918"
+  },
+  {
+    "bib": "885762",
+    "titulo": "O Domingo (SC) - 1921"
+  },
+  {
+    "bib": "885770",
+    "titulo": "O Echo da Serra (SC) - 1919"
+  },
+  {
+    "bib": "885789",
+    "titulo": "O Echo da Serra (SC) - 1885"
+  },
+  {
+    "bib": "885797",
+    "titulo": "O Éco (SC) - 1914"
+  },
+  {
+    "bib": "885800",
+    "titulo": "O Eco da Força (SC) - 1921"
+  },
+  {
+    "bib": "885819",
+    "titulo": "O Elegante (SC) - 1923 a 1925"
+  },
+  {
+    "bib": "885827",
+    "titulo": "Escolar (SC) - 1919"
+  },
+  {
+    "bib": "885835",
+    "titulo": "O Escolar (SC) - 1907 a 1908"
+  },
+  {
+    "bib": "885843",
+    "titulo": "O Escopro (SC) - 1906"
+  },
+  {
+    "bib": "885851",
+    "titulo": "O Escovado (SC) - 1906"
+  },
+  {
+    "bib": "885860",
+    "titulo": "O Escudo (SC) - 1908"
+  },
+  {
+    "bib": "885878",
+    "titulo": "Escudo (SC) - 1886"
+  },
+  {
+    "bib": "885886",
+    "titulo": "O Escudo (SC) - 1922 a 1927"
+  },
+  {
+    "bib": "885894",
+    "titulo": "O Espia (SC) - 1919 a 1921"
+  },
+  {
+    "bib": "885908",
+    "titulo": "O Espião (SC) - 1932"
+  },
+  {
+    "bib": "885916",
+    "titulo": "O Espião (SC) - 1917"
+  },
+  {
+    "bib": "885924",
+    "titulo": "O Espião (SC) - 1909"
+  },
+  {
+    "bib": "885932",
+    "titulo": "O Espião (SC) - 1929"
+  },
+  {
+    "bib": "885940",
+    "titulo": "O Espião (SC) - 1916"
+  },
+  {
+    "bib": "885967",
+    "titulo": "Caixa Auxiliar (SC) - 1927 a 1928"
+  },
+  {
+    "bib": "885975",
+    "titulo": "Canal Novo (SC) - 1989"
+  },
+  {
+    "bib": "885983",
+    "titulo": "Caridade (SC) - 1921"
+  },
+  {
+    "bib": "885991",
+    "titulo": "Cartas (SC) - 1857 a 1858"
+  },
+  {
+    "bib": "886009",
+    "titulo": "Caturra (SC) - 1884"
+  },
+  {
+    "bib": "886017",
+    "titulo": "Chaleira (SC) - 1912"
+  },
+  {
+    "bib": "886025",
+    "titulo": "Cicuta (SC) - 1947"
+  },
+  {
+    "bib": "886033",
+    "titulo": "Cidade de Blumenau (SC) - 1934"
+  },
+  {
+    "bib": "886041",
+    "titulo": "Cine -Semana (SC) - 1928"
+  },
+  {
+    "bib": "886050",
+    "titulo": "Cine - Teatro (SC) - 1929 a 1931"
+  },
+  {
+    "bib": "886068",
+    "titulo": "Clarim (SC) - 1886 a 1887"
+  },
+  {
+    "bib": "886076",
+    "titulo": "Clarim (SC) - 1920"
+  },
+  {
+    "bib": "886084",
+    "titulo": "Cobaia (SC) - 1993"
+  },
+  {
+    "bib": "886092",
+    "titulo": "Cock-Tail (SC) - 1922"
+  },
+  {
+    "bib": "886106",
+    "titulo": "Colibri (SC) - 1899"
+  },
+  {
+    "bib": "886114",
+    "titulo": "Collegial (SC) - 1884"
+  },
+  {
+    "bib": "886122",
+    "titulo": "Collegial (SC) - 1903"
+  },
+  {
+    "bib": "886130",
+    "titulo": "O Collegial (SC) - 1884"
+  },
+  {
+    "bib": "886149",
+    "titulo": "Colombo (SC) - 1881"
+  },
+  {
+    "bib": "886157",
+    "titulo": "Colonie Zeitung (SC) - 1865"
+  },
+  {
+    "bib": "886165",
+    "titulo": "Commercial (SC) -  1868"
+  },
+  {
+    "bib": "886173",
+    "titulo": "Commercio de Joinville (SC) - 1900 a 1913"
+  },
+  {
+    "bib": "886181",
+    "titulo": "Commercio, Industria e Lavoura (SC) - 1934"
+  },
+  {
+    "bib": "886190",
+    "titulo": "Commercial (SC) - 1894"
+  },
+  {
+    "bib": "886203",
+    "titulo": "Commercial (SC) - 1885 a 1886"
+  },
+  {
+    "bib": "886211",
+    "titulo": "Commercio de Blumenau (SC) - 1918"
+  },
+  {
+    "bib": "886220",
+    "titulo": "Commercio e Industria (SC) - 1921"
+  },
+  {
+    "bib": "886238",
+    "titulo": "Conciliador (SC) - 1835 a 1836"
+  },
+  {
+    "bib": "886246",
+    "titulo": "Constitucional (SC) - 1885 a 1886"
+  },
+  {
+    "bib": "886254",
+    "titulo": "Coqueiros (SC) - 1986"
+  },
+  {
+    "bib": "886262",
+    "titulo": "Correio Brusquense (SC) - 1938 a 1940"
+  },
+  {
+    "bib": "886270",
+    "titulo": "Correio da Manha (SC) - 1895"
+  },
+  {
+    "bib": "886289",
+    "titulo": "Correio da Serra (SC) - 1916"
+  },
+  {
+    "bib": "886297",
+    "titulo": "Correio da Tarde (SC) - 1884"
+  },
+  {
+    "bib": "886300",
+    "titulo": "Correio da Tarde (SC) - 1903"
+  },
+  {
+    "bib": "886319",
+    "titulo": "Correio da Tarde (SC) - 1934"
+  },
+  {
+    "bib": "886327",
+    "titulo": "Correio de Blumenau (SC) - 1932 a 1933"
+  },
+  {
+    "bib": "886335",
+    "titulo": "Correio de Joinville (SC) - 1921 a 1933"
+  },
+  {
+    "bib": "886343",
+    "titulo": "Correio de Lages (SC) - 1924 a 1929"
+  },
+  {
+    "bib": "886351",
+    "titulo": "Correio de Mafra (SC) - 1933"
+  },
+  {
+    "bib": "886360",
+    "titulo": "Correio de Papanduva (SC) - 1921"
+  },
+  {
+    "bib": "886378",
+    "titulo": "Correio de Timbó (SC) - 1934 a 1935"
+  },
+  {
+    "bib": "886378x",
+    "titulo": "Correio de Timbó (SC) - 1936"
+  },
+  {
+    "bib": "886386",
+    "titulo": "Correio do Brazil (SC) - 1895"
+  },
+  {
+    "bib": "886394",
+    "titulo": "Correio do Estado (SC) - 1934"
+  },
+  {
+    "bib": "886408",
+    "titulo": "Correio do Norte (SC) - 1947 a 2023"
+  },
+  {
+    "bib": "886416",
+    "titulo": "Correio do Norte (SC) - 1938"
+  },
+  {
+    "bib": "886424",
+    "titulo": "Correio do Norte (SC) - 1918"
+  },
+  {
+    "bib": "886432",
+    "titulo": "Correio do Norte (SC) - 1919"
+  },
+  {
+    "bib": "886440",
+    "titulo": "Correio do Povo (SC) - 1921 a 2014"
+  },
+  {
+    "bib": "886459",
+    "titulo": "Correio do Povo (SC) - 1904 a 1906"
+  },
+  {
+    "bib": "886467",
+    "titulo": "Correio do Sul (SC) - 1931 a 1946"
+  },
+  {
+    "bib": "886475",
+    "titulo": "Correio do Sul (SC) - 1926 a 1927"
+  },
+  {
+    "bib": "886483",
+    "titulo": "Correio de Joinville (SC) - 1921"
+  },
+  {
+    "bib": "886505",
+    "titulo": "Coruja (SC) - 1969"
+  },
+  {
+    "bib": "886513",
+    "titulo": "CPC - Curso Pratico de Comercio (SC) - 1920"
+  },
+  {
+    "bib": "886521",
+    "titulo": "O Crepusculo (SC) - 1887 a 1889"
+  },
+  {
+    "bib": "886530",
+    "titulo": "Critica (SC) - 1931 a 1932"
+  },
+  {
+    "bib": "886548",
+    "titulo": "Critico (SC) - 1885"
+  },
+  {
+    "bib": "886556",
+    "titulo": "O Estoque (SC) - 1909 a 1911"
+  },
+  {
+    "bib": "886564",
+    "titulo": "Cruzeiro (SC) - 1933"
+  },
+  {
+    "bib": "886572",
+    "titulo": "Cruzeiro do Sul (SC) - 1902 a 1904"
+  },
+  {
+    "bib": "886580",
+    "titulo": "Cultura (SC) - 1990 a 1991"
+  },
+  {
+    "bib": "886599",
+    "titulo": "Democrata (SC) - 1889"
+  },
+  {
+    "bib": "886602",
+    "titulo": "O Democrata (SC) - 1884"
+  },
+  {
+    "bib": "886610",
+    "titulo": "Der Kaiser (SC) - 1914"
+  },
+  {
+    "bib": "886629",
+    "titulo": "Der Kaiser (SC) - 1918"
+  },
+  {
+    "bib": "886637",
+    "titulo": "Der Hansabote (SC) - 1904 a 1913"
+  },
+  {
+    "bib": "886645",
+    "titulo": "Der Kolonist (SC) - 1921"
+  },
+  {
+    "bib": "886653",
+    "titulo": "Der Kolonist (SC) - 1853 a 1855"
+  },
+  {
+    "bib": "886661",
+    "titulo": "Der Mosquito (SC) - 1930 a 1935"
+  },
+  {
+    "bib": "886670",
+    "titulo": "Derurwaldsbote (SC) - 1896 a 1962"
+  },
+  {
+    "bib": "886688",
+    "titulo": "Der Wolksbote (SC) - 1902"
+  },
+  {
+    "bib": "886696",
+    "titulo": "Dez de Março (SC) - 1888"
+  },
+  {
+    "bib": "886700",
+    "titulo": "Dia e Noite (SC) - 1936 a 1940"
+  },
+  {
+    "bib": "886718",
+    "titulo": "Diário da Tarde (SC) - 1937 a 1948"
+  },
+  {
+    "bib": "886726",
+    "titulo": "Diario do Estado (SC) - 2001"
+  },
+  {
+    "bib": "886734",
+    "titulo": "Diario Oficial do Estado de Santa Catarina (SC) - 1934"
+  },
+  {
+    "bib": "886742",
+    "titulo": "Die Fackel (SC) - 1910"
+  },
+  {
+    "bib": "886750",
+    "titulo": "Die Frohliche Stunde (SC) - 1920 a 1956"
+  },
+  {
+    "bib": "886769",
+    "titulo": "Die Grune Hochzeits - Post (SC) - 1929 a 1940"
+  },
+  {
+    "bib": "886777",
+    "titulo": "Die Gurke (SC) - 1932 a 1935"
+  },
+  {
+    "bib": "886785",
+    "titulo": "Die Hochzeit (SC) - 1920"
+  },
+  {
+    "bib": "886793",
+    "titulo": "Die Miftgabel (SC) - 1934 a 1938"
+  },
+  {
+    "bib": "886807",
+    "titulo": "Die Quasselbude (SC) - 1932 a 1934"
+  },
+  {
+    "bib": "886815",
+    "titulo": "Die Rundfchau (SC) - 1928"
+  },
+  {
+    "bib": "886823",
+    "titulo": "Die Schnauze (SC) - 1920 a 1936"
+  },
+  {
+    "bib": "886831",
+    "titulo": "Die Verlorene Zeit (SC) - 1930"
+  },
+  {
+    "bib": "886840",
+    "titulo": "Die Volkszeitung (SC) - 1931"
+  },
+  {
+    "bib": "886858",
+    "titulo": "Die Wahrheit (SC) - 1956"
+  },
+  {
+    "bib": "886866",
+    "titulo": "Die Wespe (SC) - 1932 a 1937"
+  },
+  {
+    "bib": "886874",
+    "titulo": "Distracção (SC) - 1892"
+  },
+  {
+    "bib": "886882",
+    "titulo": "D. Quixote (SC) - 1918"
+  },
+  {
+    "bib": "886890",
+    "titulo": "Dum-Dum (SC) - 1914"
+  },
+  {
+    "bib": "886904",
+    "titulo": "Eça (SC) - 1932"
+  },
+  {
+    "bib": "886912",
+    "titulo": "Echo Lagunense (SC) - 1885 a 1888"
+  },
+  {
+    "bib": "886920",
+    "titulo": "Escola (SC) - 1928"
+  },
+  {
+    "bib": "886939",
+    "titulo": "O Escudo (SC) - 1886 a 1927"
+  },
+  {
+    "bib": "886947",
+    "titulo": "Espaço Cultural (SC) - 2006"
+  },
+  {
+    "bib": "886955",
+    "titulo": "Esporte (SC) - 1927"
+  },
+  {
+    "bib": "886963",
+    "titulo": "Estudante (SC) - 1883"
+  },
+  {
+    "bib": "886971",
+    "titulo": "Estudante (SC) - 1898"
+  },
+  {
+    "bib": "886980",
+    "titulo": "Etc e Tal (SC) - 2012"
+  },
+  {
+    "bib": "886998",
+    "titulo": "Evolução (SC) - 1887 a 1889"
+  },
+  {
+    "bib": "887005",
+    "titulo": "Evolução (SC) - 1901"
+  },
+  {
+    "bib": "887013",
+    "titulo": "Fanal (SC) - 1916"
+  },
+  {
+    "bib": "887021",
+    "titulo": "Faltnachts Zeitung (SC) - 1903 a 1906"
+  },
+  {
+    "bib": "887030",
+    "titulo": "Feira Livre (SC) - 1931"
+  },
+  {
+    "bib": "887048",
+    "titulo": "Fest - Zeitung (SC) - 1956"
+  },
+  {
+    "bib": "887056",
+    "titulo": "Festzeitung (SC) - 1917"
+  },
+  {
+    "bib": "887064",
+    "titulo": "Flamma Verde (SC) - 1937 a 1938"
+  },
+  {
+    "bib": "887072",
+    "titulo": "A Flecha (SC) - 1925"
+  },
+  {
+    "bib": "887080",
+    "titulo": "Folha Academica (SC) - 1929 a 1931"
+  },
+  {
+    "bib": "887099",
+    "titulo": "Folha Acadêmica (SC) - 1943 a 1952"
+  },
+  {
+    "bib": "887102",
+    "titulo": "Folha Academica (SC) - 1923 a 1924"
+  },
+  {
+    "bib": "887110",
+    "titulo": "Folha do Sul (SC) - 1930"
+  },
+  {
+    "bib": "887129",
+    "titulo": "Folha Nova (SC) - 1926 a 1929"
+  },
+  {
+    "bib": "887137",
+    "titulo": "Folha Rosea (SC) - 1915"
+  },
+  {
+    "bib": "887145",
+    "titulo": "Folha da Juventude (SC) - 1946 a 1947"
+  },
+  {
+    "bib": "887153",
+    "titulo": "Folha do Comércio (SC) - 1938"
+  },
+  {
+    "bib": "887161",
+    "titulo": "Folha do Commercio (SC) - 1909 a 1915"
+  },
+  {
+    "bib": "887188",
+    "titulo": "Folha do Sul (SC) - 1918"
+  },
+  {
+    "bib": "887196",
+    "titulo": "Folha Esportiva (SC) - 1933"
+  },
+  {
+    "bib": "887200",
+    "titulo": "Folha Livre (SC) - 1887"
+  },
+  {
+    "bib": "887218",
+    "titulo": "Folha Nova (SC) - 1933"
+  },
+  {
+    "bib": "887226",
+    "titulo": "Folha Nova (SC) - 1918"
+  },
+  {
+    "bib": "887234",
+    "titulo": "Futurista (SC) - 1927"
+  },
+  {
+    "bib": "887242",
+    "titulo": "Gazeta Brusquense (SC) - 1914 a 1927"
+  },
+  {
+    "bib": "887250",
+    "titulo": "Gazeta de Joinville (SC) - 1905 a 1912"
+  },
+  {
+    "bib": "887269",
+    "titulo": "Gazeta do Commercio (SC) - 1916"
+  },
+  {
+    "bib": "887277",
+    "titulo": "Gazeta do Commercio (SC) - 1916"
+  },
+  {
+    "bib": "887285",
+    "titulo": "Gazeta Orleanense (SC) - 1915"
+  },
+  {
+    "bib": "887293",
+    "titulo": "Gazeta Blumenauense (SC) - 1917"
+  },
+  {
+    "bib": "887307",
+    "titulo": "Gazeta Catharinense (SC) - 1908 a 1910"
+  },
+  {
+    "bib": "887315",
+    "titulo": "Gazeta de Itajahy (SC) - 1890"
+  },
+  {
+    "bib": "887323",
+    "titulo": "Gazeta de Itajahy (SC) - 1912 a 1914"
+  },
+  {
+    "bib": "887331",
+    "titulo": "Gazeta de Lages (SC) - 1895"
+  },
+  {
+    "bib": "887340",
+    "titulo": "Gazeta de Vallões (SC) - 1919"
+  },
+  {
+    "bib": "887358",
+    "titulo": "Gazeta de Itajahy (SC) - 1892"
+  },
+  {
+    "bib": "887366",
+    "titulo": "Gazeta de Natal (SC) - 1921 a 1922"
+  },
+  {
+    "bib": "887374",
+    "titulo": "Gazeta do Sul (SC) - 1890 e 1891"
+  },
+  {
+    "bib": "887382",
+    "titulo": "Gazeta do Sul (SC) - 1913"
+  },
+  {
+    "bib": "887390",
+    "titulo": "Gazeta Joaquinense (SC) - 1906 a 1911"
+  },
+  {
+    "bib": "887404",
+    "titulo": "Gazeta Joaquinense (SC) - 1906 a 1911"
+  },
+  {
+    "bib": "887412",
+    "titulo": "Gazeta Lagunense (SC) - 1993"
+  },
+  {
+    "bib": "887420",
+    "titulo": "Gazeta Official (SC) - 1905"
+  },
+  {
+    "bib": "887439",
+    "titulo": "Gazeta Popular (SC) - 1926 a 1929"
+  },
+  {
+    "bib": "887447",
+    "titulo": "Gilvaz (SC) - 1889"
+  },
+  {
+    "bib": "887455",
+    "titulo": "Goldenen Hochzeit (SC) - 1956"
+  },
+  {
+    "bib": "887463",
+    "titulo": "Gremio Tres de Maio (SC) - 1902"
+  },
+  {
+    "bib": "887471",
+    "titulo": "Hiram (SC) - 1900"
+  },
+  {
+    "bib": "887480",
+    "titulo": "Hochzeits - Klatsch (SC) - 1951"
+  },
+  {
+    "bib": "887498",
+    "titulo": "Hochzeitsfeier (SC) - 1956"
+  },
+  {
+    "bib": "887501",
+    "titulo": "Hochzeits - Gedenkblatt (SC) - 1914"
+  },
+  {
+    "bib": "887510",
+    "titulo": "Hochzeitskuchen (SC) - 1951"
+  },
+  {
+    "bib": "887528",
+    "titulo": "Hochzeits Zeitung (SC) - 1915 a 1969"
+  },
+  {
+    "bib": "887536",
+    "titulo": "Hochzeits - kladderadatsch (SC) - 1909 a 1957"
+  },
+  {
+    "bib": "887544",
+    "titulo": "Humoristika (SC) - 1923 a 1973"
+  },
+  {
+    "bib": "887552",
+    "titulo": "I.C.F (SC) - 1927"
+  },
+  {
+    "bib": "887560",
+    "titulo": "Il Colono (SC) - 1904"
+  },
+  {
+    "bib": "887579",
+    "titulo": "Ilha (SC) - 1965"
+  },
+  {
+    "bib": "887587",
+    "titulo": "Ilha Verde (SC) - 1930"
+  },
+  {
+    "bib": "887595",
+    "titulo": "Immigrant (SC) - 1891"
+  },
+  {
+    "bib": "887609",
+    "titulo": "Immigrant Wochenblatt (SC) - 1883"
+  },
+  {
+    "bib": "887617",
+    "titulo": "Imprensa (SC) - 1919 a 1924"
+  },
+  {
+    "bib": "887625",
+    "titulo": "A Imprensa (SC) - 1920 a 1926"
+  },
+  {
+    "bib": "887633",
+    "titulo": "Imprensa Official (SC) - 1918 a 1924"
+  },
+  {
+    "bib": "887641",
+    "titulo": "Independente (SC) - 1889"
+  },
+  {
+    "bib": "887650",
+    "titulo": "Informativo Schuler (SC) - 1984"
+  },
+  {
+    "bib": "887668",
+    "titulo": "Informativo Chapeco (SC) - 1989 a 1991"
+  },
+  {
+    "bib": "887676",
+    "titulo": "Informativo Nucleo de Estudos Catarinenses (SC) - 1988"
+  },
+  {
+    "bib": "887684",
+    "titulo": "Informe Celular (SC) - 1995"
+  },
+  {
+    "bib": "887692",
+    "titulo": "Ipiranga (SC) - 1915"
+  },
+  {
+    "bib": "887706",
+    "titulo": "Ipiranga (SC) - 1910 a 1913"
+  },
+  {
+    "bib": "887714",
+    "titulo": "Itajahy (SC) - 1884 a 1930"
+  },
+  {
+    "bib": "887722",
+    "titulo": "Jamais Sororoca (SC) - 1916"
+  },
+  {
+    "bib": "887730",
+    "titulo": "Jaraguá (SC) - 1928 a 1938"
+  },
+  {
+    "bib": "887749",
+    "titulo": "Jornal da Semana (SC) - 1921"
+  },
+  {
+    "bib": "887757",
+    "titulo": "Joinville Esportivo (SC) - 1926"
+  },
+  {
+    "bib": "887765",
+    "titulo": "Joinvillenser Zeitung (SC) - 1897 a 1919"
+  },
+  {
+    "bib": "887773",
+    "titulo": "O Municipio (SC) - 1892"
+  },
+  {
+    "bib": "887781",
+    "titulo": "O Estudante (SC) -1906"
+  },
+  {
+    "bib": "887790",
+    "titulo": "Jornal do Comercio (SC) - 1880 a 1894"
+  },
+  {
+    "bib": "887803",
+    "titulo": "Jornal Alfredo Wagner (SC) - 2010 a 2013"
+  },
+  {
+    "bib": "887811",
+    "titulo": "Jornal Capital das Nascentes (SC) - 2014 a 2016"
+  },
+  {
+    "bib": "887820",
+    "titulo": "Jornal da FAED (SC) - 1995 a 1997"
+  },
+  {
+    "bib": "887838",
+    "titulo": "Jornal da Semana (SC) - 1918"
+  },
+  {
+    "bib": "887846",
+    "titulo": "Jornal de Tijucas (SC) - 1916"
+  },
+  {
+    "bib": "887854",
+    "titulo": "Jornal do Beto (SC) - 1983"
+  },
+  {
+    "bib": "887862",
+    "titulo": "Jornal do Commercio (SC) - 1880 a 1894"
+  },
+  {
+    "bib": "887870",
+    "titulo": "Jornal do Povo : Orgão Independente (SC) - 1928"
+  },
+  {
+    "bib": "887889",
+    "titulo": "Jornal do Povo (SC) - 1905"
+  },
+  {
+    "bib": "887897",
+    "titulo": "Jornal do Povo : Orgam do Partido Republicano Catharinense (SC) - 1923 e 1924"
+  },
+  {
+    "bib": "887900",
+    "titulo": "Jornal dos Farmaceuticos (SC) - 1931"
+  },
+  {
+    "bib": "887919",
+    "titulo": "Jornal do Sinfusc (SC) - 1989 a 1991"
+  },
+  {
+    "bib": "887927",
+    "titulo": "Jornal Esportivo (SC) - 1932"
+  },
+  {
+    "bib": "887935",
+    "titulo": "JP Notícias (SC) - 1985 a 1986"
+  },
+  {
+    "bib": "887943",
+    "titulo": "Jupiter (SC) - 1885 a 1887"
+  },
+  {
+    "bib": "887951",
+    "titulo": "Kiriri (SC) - 1920"
+  },
+  {
+    "bib": "887960",
+    "titulo": "Kolonie Zeitung (SC) - 1872 a 1932"
+  },
+  {
+    "bib": "887978",
+    "titulo": "Kosmos (SC) - 1915 a 1918"
+  },
+  {
+    "bib": "887986",
+    "titulo": "L`Alpino (SC) - 1912"
+  },
+  {
+    "bib": "887994",
+    "titulo": "LA Patria (SC) - 1901"
+  },
+  {
+    "bib": "888001",
+    "titulo": "La Colonia (SC) - 1909 a 1912"
+  },
+  {
+    "bib": "888010",
+    "titulo": "Lageano (SC) - 1891"
+  },
+  {
+    "bib": "888028",
+    "titulo": "Laguna (SC) - 1889"
+  },
+  {
+    "bib": "888036",
+    "titulo": "La Nuova Urussanga (SC) - 1917"
+  },
+  {
+    "bib": "888044",
+    "titulo": "La Tribuna (SC) - 1932"
+  },
+  {
+    "bib": "888052",
+    "titulo": "Lauro Muller (SC) - 1902"
+  },
+  {
+    "bib": "888060",
+    "titulo": "Liberdade (SC) - 1890 a 1891"
+  },
+  {
+    "bib": "888079",
+    "titulo": "Liberdade (SC) - 1890"
+  },
+  {
+    "bib": "888087",
+    "titulo": "Lidador (SC) - 1902"
+  },
+  {
+    "bib": "888095",
+    "titulo": "Liga Operaria (SC) - 1900"
+  },
+  {
+    "bib": "888109",
+    "titulo": "O Estudante (SC) - 1885 a 1929"
+  },
+  {
+    "bib": "888117",
+    "titulo": "Lontraner Fastnachts - Anzeiger (SC) - 1932"
+  },
+  {
+    "bib": "888125",
+    "titulo": "L`operaio (SC) - 1896"
+  },
+  {
+    "bib": "888133",
+    "titulo": "Luz (SC) - 1919"
+  },
+  {
+    "bib": "888141",
+    "titulo": "Magnolia (SC) - 1905"
+  },
+  {
+    "bib": "888150",
+    "titulo": "Manhã (SC) - 1886"
+  },
+  {
+    "bib": "888176",
+    "titulo": "Matraca (SC) - 1887"
+  },
+  {
+    "bib": "888184",
+    "titulo": "Mensageiro (SC) - 1922"
+  },
+  {
+    "bib": "888192",
+    "titulo": "Mequetrefe (SC) - 1895"
+  },
+  {
+    "bib": "888206",
+    "titulo": "Mercurio (SC) - 1886"
+  },
+  {
+    "bib": "888249",
+    "titulo": "Movimento (SC) - 1968 a 1969"
+  },
+  {
+    "bib": "888257",
+    "titulo": "Municipio de Palhoça (SC) - 1921"
+  },
+  {
+    "bib": "888265",
+    "titulo": "Nossa Folha (SC) - 1946 a 1948"
+  },
+  {
+    "bib": "888273",
+    "titulo": "Nossa Terra (SC) - 1927"
+  },
+  {
+    "bib": "888281",
+    "titulo": "Nosso Jornal (SC) - 1937 a 1985"
+  },
+  {
+    "bib": "888290",
+    "titulo": "Nosso Jornal (SC) - 1950 a 1953"
+  },
+  {
+    "bib": "888303",
+    "titulo": "A Notícia (SC) - 1932"
+  },
+  {
+    "bib": "888311",
+    "titulo": "A Noticia : Hebdomadário (SC) - 1912"
+  },
+  {
+    "bib": "888320",
+    "titulo": "A Noticia : Jornal independente e noticioso (SC) - 1919 e 1920"
+  },
+  {
+    "bib": "888338",
+    "titulo": "Nova - Cruzada (SC) - 1918"
+  },
+  {
+    "bib": "888346",
+    "titulo": "Discursos (SC) - 1927"
+  },
+  {
+    "bib": "888354",
+    "titulo": "Instituto Techinico Commercial e Naval (SC) - 1953"
+  },
+  {
+    "bib": "888370",
+    "titulo": "O Estudante (SC) - 1959 a 1975"
+  },
+  {
+    "bib": "888389",
+    "titulo": "O Estudante (SC) - 1895"
+  },
+  {
+    "bib": "888397",
+    "titulo": "O Estudante (SC) - 1883 a 1885"
+  },
+  {
+    "bib": "888400",
+    "titulo": "O Estudante Orleanense (SC) - 1951 a 1973"
+  },
+  {
+    "bib": "888419",
+    "titulo": "O Estudante (SC) - 1929"
+  },
+  {
+    "bib": "888427",
+    "titulo": "O Estudante (SC) - 1907 a 1908"
+  },
+  {
+    "bib": "888435",
+    "titulo": "O Estudo (SC) - 1903"
+  },
+  {
+    "bib": "888443",
+    "titulo": "O Expositor (SC) - 1832 a 1833"
+  },
+  {
+    "bib": "888451",
+    "titulo": "O Facão (SC) - 1911"
+  },
+  {
+    "bib": "888460",
+    "titulo": "O Ferrão (SC) - 1927"
+  },
+  {
+    "bib": "888478",
+    "titulo": "O Ferrão (SC) - 1934"
+  },
+  {
+    "bib": "888486",
+    "titulo": "O Fiscal (SC) - 1925"
+  },
+  {
+    "bib": "888494",
+    "titulo": "O Fiscal (SC) - 1911 a 1912"
+  },
+  {
+    "bib": "888508",
+    "titulo": "O Florete (SC) - 1917"
+  },
+  {
+    "bib": "888516",
+    "titulo": "O Futuro (SC) - 1891 a 1900"
+  },
+  {
+    "bib": "888524",
+    "titulo": "O Garoto (SC) - 1920 a 1921"
+  },
+  {
+    "bib": "888532",
+    "titulo": "O Gasparense (SC) - 1923, 1929 e 1930"
+  },
+  {
+    "bib": "888540",
+    "titulo": "O Gato (SC) - 1899"
+  },
+  {
+    "bib": "888559",
+    "titulo": "O Globo (SC) - 1884"
+  },
+  {
+    "bib": "888567",
+    "titulo": "O Gymnasiano (SC) - 1932"
+  },
+  {
+    "bib": "888575",
+    "titulo": "O Ideal (SC) - 1906"
+  },
+  {
+    "bib": "888583",
+    "titulo": "O Ideal (SC) - 1913"
+  },
+  {
+    "bib": "888591",
+    "titulo": "O Idealista (SC) - 1945 a 1947"
+  },
+  {
+    "bib": "888605",
+    "titulo": "O Imparcial : Orgão dos interesses do município (SC) - 1915"
+  },
+  {
+    "bib": "888613",
+    "titulo": "O Imparcial : Orgão Independente (SC) - 1915 a 1916"
+  },
+  {
+    "bib": "888621",
+    "titulo": "O Imparcial : Orgam Popular Hebdomadário (SC) - 1901 a 1907"
+  },
+  {
+    "bib": "888630",
+    "titulo": "O Imparcial : Hebdomadário noticioso, recreativo e commercial (SC) - 1902 e 1903"
+  },
+  {
+    "bib": "888648",
+    "titulo": "O Independente (SC) - 1917"
+  },
+  {
+    "bib": "888656",
+    "titulo": "O Independente (SC) - 1917"
+  },
+  {
+    "bib": "888664",
+    "titulo": "O Independente (SC) - 1887 a 1889"
+  },
+  {
+    "bib": "888672",
+    "titulo": "O Independente (SC) - 1886 a 1889"
+  },
+  {
+    "bib": "888680",
+    "titulo": "O Independente (SC) - 1920 a 1921"
+  },
+  {
+    "bib": "888699",
+    "titulo": "O Intransigente (SC) - 1917 a 1921"
+  },
+  {
+    "bib": "888702",
+    "titulo": "O Iris (SC) - 1924 a 1926"
+  },
+  {
+    "bib": "888710",
+    "titulo": "O Jasmin (SC) - 1901 a 1902"
+  },
+  {
+    "bib": "888729",
+    "titulo": "O Josephense (SC) - 1926"
+  },
+  {
+    "bib": "888737",
+    "titulo": "O Joven (SC) - 1904"
+  },
+  {
+    "bib": "888745",
+    "titulo": "O Joven (SC) - 1902 a 1903"
+  },
+  {
+    "bib": "888753",
+    "titulo": "O Judas (SC) - 1919"
+  },
+  {
+    "bib": "888761",
+    "titulo": "O Judas (SC) - 1923"
+  },
+  {
+    "bib": "888770",
+    "titulo": "O Lageano (SC) - 1885"
+  },
+  {
+    "bib": "888788",
+    "titulo": "O Lageano (SC) - 1885"
+  },
+  {
+    "bib": "888796",
+    "titulo": "O Lageano (SC) - 1915 a 1917"
+  },
+  {
+    "bib": "888800",
+    "titulo": "O Lageano (SC) - 1886"
+  },
+  {
+    "bib": "888818",
+    "titulo": "O Lageano (SC) - 1885"
+  },
+  {
+    "bib": "888826",
+    "titulo": "O Lapis (SC) - 1923"
+  },
+  {
+    "bib": "888834",
+    "titulo": "O Lapis (SC) - 1918"
+  },
+  {
+    "bib": "888842",
+    "titulo": "O Lapis (SC) - 1917 a 1920"
+  },
+  {
+    "bib": "888850",
+    "titulo": "O Legalista (SC) - 1895"
+  },
+  {
+    "bib": "888869",
+    "titulo": "O Leque (SC) - 1916"
+  },
+  {
+    "bib": "888877",
+    "titulo": "O Léque (SC) - 1911"
+  },
+  {
+    "bib": "888885",
+    "titulo": "O Liberal (SC) - 1926"
+  },
+  {
+    "bib": "888893",
+    "titulo": "O Liberal (SC) - 1929"
+  },
+  {
+    "bib": "888907",
+    "titulo": "O Liberal (SC) - 1932 a 1937"
+  },
+  {
+    "bib": "888915",
+    "titulo": "O Liberal (SC) - 1929 a 1932"
+  },
+  {
+    "bib": "888923",
+    "titulo": "O Libertador  (SC) - 1910 a 1911"
+  },
+  {
+    "bib": "888931",
+    "titulo": "O Libertador (SC) - 1931 a 1936"
+  },
+  {
+    "bib": "888940",
+    "titulo": "O Litterato (SC) - 1914"
+  },
+  {
+    "bib": "888958",
+    "titulo": "O Livro (SC) - 1906"
+  },
+  {
+    "bib": "888966",
+    "titulo": "O Livro da Mocidade (SC) - 1881"
+  },
+  {
+    "bib": "888974",
+    "titulo": "O Luctador (SC) - 1920"
+  },
+  {
+    "bib": "888982",
+    "titulo": "O Lyrio (SC) - 1902 a 1903"
+  },
+  {
+    "bib": "888990",
+    "titulo": "O Mariano (SC) - 1945 a 1950"
+  },
+  {
+    "bib": "889008",
+    "titulo": "O Martello (SC) - 1916"
+  },
+  {
+    "bib": "889016",
+    "titulo": "O Martelo (SC) - 1904"
+  },
+  {
+    "bib": "889024",
+    "titulo": "O Martir (SC) - 1900"
+  },
+  {
+    "bib": "889032",
+    "titulo": "O Marujo (SC) - 1907 a 1908"
+  },
+  {
+    "bib": "889040",
+    "titulo": "O Mensageiro (SC) - 1905 a 1918"
+  },
+  {
+    "bib": "889059",
+    "titulo": "O Mercador (SC) - 1861"
+  },
+  {
+    "bib": "889067",
+    "titulo": "O Mercantil (SC) - 1869"
+  },
+  {
+    "bib": "889075",
+    "titulo": "O Mestre (SC) - 1937 a 1938"
+  },
+  {
+    "bib": "889083",
+    "titulo": "O Mez (SC) - 1907"
+  },
+  {
+    "bib": "889091",
+    "titulo": "O Miliciano (SC) - 1927 a 1928"
+  },
+  {
+    "bib": "889105",
+    "titulo": "O Mineiro (SC) - 1926"
+  },
+  {
+    "bib": "889113",
+    "titulo": "O Moleque (SC) - 1885"
+  },
+  {
+    "bib": "889121",
+    "titulo": "O Moleque (SC) - 1908"
+  },
+  {
+    "bib": "889130",
+    "titulo": "O Momento : Jornal de maior circulação no Contestado (SC) - 1916"
+  },
+  {
+    "bib": "889148",
+    "titulo": "O Momento (SC) - 1920"
+  },
+  {
+    "bib": "889164",
+    "titulo": "O Mosquito (SC) - 1927"
+  },
+  {
+    "bib": "889172",
+    "titulo": "O Movietone (SC) - 1931"
+  },
+  {
+    "bib": "889180",
+    "titulo": "O Municipio (SC) - 1923"
+  },
+  {
+    "bib": "889199",
+    "titulo": "O Municipio (SC) - 1923 a 1924"
+  },
+  {
+    "bib": "889202",
+    "titulo": "O Municipio (SC) - 1896"
+  },
+  {
+    "bib": "889210",
+    "titulo": "O Municipio (SC) - 1978 a 1979"
+  },
+  {
+    "bib": "889237",
+    "titulo": "O Municipio (SC) - 1929"
+  },
+  {
+    "bib": "889245",
+    "titulo": "O Municipio (SC) - 1903"
+  },
+  {
+    "bib": "889253",
+    "titulo": "O Municipio de Joinville (SC) - 1919"
+  },
+  {
+    "bib": "889261",
+    "titulo": "O Municipio (SC) - 1896"
+  },
+  {
+    "bib": "889270",
+    "titulo": "O Municipio (SC) - 1878 a 1879"
+  },
+  {
+    "bib": "889288",
+    "titulo": "O Municipio (SC) - 1912 a 1915"
+  },
+  {
+    "bib": "889296",
+    "titulo": "O Municipio (SC) - 1929 a 1930"
+  },
+  {
+    "bib": "889300",
+    "titulo": "O Municipio (SC) - 1929"
+  },
+  {
+    "bib": "889318",
+    "titulo": "O Nacional (SC) - 1918 e 1919"
+  },
+  {
+    "bib": "889326",
+    "titulo": "O Nené (SC) - 1918"
+  },
+  {
+    "bib": "889334",
+    "titulo": "O Netto (SC) - 1898"
+  },
+  {
+    "bib": "889342",
+    "titulo": "O Novidades (SC) - 1904 a 1922"
+  },
+  {
+    "bib": "889350",
+    "titulo": "O Olho (SC) - 1916"
+  },
+  {
+    "bib": "889369",
+    "titulo": "O Olho (SC) - 1916"
+  },
+  {
+    "bib": "889377",
+    "titulo": "O Olho (SC) - 1916"
+  },
+  {
+    "bib": "889385",
+    "titulo": "O Operario (SC) - 1881"
+  },
+  {
+    "bib": "889393",
+    "titulo": "O Orientador (SC) - 1923"
+  },
+  {
+    "bib": "889407",
+    "titulo": "O Pacaja (SC) - 1862"
+  },
+  {
+    "bib": "889415",
+    "titulo": "O Palhaço (SC) - 1916"
+  },
+  {
+    "bib": "889423",
+    "titulo": "O Palhaço (SC) - 1902"
+  },
+  {
+    "bib": "889431",
+    "titulo": "O Palhaço (SC) - 1916"
+  },
+  {
+    "bib": "889458",
+    "titulo": "O Papagaio (SC) - 1900"
+  },
+  {
+    "bib": "889466",
+    "titulo": "O Parafuso (SC) - 1916"
+  },
+  {
+    "bib": "889474",
+    "titulo": "O Parafuso (SC) - 1915"
+  },
+  {
+    "bib": "889482",
+    "titulo": "O Patriota (SC) - 1875"
+  },
+  {
+    "bib": "889490",
+    "titulo": "O Péga-Tudo (SC) - 1918"
+  },
+  {
+    "bib": "889504",
+    "titulo": "O Peixinho (SC) - 1988"
+  },
+  {
+    "bib": "889512",
+    "titulo": "O Pequeno Escolar (SC) - 1950"
+  },
+  {
+    "bib": "889520",
+    "titulo": "O Peru (SC) - 1931"
+  },
+  {
+    "bib": "889539",
+    "titulo": "O Petardo (SC) - 1913"
+  },
+  {
+    "bib": "889547",
+    "titulo": "O Pharol (SC) - 1919"
+  },
+  {
+    "bib": "889555",
+    "titulo": "O Picolé (SC) - 1931"
+  },
+  {
+    "bib": "889563",
+    "titulo": "O Pingo (SC) - 1918"
+  },
+  {
+    "bib": "889571",
+    "titulo": "O Planalto (SC) - 1909"
+  },
+  {
+    "bib": "889580",
+    "titulo": "O Planalto (SC) - 1917 a 1924"
+  },
+  {
+    "bib": "889598",
+    "titulo": "Planalto (SC) - 1944"
+  },
+  {
+    "bib": "889601",
+    "titulo": "O Ponto (SC) - 1920"
+  },
+  {
+    "bib": "889610",
+    "titulo": "O Popular (SC) - 1932"
+  },
+  {
+    "bib": "889628",
+    "titulo": "O Prelo (SC) - 1914"
+  },
+  {
+    "bib": "889636",
+    "titulo": "O Progresso (SC) - 1880"
+  },
+  {
+    "bib": "889644",
+    "titulo": "O Progresso (SC) - 1929 a 1932"
+  },
+  {
+    "bib": "889652",
+    "titulo": "O Progresso (SC) - 1905"
+  },
+  {
+    "bib": "889660",
+    "titulo": "O Progresso (SC) - 1921"
+  },
+  {
+    "bib": "889679",
+    "titulo": "O Progresso (SC) -1917"
+  },
+  {
+    "bib": "889687",
+    "titulo": "O Pyrilampo (SC) - 1919"
+  },
+  {
+    "bib": "889695",
+    "titulo": "O Pyrilampo (SC) - 1861 a 1864"
+  },
+  {
+    "bib": "889709",
+    "titulo": "O Q.C.V. (SC) - 1932"
+  },
+  {
+    "bib": "889717",
+    "titulo": "O Raio (SC) - 1921"
+  },
+  {
+    "bib": "889733",
+    "titulo": "O Reboque (SC) - 1930"
+  },
+  {
+    "bib": "889741",
+    "titulo": "O Redator (SC) - 1984 a 1985"
+  },
+  {
+    "bib": "889750",
+    "titulo": "O Relator Catharinense (SC) - 1845"
+  },
+  {
+    "bib": "889768",
+    "titulo": "O Reporter (SC) - 1896 a 1897"
+  },
+  {
+    "bib": "889792",
+    "titulo": "O Ronco (SC) - 1896"
+  },
+  {
+    "bib": "889806",
+    "titulo": "O Ronco (SC) - 1902"
+  },
+  {
+    "bib": "889814",
+    "titulo": "O Semeador (SC) - 1938"
+  },
+  {
+    "bib": "889822",
+    "titulo": "O Sertanejo (SC) - 1921"
+  },
+  {
+    "bib": "889830",
+    "titulo": "O Sol (SC) - 1901 a 1909"
+  },
+  {
+    "bib": "889849",
+    "titulo": "O Sport (SC) - 1919"
+  },
+  {
+    "bib": "889857",
+    "titulo": "Sul (SC) - 1889 a 1890"
+  },
+  {
+    "bib": "889865",
+    "titulo": "O Sul (SC) - 1896"
+  },
+  {
+    "bib": "889873",
+    "titulo": "O Sulino (SC) - 1926"
+  },
+  {
+    "bib": "889881",
+    "titulo": "O Tempo (SC) - 1950 a 1953"
+  },
+  {
+    "bib": "889890",
+    "titulo": "O Tempo (SC) - 1933"
+  },
+  {
+    "bib": "889903",
+    "titulo": "O Tempo (SC) - 1921"
+  },
+  {
+    "bib": "889911",
+    "titulo": "O Tempo (SC) - 1925 a 1926"
+  },
+  {
+    "bib": "889920",
+    "titulo": "O Tição (SC) - 1915"
+  },
+  {
+    "bib": "889938",
+    "titulo": "O Til (SC) - 1874 a 1875"
+  },
+  {
+    "bib": "889946",
+    "titulo": "O Timoneiro do Norte (SC) - 1917"
+  },
+  {
+    "bib": "889954",
+    "titulo": "O Trabalho (SC) - 1888"
+  },
+  {
+    "bib": "889962",
+    "titulo": "O Trabalho (SC) - 1907 a 1912"
+  },
+  {
+    "bib": "889970",
+    "titulo": "O Trabalho (SC) - 1932"
+  },
+  {
+    "bib": "889989",
+    "titulo": "O Trabalho (SC) - 1881 a 1884"
+  },
+  {
+    "bib": "889997",
+    "titulo": "O Trabalho (SC) - 1888 a 1889"
+  },
+  {
+    "bib": "890006",
+    "titulo": "O Trabalho (SC) - 1937"
+  },
+  {
+    "bib": "890014",
+    "titulo": "O Triunfador (SC) - 1937"
+  },
+  {
+    "bib": "890065",
+    "titulo": "O Trovão (SC) - 1899"
+  },
+  {
+    "bib": "890111",
+    "titulo": "O Tubaronense (SC) - 1906 a 1909"
+  },
+  {
+    "bib": "890162",
+    "titulo": "O Tubaronense (SC) - 1902 a 1903"
+  },
+  {
+    "bib": "890219",
+    "titulo": "O Typographo (SC) - 1872"
+  },
+  {
+    "bib": "890260",
+    "titulo": "O Typographo (SC) - 1911"
+  },
+  {
+    "bib": "890286",
+    "titulo": "Pobres e Nojentas (SC) - 2006 a 2013"
+  },
+  {
+    "bib": "890316",
+    "titulo": "O Typographo (SC) - 1872"
+  },
+  {
+    "bib": "890332",
+    "titulo": "O Pharol de Itajahy (SC) - 1904 a 1930"
+  },
+  {
+    "bib": "890367",
+    "titulo": "O Vagido (SC) - 1911"
+  },
+  {
+    "bib": "890413",
+    "titulo": "O Vicentino (SC) - 1939 a 1940"
+  },
+  {
+    "bib": "890464",
+    "titulo": "O Vigilante (SC) - 1887"
+  },
+  {
+    "bib": "890480",
+    "titulo": "Hora H (SC) - 1980 a 1998"
+  },
+  {
+    "bib": "890510",
+    "titulo": "Oasis (SC) - 1918"
+  },
+  {
+    "bib": "890561",
+    "titulo": "Oh! Ferro!! (SC) - 1901"
+  },
+  {
+    "bib": "890588",
+    "titulo": "AMSAL Notícias (SC) - 1998 a 2004"
+  },
+  {
+    "bib": "890618",
+    "titulo": "Operario (SC) - 1900 a 1904"
+  },
+  {
+    "bib": "890634",
+    "titulo": "Bom Dia Domingo (SC) - 1976 a 1979"
+  },
+  {
+    "bib": "890669",
+    "titulo": "Opinião Catharinense (SC) - 1874 a 1875"
+  },
+  {
+    "bib": "890685",
+    "titulo": "Linha Viva : Jornal Eletricitário (SC) - 1988 a 1997"
+  },
+  {
+    "bib": "890715",
+    "titulo": "Oriente (SC) - 1911 a 1915"
+  },
+  {
+    "bib": "890766",
+    "titulo": "O Tiro Catharinense (SC) - 1904"
+  },
+  {
+    "bib": "890812",
+    "titulo": "O Trovão (SC) - 1890"
+  },
+  {
+    "bib": "890863",
+    "titulo": "O Vigilante (SC) - 1901"
+  },
+  {
+    "bib": "890910",
+    "titulo": "Palavra (SC) - 1888 a 1934"
+  },
+  {
+    "bib": "890960",
+    "titulo": "Patria (SC) - 1893 a 1986"
+  },
+  {
+    "bib": "891010",
+    "titulo": "Pelos Campos (SC) - 1931"
+  },
+  {
+    "bib": "891061",
+    "titulo": "Penna, Agulha e Colher (SC) - 1917 a 1919"
+  },
+  {
+    "bib": "891118",
+    "titulo": "Petit Louvre (SC) - 1924"
+  },
+  {
+    "bib": "891215",
+    "titulo": "Pharol (SC) - 1891 a 1892"
+  },
+  {
+    "bib": "891266",
+    "titulo": "O Pharol (SC) - 1892"
+  },
+  {
+    "bib": "891312",
+    "titulo": "Plataforma (SC) - 1998"
+  },
+  {
+    "bib": "891363",
+    "titulo": "Polyanthéa (SC) - 1889"
+  },
+  {
+    "bib": "891410",
+    "titulo": "Polyanthéa (SC) - 1905"
+  },
+  {
+    "bib": "891460",
+    "titulo": "Polyanthéa (SC) - 1906 a 1919"
+  },
+  {
+    "bib": "891517",
+    "titulo": "Por Santa Catarina (SC) - 1934"
+  },
+  {
+    "bib": "891568",
+    "titulo": "Porta-Voz (SC) - 1912"
+  },
+  {
+    "bib": "891614",
+    "titulo": "Porvir (SC) - 1885 a 1887"
+  },
+  {
+    "bib": "891673",
+    "titulo": "Revista Jornal das Praias (SC) - 1964"
+  },
+  {
+    "bib": "891711",
+    "titulo": "Primeiro de Maio (SC) - 1904"
+  },
+  {
+    "bib": "891720",
+    "titulo": "Jornal O Município (SC) - 2005 a 2019"
+  },
+  {
+    "bib": "891762",
+    "titulo": "Professor (SC) - 1889"
+  },
+  {
+    "bib": "891770",
+    "titulo": "A Agricultura (SC) - 1935 a 1936"
+  },
+  {
+    "bib": "891819",
+    "titulo": "Progresso (SC) - 1899 a 1902"
+  },
+  {
+    "bib": "891827",
+    "titulo": "A Comarca (SC) - 1919"
+  },
+  {
+    "bib": "891860",
+    "titulo": "Provincia (SC) - 1882"
+  },
+  {
+    "bib": "891878",
+    "titulo": "A Época (SC) - 1936"
+  },
+  {
+    "bib": "891916",
+    "titulo": "Pua (SC) - 1931"
+  },
+  {
+    "bib": "891924",
+    "titulo": "A Ordem (SC) - 1930"
+  },
+  {
+    "bib": "891967",
+    "titulo": "Quebra Nozes (SC) - 1905"
+  },
+  {
+    "bib": "891975",
+    "titulo": "Folha do Povo (SC) - 1935 a 1936"
+  },
+  {
+    "bib": "892017",
+    "titulo": "Reforma (SC) - 1905 a 1906"
+  },
+  {
+    "bib": "892025",
+    "titulo": "Boletim da Diretoria de Instrucção Pública (SC) - 1934"
+  },
+  {
+    "bib": "892068",
+    "titulo": "A Regeneração (SC) - 1868 a 1901"
+  },
+  {
+    "bib": "892076",
+    "titulo": "Jornal do Povo : Orgão Independente e Noticioso (SC) - 1935 a 1936"
+  },
+  {
+    "bib": "892114",
+    "titulo": "Regiao Serrana (SC) - 1897"
+  },
+  {
+    "bib": "892122",
+    "titulo": "Lutas da Maioria (SC) - 1983 a 1986"
+  },
+  {
+    "bib": "892165",
+    "titulo": "Região Serrana (SC) - 1937"
+  },
+  {
+    "bib": "892173",
+    "titulo": "O Agricultor (SC) - 1928 a 1936"
+  },
+  {
+    "bib": "892211",
+    "titulo": "Registro em Letras e Fotos (SC) - 1970"
+  },
+  {
+    "bib": "892220",
+    "titulo": "O Commercio (SC) - 1931 a 1932"
+  },
+  {
+    "bib": "892262",
+    "titulo": "Renovação (SC) - 1931"
+  },
+  {
+    "bib": "892270",
+    "titulo": "O Conciliador (SC) - 1929"
+  },
+  {
+    "bib": "892319",
+    "titulo": "Republica (SC) - 1889 a 1937"
+  },
+  {
+    "bib": "892360",
+    "titulo": "Retoques (SC) - 1996"
+  },
+  {
+    "bib": "892416",
+    "titulo": "Revista Catharinense (SC) - 1914"
+  },
+  {
+    "bib": "892467",
+    "titulo": "Revista Comercial (SC) - 1893"
+  },
+  {
+    "bib": "892513",
+    "titulo": "Revista de Educação (SC) - 1936 a 1937"
+  },
+  {
+    "bib": "892564",
+    "titulo": "Revista Illustrada (SC) - 1919"
+  },
+  {
+    "bib": "892610",
+    "titulo": "Revista Academica (SC) - 1920"
+  },
+  {
+    "bib": "892661",
+    "titulo": "Revista Catharinense (SC) - 1900"
+  },
+  {
+    "bib": "892718",
+    "titulo": "Revista da Época (SC) - 1928"
+  },
+  {
+    "bib": "892769",
+    "titulo": "Revista de Santa Catharina (SC) - 1895 a 1896"
+  },
+  {
+    "bib": "892815",
+    "titulo": "Revista do Ensino Primario (SC) - 1922"
+  },
+  {
+    "bib": "892866",
+    "titulo": "Revista do Centro Catharinense de Letras (SC) - 1925"
+  },
+  {
+    "bib": "892912",
+    "titulo": "Revista do Comercio  (SC) - 1932"
+  },
+  {
+    "bib": "892920",
+    "titulo": "Daqui Jornal (SC) - 2010 a 2018"
+  },
+  {
+    "bib": "892963",
+    "titulo": "Revista do Commercio (SC) - 1929"
+  },
+  {
+    "bib": "893013",
+    "titulo": "Instituto Techinico Commercial e Naval (SC)"
+  },
+  {
+    "bib": "893064",
+    "titulo": "Salve! Frederico Rolla (SC) - 1918"
+  },
+  {
+    "bib": "893110",
+    "titulo": "Salve Rainha (SC) - 1930"
+  },
+  {
+    "bib": "893161",
+    "titulo": "Santa Catharina (SC) - 1921"
+  },
+  {
+    "bib": "893170",
+    "titulo": "Blumenauer-Zeitung (SC) - 1882 a 1891"
+  },
+  {
+    "bib": "893218",
+    "titulo": "São José (SC) - 1919"
+  },
+  {
+    "bib": "893269",
+    "titulo": "Schutzenliesel (SC)"
+  },
+  {
+    "bib": "893277",
+    "titulo": "Mitteilungen (SC) - 1906 a 1921"
+  },
+  {
+    "bib": "893315",
+    "titulo": "Sciencia (SC) - 1925"
+  },
+  {
+    "bib": "893323",
+    "titulo": "O Colored (SC) - 1962"
+  },
+  {
+    "bib": "893366",
+    "titulo": "Sete de Julho (SC) - 1901 a 1903"
+  },
+  {
+    "bib": "893374",
+    "titulo": "O Kings (SC) - 1963"
+  },
+  {
+    "bib": "893412",
+    "titulo": "Sete de Setembro (SC) - 1922"
+  },
+  {
+    "bib": "893420",
+    "titulo": "O Ferroviário (SC) - 1959 e 1960"
+  },
+  {
+    "bib": "893463",
+    "titulo": "7 de Setembro (SC) - 1915"
+  },
+  {
+    "bib": "893510",
+    "titulo": "Sete de Setembro (SC) - 1906"
+  },
+  {
+    "bib": "893560",
+    "titulo": "Sineta do Ceo (SC) - 1903"
+  },
+  {
+    "bib": "893617",
+    "titulo": "Sonnta Gsblatt (SC) - 1898 a 1906"
+  },
+  {
+    "bib": "893668",
+    "titulo": "Só ... Rindo (SC) - 1931"
+  },
+  {
+    "bib": "893714",
+    "titulo": "Sudarm-Glocken (SC) - 1929"
+  },
+  {
+    "bib": "893765",
+    "titulo": "Sul Americano (SC) - 1899 a 1904"
+  },
+  {
+    "bib": "893862",
+    "titulo": "Tafellieder (SC) - 1956"
+  },
+  {
+    "bib": "893919",
+    "titulo": "Terra Bemdita (SC) - 1930"
+  },
+  {
+    "bib": "893960",
+    "titulo": "Terra Catharinense (SC) - 1919"
+  },
+  {
+    "bib": "894010",
+    "titulo": "Terra Ideal (SC) - 1923"
+  },
+  {
+    "bib": "894060",
+    "titulo": "Terra Livre (SC) - 1918 a 1919"
+  },
+  {
+    "bib": "894079",
+    "titulo": "Folha Catarinense (SC) - 1963 a 1964"
+  },
+  {
+    "bib": "894117",
+    "titulo": "Terra Livre (SC) - 1931"
+  },
+  {
+    "bib": "894125",
+    "titulo": "O Pescador (SC) - 1922"
+  },
+  {
+    "bib": "894168",
+    "titulo": "Terra Tijuquense (SC) - 1922"
+  },
+  {
+    "bib": "894176",
+    "titulo": "Colônia de Pescadores Z-2 (SC) - 1923"
+  },
+  {
+    "bib": "894214",
+    "titulo": "Tesourão (SC) - 1909"
+  },
+  {
+    "bib": "894222",
+    "titulo": "A Criança Brasileira (SC) - 1942 a 1968"
+  },
+  {
+    "bib": "894265",
+    "titulo": "Teutonia Faschingsnummer (SC) - 1904"
+  },
+  {
+    "bib": "894273",
+    "titulo": "Jornal do Estudante (SC) - 1982"
+  },
+  {
+    "bib": "894311",
+    "titulo": "Thesoura (SC) - 1893"
+  },
+  {
+    "bib": "894320",
+    "titulo": "O Trivial (SC) - 1917"
+  },
+  {
+    "bib": "894362",
+    "titulo": "Tom-Pouce (SC) - 1928"
+  },
+  {
+    "bib": "894370",
+    "titulo": "Unidade (SC) - 1956 a 1959"
+  },
+  {
+    "bib": "894419",
+    "titulo": "Trabalho (SC) - 1883"
+  },
+  {
+    "bib": "894460",
+    "titulo": "Tribuna do Povo (SC) - 1914"
+  },
+  {
+    "bib": "894516",
+    "titulo": "Tribuna Popular (SC) - 1880 a 1925"
+  },
+  {
+    "bib": "894567",
+    "titulo": "Tubaronense (SC) - 1923 a 1924"
+  },
+  {
+    "bib": "894613",
+    "titulo": "Typographo (SC) - 1888"
+  },
+  {
+    "bib": "894664",
+    "titulo": "Ulk (SC) - 1930"
+  },
+  {
+    "bib": "894710",
+    "titulo": "União Brasileira (SC) - 1895"
+  },
+  {
+    "bib": "894761",
+    "titulo": "União Conservadora (SC) - 1889"
+  },
+  {
+    "bib": "894818",
+    "titulo": "União (SC) - 1899 a 1900"
+  },
+  {
+    "bib": "894826",
+    "titulo": "Gazeta do Vale (SC) - 1974 a 1990"
+  },
+  {
+    "bib": "894869",
+    "titulo": "Vanguarda (SC) - 1928 a 1930"
+  },
+  {
+    "bib": "894877",
+    "titulo": "Cruzeiro do Vale (SC) - 1990 a 2020"
+  },
+  {
+    "bib": "894915",
+    "titulo": "Vanguarda (SC) - 1907"
+  },
+  {
+    "bib": "894923",
+    "titulo": "A Voz de Gaspar (SC) - 1953 a 1956"
+  },
+  {
+    "bib": "894966",
+    "titulo": "Vanguarda (SC) - 1933"
+  },
+  {
+    "bib": "894974",
+    "titulo": "O Amigão (SC) - 1972 a 2004"
+  },
+  {
+    "bib": "895016",
+    "titulo": "A Vanguarda : Orgão do Partido Liberal em Laguna (SC) - 1934"
+  },
+  {
+    "bib": "895067",
+    "titulo": "Vanguarda (SC) - 1932"
+  },
+  {
+    "bib": "895075",
+    "titulo": "Contestado (SC) - 1978"
+  },
+  {
+    "bib": "895113",
+    "titulo": "A Vanguarda : Orgão dos interesses do Municipio (SC) - 1918"
+  },
+  {
+    "bib": "895121",
+    "titulo": "Correio (SC) - 1982"
+  },
+  {
+    "bib": "895164",
+    "titulo": "Vanguarda (SC) - 1897"
+  },
+  {
+    "bib": "895172",
+    "titulo": "Educação Afro (SC) - 1995,1996,1998 e 2000"
+  },
+  {
+    "bib": "895210",
+    "titulo": "Vera-Cruz (SC) - 1922"
+  },
+  {
+    "bib": "895229",
+    "titulo": "Fala,  PMDB (SC) - 1988"
+  },
+  {
+    "bib": "895261",
+    "titulo": "Verdade (SC) - 1903 a 1904"
+  },
+  {
+    "bib": "895270",
+    "titulo": "Jornal do Zinga (SC) - 2021"
+  },
+  {
+    "bib": "895318",
+    "titulo": "Via Lateral (SC) - 2017 a 2023"
+  },
+  {
+    "bib": "895326",
+    "titulo": "Jornal Notícias do Estreito (SC) - 2012"
+  },
+  {
+    "bib": "895369",
+    "titulo": "Vida Futura (SC) - 1912 a 1915"
+  },
+  {
+    "bib": "895377",
+    "titulo": "L`Amico (SC) - 1913"
+  },
+  {
+    "bib": "895415",
+    "titulo": "Vin Licft (SC) - 1904"
+  },
+  {
+    "bib": "895423",
+    "titulo": "Mudança (SC) - 1982"
+  },
+  {
+    "bib": "895466",
+    "titulo": "Vita Coloniale (SC) - 1917 a 1918"
+  },
+  {
+    "bib": "895474",
+    "titulo": "Os Pioneiros (SC) - 1986"
+  },
+  {
+    "bib": "895512",
+    "titulo": "Volksstaat (SC) - 1891"
+  },
+  {
+    "bib": "895520",
+    "titulo": "PCB é Legal (SC) - 1985"
+  },
+  {
+    "bib": "895563",
+    "titulo": "Volks Zeitung (SC) - 1909 a 1919"
+  },
+  {
+    "bib": "895571",
+    "titulo": "Transparência (SC) - 2003"
+  },
+  {
+    "bib": "895610",
+    "titulo": "Voz da Verdade (SC) - 1869 a 1870"
+  },
+  {
+    "bib": "895628",
+    "titulo": "Voz da Transparência (SC) - 1979"
+  },
+  {
+    "bib": "895679",
+    "titulo": "Escudo (SC) - 1923"
+  },
+  {
+    "bib": "895717",
+    "titulo": "Xapecó (SC) - 1892"
+  },
+  {
+    "bib": "895725",
+    "titulo": "Commércio e Indústria (SC) - 1921 a 1926"
+  },
+  {
+    "bib": "895768",
+    "titulo": "XXIX de Maio (SC) - 1920"
+  },
+  {
+    "bib": "895776",
+    "titulo": "Cooperalfa (SC) - 2022"
+  },
+  {
+    "bib": "895814",
+    "titulo": "Zafellied (SC) - 1937"
+  },
+  {
+    "bib": "895822",
+    "titulo": "Crepúsculo (SC) - 1888"
+  },
+  {
+    "bib": "895865",
+    "titulo": "Zé Pereira (SC)"
+  },
+  {
+    "bib": "895873",
+    "titulo": "Em Cena (SC) - 2012 a 2013"
+  },
+  {
+    "bib": "895911",
+    "titulo": "Zero (SC) - 1982 a 2018"
+  },
+  {
+    "bib": "895920",
+    "titulo": "Jornal do Bloco da Pracinha (SC) - 1994 a 1995"
+  },
+  {
+    "bib": "895962",
+    "titulo": "Polyanthea (SC) - 1919"
+  },
+  {
+    "bib": "895970",
+    "titulo": "Notícias Culturais (SC) - 1971 a 1973"
+  },
+  {
+    "bib": "896012",
+    "titulo": "Primeiro Livro de Leitura (SC) - 1945"
+  },
+  {
+    "bib": "896020",
+    "titulo": "O Corujão (SC) - 1977"
+  },
+  {
+    "bib": "896063",
+    "titulo": "Republica (SC) - 1900 a 1934"
+  },
+  {
+    "bib": "896071",
+    "titulo": "O Esportista (SC) - 1988"
+  },
+  {
+    "bib": "896128",
+    "titulo": "O Progresso (SC) - 1932"
+  },
+  {
+    "bib": "896721",
+    "titulo": "Farrapos (SC) - 1946 a 1949"
+  },
+  {
+    "bib": "896772",
+    "titulo": "Ofício Circular do Diretório Acadêmico do Centro de Estudos Básicos UFSC (SC) - 1975"
+  },
+  {
+    "bib": "896870",
+    "titulo": "Jornal Metas (SC) - 2000 a 2023"
+  },
+  {
+    "bib": "896926",
+    "titulo": "Casamentos Alemães (SC) - 1890 a 1985"
+  },
+  {
+    "bib": "896977",
+    "titulo": "Folha de Coqueiros (SC) - 1995 a 2020"
+  },
+  {
+    "bib": "897027",
+    "titulo": "Folha Sindical (SC) - 1993"
+  },
+  {
+    "bib": "897078",
+    "titulo": "Dando Conta do Recado (SC) - 1996"
+  },
+  {
+    "bib": "897426",
+    "titulo": "Parque de Coqueiros (SC) - 2006"
+  },
+  {
+    "bib": "897477",
+    "titulo": "A Escolha Certa (SC) - 1988"
+  },
+  {
+    "bib": "897523",
+    "titulo": "A Imprensa (SC) - 1924"
+  },
+  {
+    "bib": "897574",
+    "titulo": "A Sogra : Jornal Independente, dedicado a mocidade (SC) - 1932"
+  },
+  {
+    "bib": "897620",
+    "titulo": "A União (SC) - 1926"
+  },
+  {
+    "bib": "897671",
+    "titulo": "A Vanguarda (SC) - 1966"
+  },
+  {
+    "bib": "897728",
+    "titulo": "Abertura (SC) - 1982"
+  },
+  {
+    "bib": "897779",
+    "titulo": "Comunidade e Ação (SC) - 2003"
+  },
+  {
+    "bib": "897825",
+    "titulo": "Correio do Vale (SC) - 1966"
+  },
+  {
+    "bib": "897876",
+    "titulo": "O Cruzeiro : Semanario Catholico Independente (SC) 1923"
+  },
+  {
+    "bib": "897922",
+    "titulo": "O Ferro Velho (SC) - 1946"
+  },
+  {
+    "bib": "897973",
+    "titulo": "Folha de Porto Belo (SC) - 1994"
+  },
+  {
+    "bib": "898023",
+    "titulo": "Galera : para quem não fica à margem da história (SC) - 2001"
+  },
+  {
+    "bib": "898074",
+    "titulo": "Jornal do Paraty : Semanario Noticioso (SC) - 1928"
+  },
+  {
+    "bib": "898120",
+    "titulo": "Jornal do Riso (SC) - 2000"
+  },
+  {
+    "bib": "898171",
+    "titulo": "Metropolitano (SC) - 1997"
+  },
+  {
+    "bib": "898228",
+    "titulo": "Muda Brasil (SC) - 1985"
+  },
+  {
+    "bib": "898279",
+    "titulo": "Mudar Prá Ganhar (SC) - 1982"
+  },
+  {
+    "bib": "898325",
+    "titulo": "Nossa Luta Continua (SC) - 1984"
+  },
+  {
+    "bib": "898376",
+    "titulo": "O Açor (SC) - 1999"
+  },
+  {
+    "bib": "898422",
+    "titulo": "O Binócolu (SC) - 1936"
+  },
+  {
+    "bib": "898473",
+    "titulo": "O Espião : Orgam crítico e noticioso (SC) - 1925"
+  },
+  {
+    "bib": "898520",
+    "titulo": "O Jornal (SC) - 1997"
+  },
+  {
+    "bib": "898570",
+    "titulo": "O Momento : Orgão Político e Noticioso (SC) - 1926"
+  },
+  {
+    "bib": "898627",
+    "titulo": "O Regional : Folha Semanal (SC) - 1923"
+  },
+  {
+    "bib": "898678",
+    "titulo": "Jornal de Laguna (SC) - 1995 a 2023"
+  },
+  {
+    "bib": "m09107",
+    "titulo": "O Lavrador : Jornal Industrial Politico e Litterario (SC) - 1856"
+  }
+]
