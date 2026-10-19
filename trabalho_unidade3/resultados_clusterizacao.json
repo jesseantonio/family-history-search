@@ -1,0 +1,502 @@
+{
+  "bow": {
+    "representacao": "bow",
+    "melhor_k": 2,
+    "silhouette_por_k": {
+      "2": 0.574681384635772,
+      "3": 0.14331188830800454,
+      "4": 0.12593035203929306,
+      "5": 0.1485574326251678,
+      "6": 0.14478687102592408,
+      "7": 0.15367076120949713,
+      "8": 0.0860409702265784
+    },
+    "silhouette_geral": 0.574681384635772,
+    "silhouette_medio_por_cluster": {
+      "0": 0.5886956426268907,
+      "1": -0.12042581172371754
+    },
+    "distancia_intra_cluster": {
+      "0": 4.245585261154211,
+      "1": 10.477458510917772
+    },
+    "distancia_entre_centroides": [
+      [
+        0.0,
+        10.35759921373793
+      ],
+      [
+        10.35759921373793,
+        0.0
+      ]
+    ],
+    "tamanho_clusters": {
+      "0": 248,
+      "1": 5
+    },
+    "variancia_explicada_pca": [
+      0.14447250367205977,
+      0.04222172985911374
+    ],
+    "imagem": "figuras\\cluster_bow.png",
+    "exemplos_por_cluster": {
+      "0": [
+        {
+          "texto": "DRESCH, EFFTING, E|-IAS,",
+          "event_type": "outro",
+          "ano": 1979
+        },
+        {
+          "texto": "% Samira Effting O melhor conselho",
+          "event_type": "outro",
+          "ano": 2016
+        },
+        {
+          "texto": "propriedade de Luciana Belmiro e Rosilda Uliano Effting.",
+          "event_type": "outro",
+          "ano": 2015
+        }
+      ],
+      "1": [
+        {
+          "texto": "iiaaruhy, 22. Temo» o mawr prazer em e muaicir a v. exa. a realitaçco de eoncorridi»»ÍDio comicio de propaganda do* caadidatot naoi«oaet. O povo de Vargem do Cedro acalmou delirante «ente oi nomet do» ctbdidato» naciouea ao de v e«a. Reaf firmam o» inteira wtWaríedade a* benemerito governo de y exa Saudaçòt* cordiae». EttQenio Bossle, loüo Effting, .4^omo Efftiag, foâo Betng.",
+          "event_type": "outro",
+          "ano": 1930
+        },
+        {
+          "texto": "Agora, surge o expressivo telegrama de solidariedaJe, enviado ao governdor do Estado pelo prestigioso político dc Varzea do Cedi o, município de Imaruí, sr. Antonio Effting. que se desligou do «sigma-, ao qual nas últimas eleições prestou vaüossimos serviços, levando ás urnas cêrca de 2'.)0 eleitores. E' digna de registro esta adesão ao Partido Liberal, dado o grande valor político do sr, Antonio Effting, personalidade altamente respeitada na zona em queexerce sua dinâmica e proveitosa atividade.",
+          "event_type": "outro",
+          "ano": 1937
+        },
+        {
+          "texto": "6 do corrente, foi nomeada a complementarista Maria Tabita Effting. para exercer, interina mente, no corrente ano letivo, o cargo de professora auxiliar da escola mista de Vargem do Ce- 'dro, no municipio de [maruí. Pela resolução n, 6.198, de 6 do corrente, foi nomeado Teodoro Demeterko, para exercer interinamente, no corrente anc letivo, o cargo de professora da escola mista de Colonia Rtclcer,",
+          "event_type": "outro",
+          "ano": 1939
+        }
+      ]
+    }
+  },
+  "tfidf": {
+    "representacao": "tfidf",
+    "melhor_k": 8,
+    "silhouette_por_k": {
+      "2": 0.006415844703036915,
+      "3": 0.0065303198180411285,
+      "4": 0.014875298928642696,
+      "5": 0.013803750997592606,
+      "6": 0.01592639952688445,
+      "7": 0.017633295664591347,
+      "8": 0.02665042936914375
+    },
+    "silhouette_geral": 0.02665042936914375,
+    "silhouette_medio_por_cluster": {
+      "0": -0.004736329791456038,
+      "1": 0.47850490545022034,
+      "2": 0.004726866423055438,
+      "3": 0.6334123891640807,
+      "4": 0.02751958874528421,
+      "5": -0.0015830603640665621,
+      "6": -0.003484399789718168,
+      "7": 0.0014463162914485528
+    },
+    "distancia_intra_cluster": {
+      "0": 0.9733233017155355,
+      "1": 0.5087459798990855,
+      "2": 0.957415012872148,
+      "3": 0.3346067617914645,
+      "4": 0.9250666349501353,
+      "5": 0.9551147051380058,
+      "6": 0.9806995085347646,
+      "7": 0.9544185685611863
+    },
+    "distancia_entre_centroides": [
+      [
+        0.0,
+        0.8543397675584595,
+        0.2790926436636487,
+        0.9212344526181497,
+        0.4007889533266201,
+        0.295906933395309,
+        0.233650374644417,
+        0.30788539967537226
+      ],
+      [
+        0.8543397675584595,
+        0.0,
+        0.8690828166069802,
+        1.2516690608612493,
+        0.9047803652415869,
+        0.8739955870332011,
+        0.8453283637739757,
+        0.8760502274639356
+      ],
+      [
+        0.2790926436636487,
+        0.8690828166069802,
+        0.0,
+        0.9489037437205233,
+        0.43266123190511463,
+        0.3568620298071539,
+        0.2936583611777504,
+        0.32554937844677306
+      ],
+      [
+        0.9212344526181497,
+        1.2516690608612493,
+        0.9489037437205233,
+        0.0,
+        1.000183894562247,
+        0.9208097499062149,
+        0.9441597110777131,
+        0.9322145341429604
+      ],
+      [
+        0.4007889533266201,
+        0.9047803652415869,
+        0.43266123190511463,
+        1.000183894562247,
+        0.0,
+        0.4534640357936449,
+        0.3949927169476883,
+        0.4418196091476855
+      ],
+      [
+        0.295906933395309,
+        0.8739955870332011,
+        0.3568620298071539,
+        0.9208097499062149,
+        0.4534640357936449,
+        0.0,
+        0.307012187921935,
+        0.3472945481449562
+      ],
+      [
+        0.233650374644417,
+        0.8453283637739757,
+        0.2936583611777504,
+        0.9441597110777131,
+        0.3949927169476883,
+        0.307012187921935,
+        0.0,
+        0.317861054226169
+      ],
+      [
+        0.30788539967537226,
+        0.8760502274639356,
+        0.32554937844677306,
+        0.9322145341429604,
+        0.4418196091476855,
+        0.3472945481449562,
+        0.317861054226169,
+        0.0
+      ]
+    ],
+    "tamanho_clusters": {
+      "0": 77,
+      "1": 5,
+      "2": 35,
+      "3": 7,
+      "4": 12,
+      "5": 34,
+      "6": 57,
+      "7": 26
+    },
+    "variancia_explicada_pca": [
+      0.02513265858353716,
+      0.0161181198081161
+    ],
+    "imagem": "figuras\\cluster_tfidf.png",
+    "exemplos_por_cluster": {
+      "0": [
+        {
+          "texto": "de Patrícia (filha de Rosilda e Dionísio Effting) e Cláudio (filho de Dalva e",
+          "event_type": "outro",
+          "ano": 1996
+        },
+        {
+          "texto": "gunda-feira (26), a advogada e professora universitária Patrícia Uliano Effting Zoch de Moura. Filha de Rosilda e Dionísio Effting, fes-",
+          "event_type": "outro",
+          "ano": 2007
+        },
+        {
+          "texto": "Andrade Silva, filho de Alzira e Luiz de Bem e Silva, e Samantha Effting, filha de Zita e Assis Effting. Os convidados foram recepcionados no Praia Clube.",
+          "event_type": "outro",
+          "ano": 1998
+        }
+      ],
+      "1": [
+        {
+          "texto": "Ivo Ranghetti Jair Effting Jair Fernandes",
+          "event_type": "outro",
+          "ano": 2009
+        },
+        {
+          "texto": "Ivo Ranghetti Jair Effting Jair Fernandes",
+          "event_type": "outro",
+          "ano": 2013
+        },
+        {
+          "texto": "Ivo Ranghetti Jair Effting Jair Fernandes",
+          "event_type": "outro",
+          "ano": 2014
+        }
+      ],
+      "2": [
+        {
+          "texto": "M:' S^ÉÈM^wÊíM^ WMMWm IRMÃ ULIANO EFFTING ZOCH GABRIEL FILIPE A. OLIVEIRA A linda herdeira do feliz casal Patrícia (Uliano Effting) e",
+          "event_type": "outro",
+          "ano": 2003
+        },
+        {
+          "texto": "de Azevedo, a inteligente lagunense que é editora-chefe de A Tribuna, o importante jornal Doutora Patrícia Uliano Effting Zoch de Moura (senhora dr.",
+          "event_type": "outro",
+          "ano": 2001
+        },
+        {
+          "texto": "risos, como não poderia ser diferente. Parabéns! IRMÃ ULIANO EFFTING ZOCH A linda herdeira do feliz casal Patrícia (Uliano Effting) e",
+          "event_type": "outro",
+          "ano": 2005
+        }
+      ],
+      "3": [
+        {
+          "texto": "Não atire seu espelho ao canto, mande-o reformar na Fábrica de Espelho de Alvina Effting, VÁRZEA DO CEDRO — Municipio de imaruí.",
+          "event_type": "outro",
+          "ano": 1938
+        },
+        {
+          "texto": "Não atire seu espelho ao canto, mande-o reformar na Fabrica de Espelho de Alvina Effting, VÁRZEA DO CEDRO — Municipio de Imaruí.",
+          "event_type": "outro",
+          "ano": 1938
+        },
+        {
+          "texto": "Não atire seu espelho ao canto, mande-o reformar na Fabrica de Espelho de Alvina Effting, VÁRZEA DO CEDRO — Municipio de Imaruí.",
+          "event_type": "outro",
+          "ano": 1938
+        }
+      ],
+      "4": [
+        {
+          "texto": "Welma Maria Martins, José Olavo Martins, Nedi da Silva, Angelina da Silva Effting,",
+          "event_type": "outro",
+          "ano": 1974
+        },
+        {
+          "texto": "Welma Maria Martins, José Olavo Martins, Nedi da Silva, Angelina da Silva Effting,",
+          "event_type": "outro",
+          "ano": 1974
+        },
+        {
+          "texto": "por olta das 8h30min. Angelina da Silva Effting dirigia seu carro pela rua Maria",
+          "event_type": "outro",
+          "ano": 1977
+        }
+      ],
+      "5": [
+        {
+          "texto": "Nunes Neto,Cidade; 3.°) Antonio Effting, Várzea do Cedro; 4.°) Antonio Silveira de",
+          "event_type": "outro",
+          "ano": 1935
+        },
+        {
+          "texto": "Nunes Neto, Cidade; 3.°) Antonio Effting, Várzea do Cedro; 4.°) Antônio Silveira de",
+          "event_type": "outro",
+          "ano": 1935
+        },
+        {
+          "texto": "4.° José Mendonça, Cidade; 5.° Antônio Effting, Vargem do Cedro; ó.° René de Sousa",
+          "event_type": "outro",
+          "ano": 1935
+        }
+      ],
+      "6": [
+        {
+          "texto": "Marco Antônio Uliano Effting, filho de Rosilda e Dionísio Effting, aniversarian-",
+          "event_type": "outro",
+          "ano": 2001
+        },
+        {
+          "texto": "dade de Santo Antônio. Rosilda Uliano Effting, ganhando elogios pela atenção com que trata os clientes do Centro de Forma-",
+          "event_type": "outro",
+          "ano": 2003
+        },
+        {
+          "texto": "vem Marco Antônio Uliano Effting. Foi no último domingo (3).",
+          "event_type": "outro",
+          "ano": 2002
+        }
+      ],
+      "7": [
+        {
+          "texto": "Foi extraviada a Carteira de Motorista pertencente ao Sr. PAULO WILLIBALDO EFFTING residente em Tubarão—SC. CARTEIRA EXTRAVIADA",
+          "event_type": "outro",
+          "ano": 1973
+        },
+        {
+          "texto": "Foi extraviada a Carteira de Motorista pertencente ao Sr. PAULO WILLIBALDO EFFTING residente em Tubarão-SC. CARTEIRA EXTRAVIADA",
+          "event_type": "outro",
+          "ano": 1973
+        },
+        {
+          "texto": "Foi extraviada a Carteira de Motorista pertencente ao Sr. PAULO WILLIBALDO EFFTING residente em Tubarão-SiC. CARTEIRA EXTRAVIADA",
+          "event_type": "outro",
+          "ano": 1973
+        }
+      ]
+    }
+  },
+  "word2vec": {
+    "representacao": "word2vec",
+    "melhor_k": 2,
+    "silhouette_por_k": {
+      "2": 0.13284520451523743,
+      "3": 0.10993724356068862,
+      "4": 0.10576202387718028,
+      "5": 0.10619524879317246,
+      "6": 0.10998772260374556,
+      "7": 0.10866816406255525,
+      "8": 0.11177852160966452
+    },
+    "silhouette_geral": 0.13284520451523743,
+    "silhouette_medio_por_cluster": {
+      "0": 0.08352645416139136,
+      "1": 0.16783485848249305
+    },
+    "distancia_intra_cluster": {
+      "0": 0.6351132992508732,
+      "1": 0.5787946021387266
+    },
+    "distancia_entre_centroides": [
+      [
+        0.0,
+        0.4810449473983013
+      ],
+      [
+        0.4810449473983013,
+        0.0
+      ]
+    ],
+    "tamanho_clusters": {
+      "0": 105,
+      "1": 148
+    },
+    "variancia_explicada_pca": [
+      0.17456673090584998,
+      0.12145005480564003
+    ],
+    "imagem": "figuras\\cluster_word2vec.png",
+    "exemplos_por_cluster": {
+      "0": [
+        {
+          "texto": "Zenon Campos Faísca, Nelson Fuchter, Izaac Nedeff Neto, Dionisio Effting, Munir Soares de Souza, Edgar Pereira,Sérgio Martins Nacif,",
+          "event_type": "outro",
+          "ano": 2023
+        },
+        {
+          "texto": "M. Philipp — José Maria Coelho Effting — Adilson C. Costa - Céli Medeiros - Edmar Pereira — Carlos Augusto P. R. Oliveira — Benedito João de Souza —",
+          "event_type": "outro",
+          "ano": 1974
+        },
+        {
+          "texto": "Rodinei Sandrini Gladys Moraes Susana Aparecida Cardoso , ^ Irene Effting Sirlei Sorato da Silva Janine Martins Medeiros ED. FlSICA FEMININA Leila Maria Spengler Celso Nuehues Maria Geraldina Ramos Jovcntino Scremin Amaury Jose de Souza Filho LETRAS Jussara Vlaria Clezar I Marqo I Luiz Carlos Sgarioni Claudia Joana Baschung I Marileno Vieira Santos I Juditi Mi ria Cypriani I Assis dos Santos Moreira",
+          "event_type": "outro",
+          "ano": 1979
+        }
+      ],
+      "1": [
+        {
+          "texto": "Uma candidata, de Laguna, ao quinto constitucional do Tribunal de Justiça, é a dra. Patrícia Uliano Effting, que aparecerá entre os 29 candidatos, com o conselho escolhendo",
+          "event_type": "outro",
+          "ano": 2021
+        },
+        {
+          "texto": "ais da cidade. Patrícia (Effting) e o procurador do Estacio, Cláudio Zachi de Moura, felizes com",
+          "event_type": "outro",
+          "ano": 1998
+        },
+        {
+          "texto": "dade de Santo Antônio. Rosilda Uliano Effting, ganhando elogios pela atenção com que trata os clientes do Centro de Forma-",
+          "event_type": "outro",
+          "ano": 2003
+        }
+      ]
+    }
+  },
+  "bert": {
+    "representacao": "bert",
+    "melhor_k": 2,
+    "silhouette_por_k": {
+      "2": 0.05522840470075607,
+      "3": 0.019475655630230904,
+      "4": 0.045853860676288605,
+      "5": 0.041108302772045135,
+      "6": 0.045371219515800476,
+      "7": 0.05030008405447006,
+      "8": 0.050656504929065704
+    },
+    "silhouette_geral": 0.05522840470075607,
+    "silhouette_medio_por_cluster": {
+      "0": -0.013435963541269302,
+      "1": 0.14029930531978607
+    },
+    "distancia_intra_cluster": {
+      "0": 0.8048397898674011,
+      "1": 0.6822373270988464
+    },
+    "distancia_entre_centroides": [
+      [
+        0.0,
+        0.39271724224090576
+      ],
+      [
+        0.39271724224090576,
+        0.0
+      ]
+    ],
+    "tamanho_clusters": {
+      "0": 140,
+      "1": 113
+    },
+    "variancia_explicada_pca": [
+      0.08443205803632736,
+      0.057011254131793976
+    ],
+    "imagem": "figuras\\cluster_bert.png",
+    "exemplos_por_cluster": {
+      "0": [
+        {
+          "texto": "dade. Rosilda Uliano Effting, das mais simpáticas no atendimento da nos-",
+          "event_type": "outro",
+          "ano": 2003
+        },
+        {
+          "texto": "\"\"r— .* e nas raorteas ocm tomo na rtanópolis. Fôra operada de aalve Maria! \"João Effting\". ao Snr. João Effting e sua gentil",
+          "event_type": "outro",
+          "ano": 1946
+        },
+        {
+          "texto": "Senhora Rosilda Uliano Effting (Dionísio), sempre recebendo com distinção",
+          "event_type": "outro",
+          "ano": 1998
+        }
+      ],
+      "1": [
+        {
+          "texto": "Ai$. Wisbeek toraCor), .lienrique -Antônio Effting, Jarhir Gaya da Silva; João Reipert de Ainorim,",
+          "event_type": "outro",
+          "ano": 1965
+        },
+        {
+          "texto": "Silveira, Maria D. Chede, Miguel Faísca, Lacy Z. Remor e Sebastião José Effting. JORNAL DE LAGUNA",
+          "event_type": "outro",
+          "ano": 2000
+        },
+        {
+          "texto": "rio: Severo Flateke Filho; Tesoureiro Geral: Eduardo Roberto May Effting e Io Tesoureiro: Paulo Gustavo Salomon",
+          "event_type": "outro",
+          "ano": 1978
+        }
+      ]
+    }
+  }
+}

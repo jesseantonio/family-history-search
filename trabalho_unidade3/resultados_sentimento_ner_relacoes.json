@@ -1,0 +1,731 @@
+{
+  "sentimento": {
+    "distribuicao_polaridade": {
+      "positivo": 94,
+      "neutro": 70,
+      "negativo": 89
+    },
+    "distribuicao_estrelas": {
+      "5": 52,
+      "4": 42,
+      "3": 70,
+      "1": 86,
+      "2": 3
+    },
+    "exemplos_com_event_type_conhecido": [
+      {
+        "event_type": "nascimento",
+        "texto": "Silva, Simone Nascimento Thomazelli, Elzira Viana Effting, Ana Maria Rosa Julião, Wanolda Francisco Leonardo, Ivete Vieira, Maria Elisa Wendhausen, Vanilze",
+        "estrelas": 3,
+        "confianca": 0.2745380401611328,
+        "polaridade": "neutro"
+      },
+      {
+        "event_type": "casamento",
+        "texto": "Circulando os convites para o casamento de Patrícia Uliano Effting e Cláudio Moura. Será dia 30. Sepultado aqui, quarta-feira de manhã, o sr. Tomé Inácio",
+        "estrelas": 1,
+        "confianca": 0.29256492853164673,
+        "polaridade": "negativo"
+      },
+      {
+        "event_type": "nascimento",
+        "texto": "neiro Ferreira, Uliano Effting, Nascimento, Marcelo",
+        "estrelas": 3,
+        "confianca": 0.2506536543369293,
+        "polaridade": "neutro"
+      },
+      {
+        "event_type": "obito",
+        "texto": "DE FALECIMENTO DE MARCIJS VINÍCIUS ULIANQ EFFTING \"Eu",
+        "estrelas": 1,
+        "confianca": 0.6354638934135437,
+        "polaridade": "negativo"
+      },
+      {
+        "event_type": "obito",
+        "texto": "Florianópolis - O casal Pedro Manoel de Azevedo Nunese Angelina Silva Effting, responsável pela morte de Newton Michael Kovalenko hâ nove anos, que deveriam ter comparecido ontem pela manhã no 2\" Distrito Policiai, no Saco dos Limões, se apresentaram apenas às 14 horas e foram encaminhados á Policia Técnica, no Estreito, onde foram legitimados \"Não vamos falar mais nada\", declarou Pedro aodelegado Bahia ao ser",
+        "estrelas": 1,
+        "confianca": 0.32621657848358154,
+        "polaridade": "negativo"
+      }
+    ],
+    "amostra_detalhada": [
+      {
+        "texto": "Justina Medeiros, Adriana Joaquim, Vanessa Oenning e Patrícia E.A. Effting. Noite Black Tie",
+        "estrelas": 5,
+        "confianca": 0.3602791130542755,
+        "polaridade": "positivo"
+      },
+      {
+        "texto": "MÔNICA C. RlGHETTO IRENE EFFTiNG Conselheiras Tutelares",
+        "estrelas": 5,
+        "confianca": 0.3611357510089874,
+        "polaridade": "positivo"
+      },
+      {
+        "texto": ". Patricia Effting, destaque da Brinca Quern Pode '.",
+        "estrelas": 5,
+        "confianca": 0.32523080706596375,
+        "polaridade": "positivo"
+      },
+      {
+        "texto": "Santo Antônio: Festeiros de 96 Souza, Patrícia Uliano Effting, Stela Maris de Souza de Oliveira, Maisa",
+        "estrelas": 5,
+        "confianca": 0.3754357099533081,
+        "polaridade": "positivo"
+      },
+      {
+        "texto": "Fone/fax: (048) 644-0558 EFFTING Também no dia 5, receberá cumprimentos por",
+        "estrelas": 5,
+        "confianca": 0.27139002084732056,
+        "polaridade": "positivo"
+      },
+      {
+        "texto": " Recebendo inúmeros cumprimentos dos muitos amigos, a loiraça Patrícia Uliano Effting, a eficiente policial da Delegacia Regional. E que Pat, como é cari-",
+        "estrelas": 4,
+        "confianca": 0.4303775131702423,
+        "polaridade": "positivo"
+      },
+      {
+        "texto": "Silva, Simone Nascimento Thomazelli, Elzira Viana Effting, Ana Maria Rosa Julião, Wanolda Francisco Leonardo, Ivete Vieira, Maria Elisa Wendhausen, Vanilze",
+        "estrelas": 3,
+        "confianca": 0.2745380401611328,
+        "polaridade": "neutro"
+      },
+      {
+        "texto": "de churrasco e bar, com as tradicionais barraquiSr3. Patrícia Uliano Effting Sr3. Zaíra A. Domingos",
+        "estrelas": 5,
+        "confianca": 0.4091286361217499,
+        "polaridade": "positivo"
+      },
+      {
+        "texto": "bela e jovem festeira de Sarfto Antônio, Patrícia Uliano Effting. Desembargador João Eduardo Nunes Varei-",
+        "estrelas": 4,
+        "confianca": 0.3839051127433777,
+        "polaridade": "positivo"
+      },
+      {
+        "texto": "instrutor Marcos Vinícius Uliano Effting, da auto-escola; só é exigido que os candida-",
+        "estrelas": 3,
+        "confianca": 0.2847052216529846,
+        "polaridade": "neutro"
+      },
+      {
+        "texto": "Circulando os convites para o casamento de Patrícia Uliano Effting e Cláudio Moura. Será dia 30. Sepultado aqui, quarta-feira de manhã, o sr. Tomé Inácio",
+        "estrelas": 1,
+        "confianca": 0.29256492853164673,
+        "polaridade": "negativo"
+      },
+      {
+        "texto": "de Patrícia (filha de Rosilda e Dionísio Effting) e Cláudio (filho de Dalva e",
+        "estrelas": 4,
+        "confianca": 0.3114151656627655,
+        "polaridade": "positivo"
+      },
+      {
+        "texto": "Blondin, os noivos que subiram ao altar naquela noite, Patrícia Effting e Cláudio Moura. - Barraca do Beto",
+        "estrelas": 4,
+        "confianca": 0.3099718391895294,
+        "polaridade": "positivo"
+      },
+      {
+        "texto": "pela Unisul, em Tubarão, Vilmar Sutil da Rosa, Patrícia Effting, Jeferson Crippa, Iran Ramos, Marcos Pereira e Angelise",
+        "estrelas": 5,
+        "confianca": 0.306508332490921,
+        "polaridade": "positivo"
+      },
+      {
+        "texto": "no Ramos, Jefferson Araújo Crippa, Marco Aurélio Pereira, Patrícia UHano Effting Zoch de Moura e Vi/mar Situi da Rosa (foto). Na programação de formatura,",
+        "estrelas": 1,
+        "confianca": 0.29973727464675903,
+        "polaridade": "negativo"
+      },
+      {
+        "texto": "O Boticário de ouro de Vendolino e Nivardis Effting, fo- ¦¦¦¦¦¦¦ FONE° Fone: 644.1809",
+        "estrelas": 1,
+        "confianca": 0.25698187947273254,
+        "polaridade": "negativo"
+      },
+      {
+        "texto": "Senhora Rosilda Uliano Effting (Dionísio), sempre recebendo com distinção",
+        "estrelas": 5,
+        "confianca": 0.3698444366455078,
+        "polaridade": "positivo"
+      },
+      {
+        "texto": "Andrade Silva, filho de Alzira e Luiz de Bem e Silva, e Samantha Effting, filha de Zita e Assis Effting. Os convidados foram recepcionados no Praia Clube.",
+        "estrelas": 4,
+        "confianca": 0.38705146312713623,
+        "polaridade": "positivo"
+      },
+      {
+        "texto": "ais da cidade. Patrícia (Effting) e o procurador do Estacio, Cláudio Zachi de Moura, felizes com",
+        "estrelas": 4,
+        "confianca": 0.4162008464336395,
+        "polaridade": "positivo"
+      },
+      {
+        "texto": "- •\" D ^^r WL]0 IRMA U. EFFTING ZOCH MOURA *5rXHfe JEAN CARLOS F. DELGADO",
+        "estrelas": 1,
+        "confianca": 0.7621070146560669,
+        "polaridade": "negativo"
+      },
+      {
+        "texto": "Fretta Moreira; Réu: Gilberto Zanatte; Réu: Sônia Effting Zanette; Réu:",
+        "estrelas": 3,
+        "confianca": 0.3038114011287689,
+        "polaridade": "neutro"
+      },
+      {
+        "texto": "Fretta Moreira; Réu: Gilberto Zanatte; Réu: Sônia Effting Zanette; Réu:",
+        "estrelas": 3,
+        "confianca": 0.3038114011287689,
+        "polaridade": "neutro"
+      },
+      {
+        "texto": "Doutora Patrícia Uliano Effting Zoch de Moura, hoje ao lado da herdeira",
+        "estrelas": 5,
+        "confianca": 0.2384735643863678,
+        "polaridade": "positivo"
+      },
+      {
+        "texto": "Silveira, Maria D. Chede, Miguel Faísca, Lacy Z. Remor e Sebastião José Effting. JORNAL DE LAGUNA",
+        "estrelas": 3,
+        "confianca": 0.24643592536449432,
+        "polaridade": "neutro"
+      },
+      {
+        "texto": "Miguel Faísca, Lacy Z. Remor e Sebastião José Effting. Aqui, todo o grupo e alguns casais, com des-",
+        "estrelas": 3,
+        "confianca": 0.2679155468940735,
+        "polaridade": "neutro"
+      },
+      {
+        "texto": "vaca tussa... Effting é um regalo para os ouvidos. Escutar o professor",
+        "estrelas": 4,
+        "confianca": 0.42657676339149475,
+        "polaridade": "positivo"
+      },
+      {
+        "texto": "Criciúma Clube. Advogada Patrícia Effting de Moura, festeja aniver-",
+        "estrelas": 5,
+        "confianca": 0.2559550702571869,
+        "polaridade": "positivo"
+      },
+      {
+        "texto": "de Azevedo, a inteligente lagunense que é editora-chefe de A Tribuna, o importante jornal Doutora Patrícia Uliano Effting Zoch de Moura (senhora dr.",
+        "estrelas": 3,
+        "confianca": 0.259359747171402,
+        "polaridade": "neutro"
+      },
+      {
+        "texto": "M8C2S67 55673666 SÔNIA FENILI RIBEIRO 573 MBJ3326 55669340 R0SNEIDI EFFTING SATURNO 555 ENQUADRAMENTO: 516 = CTB 165; 518 m CTB 167; 519 = CTB 168; 520 = CTB 169 529 = CTB 176",
+        "estrelas": 3,
+        "confianca": 0.22927594184875488,
+        "polaridade": "neutro"
+      },
+      {
+        "texto": "Marco Antônio Uliano Effting, filho de Rosilda e Dionísio Effting, aniversarian-",
+        "estrelas": 5,
+        "confianca": 0.3688802421092987,
+        "polaridade": "positivo"
+      }
+    ]
+  },
+  "ner_relacoes": {
+    "n_documentos": 253,
+    "total_pessoas_mencionadas": 631,
+    "media_pessoas_por_doc": 2.494071146245059,
+    "docs_sem_nenhuma_pessoa": 48,
+    "total_lugares_mencionados": 254,
+    "total_relacoes_extraidas": 610,
+    "tipos_de_relacao": {
+      "filho_de": 463,
+      "residente_em": 132,
+      "viuvo_de": 3,
+      "faleceu_em": 11,
+      "casou_com": 1
+    },
+    "exemplos_relacoes": [
+      {
+        "contexto": "Fone/fax: (048) 644-0558 EFFTING Também no dia 5, receberá cumprimentos por",
+        "relacoes": [
+          {
+            "relation": "filho_de",
+            "subject_raw": "Mauricio Bittencourt",
+            "target_raw": "Lindomar",
+            "target_kind": null,
+            "evidence": "æ I 02ANOS jisele Mauricio Bittencourt, filha de Lindomar e Maria Suely M",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Mauricio Bittencourt",
+            "target_raw": "Maria Suely M",
+            "target_kind": null,
+            "evidence": "æ I 02ANOS jisele Mauricio Bittencourt, filha de Lindomar e Maria Suely M",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": null,
+            "target_raw": "nossos conterrâneos dr",
+            "target_kind": null,
+            "evidence": "tente médica reside em Porto Alegre e é filha de nossos conterrâneos dr",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "ANOS Gisele Maurício Bittencourt",
+            "target_raw": "Lindomar",
+            "target_kind": null,
+            "evidence": "95 12 ANOS Gisele Maurício Bittencourt, filha de Lindomar e Maria Suely M",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "ANOS Gisele Maurício Bittencourt",
+            "target_raw": "Maria Suely M",
+            "target_kind": null,
+            "evidence": "95 12 ANOS Gisele Maurício Bittencourt, filha de Lindomar e Maria Suely M",
+            "confidence": 0.7,
+            "status": "extraida"
+          }
+        ]
+      },
+      {
+        "contexto": "Circulando os convites para o casamento de Patrícia Uliano Effting e Cláudio Moura. Será dia 30. Sepultado aqui, quarta-feira de manhã, o sr. Tomé Iná",
+        "relacoes": [
+          {
+            "relation": "filho_de",
+            "subject_raw": null,
+            "target_raw": "Terezinha",
+            "target_kind": null,
+            "evidence": "de Nensa Caetano e Laércio Foss. Ela é filha de Terezinha e Leontino Michels (já falecidos) e ele de Valmeri e Antônio Joaquim d",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": null,
+            "target_raw": "Leontino Michels (já falecidos)",
+            "target_kind": null,
+            "evidence": "de Nensa Caetano e Laércio Foss. Ela é filha de Terezinha e Leontino Michels (já falecidos) e ele de Valmeri e Antônio Joaquim d",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": null,
+            "target_raw": "ele de Valmeri",
+            "target_kind": null,
+            "evidence": "de Nensa Caetano e Laércio Foss. Ela é filha de Terezinha e Leontino Michels (já falecidos) e ele de Valmeri e Antônio Joaquim d",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": null,
+            "target_raw": "Antônio Joaquim d",
+            "target_kind": null,
+            "evidence": "de Nensa Caetano e Laércio Foss. Ela é filha de Terezinha e Leontino Michels (já falecidos) e ele de Valmeri e Antônio Joaquim d",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Rodrigo Fernandes Pereira",
+            "target_raw": "Maria Bernadete",
+            "target_kind": null,
+            "evidence": "na capital, Rodrigo Fernandes Pereira, filho de Maria Bernadete e Edgar Pereira",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Rodrigo Fernandes Pereira",
+            "target_raw": "Edgar Pereira",
+            "target_kind": null,
+            "evidence": "na capital, Rodrigo Fernandes Pereira, filho de Maria Bernadete e Edgar Pereira",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Elizabeth",
+            "target_raw": "Zilda",
+            "target_kind": null,
+            "evidence": "imo dia 9, com a tubaronense Elizabeth, filha de Zilda e Francisco de Souza",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Elizabeth",
+            "target_raw": "Francisco de Souza",
+            "target_kind": null,
+            "evidence": "imo dia 9, com a tubaronense Elizabeth, filha de Zilda e Francisco de Souza",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "de Maria P. de Oliveira",
+            "target_raw": "Maria das Dores",
+            "target_kind": null,
+            "evidence": "s de casamento de Maria P. de Oliveira, filha de Maria das Dores e do professor Édio Silva de Oliveira (falecido)",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "de Maria P. de Oliveira",
+            "target_raw": "do professor Édio Silva de Oliveira (falecido)",
+            "target_kind": null,
+            "evidence": "s de casamento de Maria P. de Oliveira, filha de Maria das Dores e do professor Édio Silva de Oliveira (falecido)",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Bento Piêtrovski Filho",
+            "target_raw": "Dorita",
+            "target_kind": null,
+            "evidence": "(falecido), com Bento Piêtrovski Filho, filho de Dorita e Bento Severo Piotrovski",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Bento Piêtrovski Filho",
+            "target_raw": "Bento Severo Piotrovski",
+            "target_kind": null,
+            "evidence": "(falecido), com Bento Piêtrovski Filho, filho de Dorita e Bento Severo Piotrovski",
+            "confidence": 0.7,
+            "status": "extraida"
+          }
+        ]
+      },
+      {
+        "contexto": "de Patrícia (filha de Rosilda e Dionísio Effting) e Cláudio (filho de Dalva e",
+        "relacoes": [
+          {
+            "relation": "filho_de",
+            "subject_raw": null,
+            "target_raw": "Rosilda",
+            "target_kind": null,
+            "evidence": "ntece o enlace matrimonial de Patrícia (filha de Rosilda e Dionísio Effting) e Cláudio (filho de Dalva e Ivan de Moura)",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": null,
+            "target_raw": "Dionísio Effting)",
+            "target_kind": null,
+            "evidence": "ntece o enlace matrimonial de Patrícia (filha de Rosilda e Dionísio Effting) e Cláudio (filho de Dalva e Ivan de Moura)",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": null,
+            "target_raw": "Cláudio (filho de Dalva",
+            "target_kind": null,
+            "evidence": "ntece o enlace matrimonial de Patrícia (filha de Rosilda e Dionísio Effting) e Cláudio (filho de Dalva e Ivan de Moura)",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": null,
+            "target_raw": "Ivan de Moura)",
+            "target_kind": null,
+            "evidence": "ntece o enlace matrimonial de Patrícia (filha de Rosilda e Dionísio Effting) e Cláudio (filho de Dalva e Ivan de Moura)",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": null,
+            "target_raw": "Dalva",
+            "target_kind": null,
+            "evidence": "Rosilda e Dionísio Effting) e Cláudio (filho de Dalva e Ivan de Moura)",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": null,
+            "target_raw": "Ivan de Moura)",
+            "target_kind": null,
+            "evidence": "Rosilda e Dionísio Effting) e Cláudio (filho de Dalva e Ivan de Moura)",
+            "confidence": 0.7,
+            "status": "extraida"
+          }
+        ]
+      },
+      {
+        "contexto": "pela Unisul, em Tubarão, Vilmar Sutil da Rosa, Patrícia Effting, Jeferson Crippa, Iran Ramos, Marcos Pereira e Angelise",
+        "relacoes": [
+          {
+            "relation": "filho_de",
+            "subject_raw": "Juracy da Silva. Carine Amandio Barbosa",
+            "target_raw": "Aríete",
+            "target_kind": null,
+            "evidence": "uracy da Silva. Carine Amandio Barbosa. filha de Aríete e Reni Barbosa",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Juracy da Silva. Carine Amandio Barbosa",
+            "target_raw": "Reni Barbosa",
+            "target_kind": null,
+            "evidence": "uracy da Silva. Carine Amandio Barbosa. filha de Aríete e Reni Barbosa",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "residente_em",
+            "subject_raw": "Dirce Zanella Queiroz",
+            "target_raw": "Curitiba",
+            "target_kind": null,
+            "evidence": "ela cidade, dona Dirce Zanella Queiroz, residente em Curitiba",
+            "confidence": 0.6,
+            "status": "extraida"
+          }
+        ]
+      },
+      {
+        "contexto": "no Ramos, Jefferson Araújo Crippa, Marco Aurélio Pereira, Patrícia UHano Effting Zoch de Moura e Vi/mar Situi da Rosa (foto). Na programação de format",
+        "relacoes": [
+          {
+            "relation": "filho_de",
+            "subject_raw": "dr. Renato Bratti Hector Cardoso Candemil",
+            "target_raw": "Cecília",
+            "target_kind": null,
+            "evidence": "Renato Bratti Hector Cardoso Candemil, filho de Cecília e Antônio Carlos Candemil",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "dr. Renato Bratti Hector Cardoso Candemil",
+            "target_raw": "Antônio Carlos Candemil",
+            "target_kind": null,
+            "evidence": "Renato Bratti Hector Cardoso Candemil, filho de Cecília e Antônio Carlos Candemil",
+            "confidence": 0.7,
+            "status": "extraida"
+          }
+        ]
+      },
+      {
+        "contexto": "O Boticário de ouro de Vendolino e Nivardis Effting, fo- ¦¦¦¦¦¦¦ FONE° Fone: 644.1809",
+        "relacoes": [
+          {
+            "relation": "filho_de",
+            "subject_raw": "Ana Paula Trevison",
+            "target_raw": "Nilda",
+            "target_kind": null,
+            "evidence": "ate Serra Ne- B . * Ana Paula Trevison. filha de Nilda e Ivo Emili- gra (SP) participar pa^ameiltO etTl o VeZGS SGUI Gfltiada",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Ana Paula Trevison",
+            "target_raw": "Ivo Emili- gra (SP) participar pa^ameiltO etTl o VeZGS SGUI Gfltiada",
+            "target_kind": null,
+            "evidence": "ate Serra Ne- B . * Ana Paula Trevison. filha de Nilda e Ivo Emili- gra (SP) participar pa^ameiltO etTl o VeZGS SGUI Gfltiada",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Paula Trevison",
+            "target_raw": "Nilda",
+            "target_kind": null,
+            "evidence": "encontro idêntico. #Ana Paula Trevison. filha de Nilda e Ivo Emiliano Trevison",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Paula Trevison",
+            "target_raw": "Ivo Emiliano Trevison",
+            "target_kind": null,
+            "evidence": "encontro idêntico. #Ana Paula Trevison. filha de Nilda e Ivo Emiliano Trevison",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "e Marcelo Antônio Cerigatto",
+            "target_raw": "Maria Teresa",
+            "target_kind": null,
+            "evidence": "Trevison, e Marcelo Antônio Cerigatto, filho de Maria Teresa e Nardi Cerigatto",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "e Marcelo Antônio Cerigatto",
+            "target_raw": "Nardi Cerigatto",
+            "target_kind": null,
+            "evidence": "Trevison, e Marcelo Antônio Cerigatto, filho de Maria Teresa e Nardi Cerigatto",
+            "confidence": 0.7,
+            "status": "extraida"
+          }
+        ]
+      },
+      {
+        "contexto": "Senhora Rosilda Uliano Effting (Dionísio), sempre recebendo com distinção",
+        "relacoes": [
+          {
+            "relation": "filho_de",
+            "subject_raw": "Kelly Cristina",
+            "target_raw": "Maria Auxiliadora",
+            "target_kind": null,
+            "evidence": "ntônio dos Anjos. Ela é Kelly Cristina, filha de Maria Auxiliadora e Elói Machado",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Kelly Cristina",
+            "target_raw": "Elói Machado",
+            "target_kind": null,
+            "evidence": "ntônio dos Anjos. Ela é Kelly Cristina, filha de Maria Auxiliadora e Elói Machado",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Marcos Fernando",
+            "target_raw": "An/ida",
+            "target_kind": null,
+            "evidence": "e Elói Machado. Ele é Marcos Fernando, filho de An/ida e Jorge Roberto da Silva",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Marcos Fernando",
+            "target_raw": "Jorge Roberto da Silva",
+            "target_kind": null,
+            "evidence": "e Elói Machado. Ele é Marcos Fernando, filho de An/ida e Jorge Roberto da Silva",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Letícia Ramos Carneiro",
+            "target_raw": "Jadna",
+            "target_kind": null,
+            "evidence": "o aniversário, Letícia Ramos Carneiro, filha de Jadna e do nosso editor Márcio Carneiro",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Letícia Ramos Carneiro",
+            "target_raw": "do nosso editor Márcio Carneiro",
+            "target_kind": null,
+            "evidence": "o aniversário, Letícia Ramos Carneiro, filha de Jadna e do nosso editor Márcio Carneiro",
+            "confidence": 0.7,
+            "status": "extraida"
+          }
+        ]
+      },
+      {
+        "contexto": "Andrade Silva, filho de Alzira e Luiz de Bem e Silva, e Samantha Effting, filha de Zita e Assis Effting. Os convidados foram recepcionados no Praia Cl",
+        "relacoes": [
+          {
+            "relation": "filho_de",
+            "subject_raw": "Fábio Andrade Silva",
+            "target_raw": "Alzira",
+            "target_kind": null,
+            "evidence": "subiram ao altar, Fábio Andrade Silva, filho de Alzira e Luiz de Bem e Silva",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Fábio Andrade Silva",
+            "target_raw": "Luiz de Bem",
+            "target_kind": null,
+            "evidence": "subiram ao altar, Fábio Andrade Silva, filho de Alzira e Luiz de Bem e Silva",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "Fábio Andrade Silva",
+            "target_raw": "Silva",
+            "target_kind": null,
+            "evidence": "subiram ao altar, Fábio Andrade Silva, filho de Alzira e Luiz de Bem e Silva",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "e Samantha Effting",
+            "target_raw": "Zita",
+            "target_kind": null,
+            "evidence": "uiz de Bem e Silva, e Samantha Effting, filha de Zita e Assis Effting",
+            "confidence": 0.7,
+            "status": "extraida"
+          },
+          {
+            "relation": "filho_de",
+            "subject_raw": "e Samantha Effting",
+            "target_raw": "Assis Effting",
+            "target_kind": null,
+            "evidence": "uiz de Bem e Silva, e Samantha Effting, filha de Zita e Assis Effting",
+            "confidence": 0.7,
+            "status": "extraida"
+          }
+        ]
+      }
+    ],
+    "exemplos_pessoas": [
+      {
+        "contexto": "Justina Medeiros, Adriana Joaquim, Vanessa Oenning e Patrícia E.A. Effting. Noite Black Tie",
+        "pessoas": [
+          "Justina Medeiros",
+          "Adriana Joaquim",
+          "Vanessa Oenning"
+        ]
+      },
+      {
+        "contexto": "MÔNICA C. RlGHETTO IRENE EFFTiNG Conselheiras Tutelares",
+        "pessoas": [
+          "C. RlGHETTO IRENE"
+        ]
+      },
+      {
+        "contexto": ". Patricia Effting, destaque da Brinca Quern Pode '.",
+        "pessoas": [
+          "Patricia Effting"
+        ]
+      },
+      {
+        "contexto": "Santo Antônio: Festeiros de 96 Souza, Patrícia Uliano Effting, Stela Maris de Souza de Oliveira, Maisa",
+        "pessoas": [
+          "Stela Maris de Souza de Oliveira"
+        ]
+      },
+      {
+        "contexto": " Recebendo inúmeros cumprimentos dos muitos amigos, a loiraça Patrícia Uliano Effting, a eficiente policial da Delegacia Regional. E que Pat, como é ",
+        "pessoas": [
+          "Pat"
+        ]
+      }
+    ]
+  }
+}

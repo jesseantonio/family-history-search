@@ -26,6 +26,22 @@ Isso instala as dependências e o modelo de reconhecimento de entidades em portu
 
 ## Como usar
 
+### Modo automático (recomendado)
+
+Se a região já tem um catálogo capturado (ex.: `data/periodicos_sc.json`, com os periódicos de Santa Catarina), a busca inteira — descobrir quais periódicos/edições têm o sobrenome, baixar, extrair e agrupar — roda com um único comando, sem nenhuma etapa manual:
+
+```powershell
+python -m src.pipeline --surname Effting --catalog data/periodicos_sc.json
+```
+
+Na primeira execução (ou quando a sessão expirar), o comando abre o **Chrome instalado na máquina** (perfil próprio em `data/raw/.chrome_cdp_profile`, separado do seu perfil pessoal) para passar pelo desafio da Cloudflare do `memoria.bn.gov.br` e captura cookie/`SessaoID` automaticamente conectando nele via CDP (`src/collector/session_auth.py`) — resolva o desafio manualmente na janela se ele aparecer. A sessão fica salva em `data/raw/session.json` e é reaproveitada nas próximas buscas. Testamos ao vivo: um browser *lançado pelo Playwright* (headless ou headed) é bloqueado pela Cloudflare em ambos os modos — por isso a captura conecta num Chrome real aberto normalmente, não num Chromium controlado do zero. Ver `ESTRATEGIA_BUSCA_SOBRENOME.md` para os detalhes.
+
+O mesmo fluxo está disponível na aba "Buscar novo sobrenome" da interface Streamlit (passo 7 abaixo): digite o sobrenome, escolha o catálogo e clique em "Buscar".
+
+Isso gera `data/processed/occurrences_region_<sobrenome>_extracted.jsonl` e `person_clusters_region_<sobrenome>.json`, prontos pra visualização (passo 7). As seções abaixo documentam as etapas manuais equivalentes, úteis para depurar uma etapa isoladamente ou pra periódicos fora de um catálogo já capturado.
+
+### Etapas manuais (uma região nova, ou depuração isolada)
+
 O pipeline tem seis etapas, cada uma com sua própria linha de comando. A saída de uma etapa é a entrada da próxima.
 
 ### 1. Descobrir o `bib` de um periódico

@@ -1,0 +1,765 @@
+{
+  "n_documentos": 253,
+  "consultas": {
+    "casamento convite núpcias": {
+      "bow": [
+        {
+          "rank": 1,
+          "score": 0.18257418583505536,
+          "id": "51f5970e-009f-4c98-9487-243722c804b2",
+          "texto": "Circulando os convites para o casamento de Patrícia Uliano Effting e Cláudio Moura. Será dia 30. Sepultado aqui, quarta-feira de manhã, o sr. Tomé Inácio",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1996,
+          "event_type": "casamento"
+        },
+        {
+          "rank": 2,
+          "score": 0.0,
+          "id": "9204ee7e-a949-49e7-80cb-6d80a40c5629",
+          "texto": "Justina Medeiros, Adriana Joaquim, Vanessa Oenning e Patrícia E.A. Effting. Noite Black Tie",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        },
+        {
+          "rank": 3,
+          "score": 0.0,
+          "id": "e3cb1499-9425-45d5-8880-0e1018ddb226",
+          "texto": ". Patricia Effting, destaque da Brinca Quern Pode '.",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        },
+        {
+          "rank": 4,
+          "score": 0.0,
+          "id": "dc1e6927-3c8f-41fe-98f9-0822f02cbd50",
+          "texto": "MÔNICA C. RlGHETTO IRENE EFFTiNG Conselheiras Tutelares",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        },
+        {
+          "rank": 5,
+          "score": 0.0,
+          "id": "8b8bc23f-39d4-42b2-b349-17886b8f9986",
+          "texto": "Fone/fax: (048) 644-0558 EFFTING Também no dia 5, receberá cumprimentos por",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        }
+      ],
+      "tfidf": [
+        {
+          "rank": 1,
+          "score": 0.25216049358083653,
+          "id": "51f5970e-009f-4c98-9487-243722c804b2",
+          "texto": "Circulando os convites para o casamento de Patrícia Uliano Effting e Cláudio Moura. Será dia 30. Sepultado aqui, quarta-feira de manhã, o sr. Tomé Inácio",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1996,
+          "event_type": "casamento"
+        },
+        {
+          "rank": 2,
+          "score": 0.0,
+          "id": "9204ee7e-a949-49e7-80cb-6d80a40c5629",
+          "texto": "Justina Medeiros, Adriana Joaquim, Vanessa Oenning e Patrícia E.A. Effting. Noite Black Tie",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        },
+        {
+          "rank": 3,
+          "score": 0.0,
+          "id": "e3cb1499-9425-45d5-8880-0e1018ddb226",
+          "texto": ". Patricia Effting, destaque da Brinca Quern Pode '.",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        },
+        {
+          "rank": 4,
+          "score": 0.0,
+          "id": "dc1e6927-3c8f-41fe-98f9-0822f02cbd50",
+          "texto": "MÔNICA C. RlGHETTO IRENE EFFTiNG Conselheiras Tutelares",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        },
+        {
+          "rank": 5,
+          "score": 0.0,
+          "id": "8b8bc23f-39d4-42b2-b349-17886b8f9986",
+          "texto": "Fone/fax: (048) 644-0558 EFFTING Também no dia 5, receberá cumprimentos por",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        }
+      ],
+      "word2vec": [
+        {
+          "rank": 1,
+          "score": 0.8615048832171653,
+          "id": "1c3605d2-2040-4f72-8e03-ca136b21439f",
+          "texto": "Uma candidata, de Laguna, ao quinto constitucional do Tribunal de Justiça, é a dra. Patrícia Uliano Effting, que aparecerá entre os 29 candidatos, com o conselho escolhendo",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2021,
+          "event_type": "outro"
+        },
+        {
+          "rank": 2,
+          "score": 0.8449677996008089,
+          "id": "51f5970e-009f-4c98-9487-243722c804b2",
+          "texto": "Circulando os convites para o casamento de Patrícia Uliano Effting e Cláudio Moura. Será dia 30. Sepultado aqui, quarta-feira de manhã, o sr. Tomé Inácio",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1996,
+          "event_type": "casamento"
+        },
+        {
+          "rank": 3,
+          "score": 0.8304602922050182,
+          "id": "13cfe98a-50a4-4b7b-8e2c-b61bd1877aab",
+          "texto": "de Azevedo, a inteligente lagunense que é editora-chefe de A Tribuna, o importante jornal Doutora Patrícia Uliano Effting Zoch de Moura (senhora dr.",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2001,
+          "event_type": "outro"
+        },
+        {
+          "rank": 4,
+          "score": 0.805919076133508,
+          "id": "bc136351-c2f9-4015-b494-792dd4c780ed",
+          "texto": "é o pesquisador Dionísio Effting que concluiu que a brincadeira surgiu na Fran-",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2005,
+          "event_type": "outro"
+        },
+        {
+          "rank": 5,
+          "score": 0.8015833921218821,
+          "id": "76cf2f26-d74f-4170-8620-a6a0178ded76",
+          "texto": "ais da cidade. Patrícia (Effting) e o procurador do Estacio, Cláudio Zachi de Moura, felizes com",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1998,
+          "event_type": "outro"
+        }
+      ],
+      "bert": [
+        {
+          "rank": 1,
+          "score": 0.5533784031867981,
+          "id": "51f5970e-009f-4c98-9487-243722c804b2",
+          "texto": "Circulando os convites para o casamento de Patrícia Uliano Effting e Cláudio Moura. Será dia 30. Sepultado aqui, quarta-feira de manhã, o sr. Tomé Inácio",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1996,
+          "event_type": "casamento"
+        },
+        {
+          "rank": 2,
+          "score": 0.5162448883056641,
+          "id": "59d352d5-2527-4e6a-9c3e-a3c95d59aaa6",
+          "texto": "a data ao lado do esposo, JoSo Ben-. ? Rosilda e Dionisio Effting, domingo",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2005,
+          "event_type": "outro"
+        },
+        {
+          "rank": 3,
+          "score": 0.4557417035102844,
+          "id": "43faf5f6-1d4b-44b6-bc32-13bd51c9d280",
+          "texto": "paróquia, fiéis e padres) Padre celebrante: Pe. Léo Effting, SCJ Bênção: Colaboradores da Paróquia e voluntários em",
+          "periodico": "Correio do Povo (SC) - 1921 a 2014",
+          "ano": 2012,
+          "event_type": "outro"
+        },
+        {
+          "rank": 4,
+          "score": 0.4547750949859619,
+          "id": "e6d99d86-77d4-4578-862f-7f2b760b6e44",
+          "texto": "Blondin, os noivos que subiram ao altar naquela noite, Patrícia Effting e Cláudio Moura. - Barraca do Beto",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1996,
+          "event_type": "outro"
+        },
+        {
+          "rank": 5,
+          "score": 0.4014401435852051,
+          "id": "f93336f6-01bb-4567-b191-f21183fc9685",
+          "texto": "A família de MARCUS VINÍCIUS ULIANO EFFTING Agradece aos familiares e amigos, as manifestações de carinho",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2006,
+          "event_type": "outro"
+        }
+      ]
+    },
+    "falecimento sepultamento morte": {
+      "bow": [
+        {
+          "rank": 1,
+          "score": 0.22360679774997896,
+          "id": "a927d65a-c468-489e-833d-862ad047fde7",
+          "texto": "DE FALECIMENTO DE MARCIJS VINÍCIUS ULIANQ EFFTING \"Eu",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2007,
+          "event_type": "obito"
+        },
+        {
+          "rank": 2,
+          "score": 0.08006407690254355,
+          "id": "5740b2fa-3d80-4235-82b3-ea42a8f71060",
+          "texto": "Florianópolis - O casal Pedro Manoel de Azevedo Nunese Angelina Silva Effting, responsável pela morte de Newton Michael Kovalenko hâ nove anos, que deveriam ter comparecido ontem pela manhã no 2\" Distrito Policiai, no Saco dos Limões, se apresentaram apenas às 14 horas e foram encaminhados á Policia Técnica, no Estreito, onde foram legitimados \"Não vamos falar mais nada\", declarou Pedro aodelegado Bahia ao ser",
+          "periodico": "Diário Catarinense (SC) - 1986 a 1987",
+          "ano": 1986,
+          "event_type": "obito"
+        },
+        {
+          "rank": 3,
+          "score": 0.0,
+          "id": "e3cb1499-9425-45d5-8880-0e1018ddb226",
+          "texto": ". Patricia Effting, destaque da Brinca Quern Pode '.",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        },
+        {
+          "rank": 4,
+          "score": 0.0,
+          "id": "9204ee7e-a949-49e7-80cb-6d80a40c5629",
+          "texto": "Justina Medeiros, Adriana Joaquim, Vanessa Oenning e Patrícia E.A. Effting. Noite Black Tie",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        },
+        {
+          "rank": 5,
+          "score": 0.0,
+          "id": "8b8bc23f-39d4-42b2-b349-17886b8f9986",
+          "texto": "Fone/fax: (048) 644-0558 EFFTING Também no dia 5, receberá cumprimentos por",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        }
+      ],
+      "tfidf": [
+        {
+          "rank": 1,
+          "score": 0.31676842826933754,
+          "id": "a927d65a-c468-489e-833d-862ad047fde7",
+          "texto": "DE FALECIMENTO DE MARCIJS VINÍCIUS ULIANQ EFFTING \"Eu",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2007,
+          "event_type": "obito"
+        },
+        {
+          "rank": 2,
+          "score": 0.09700051446102889,
+          "id": "5740b2fa-3d80-4235-82b3-ea42a8f71060",
+          "texto": "Florianópolis - O casal Pedro Manoel de Azevedo Nunese Angelina Silva Effting, responsável pela morte de Newton Michael Kovalenko hâ nove anos, que deveriam ter comparecido ontem pela manhã no 2\" Distrito Policiai, no Saco dos Limões, se apresentaram apenas às 14 horas e foram encaminhados á Policia Técnica, no Estreito, onde foram legitimados \"Não vamos falar mais nada\", declarou Pedro aodelegado Bahia ao ser",
+          "periodico": "Diário Catarinense (SC) - 1986 a 1987",
+          "ano": 1986,
+          "event_type": "obito"
+        },
+        {
+          "rank": 3,
+          "score": 0.0,
+          "id": "e3cb1499-9425-45d5-8880-0e1018ddb226",
+          "texto": ". Patricia Effting, destaque da Brinca Quern Pode '.",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        },
+        {
+          "rank": 4,
+          "score": 0.0,
+          "id": "9204ee7e-a949-49e7-80cb-6d80a40c5629",
+          "texto": "Justina Medeiros, Adriana Joaquim, Vanessa Oenning e Patrícia E.A. Effting. Noite Black Tie",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        },
+        {
+          "rank": 5,
+          "score": 0.0,
+          "id": "8b8bc23f-39d4-42b2-b349-17886b8f9986",
+          "texto": "Fone/fax: (048) 644-0558 EFFTING Também no dia 5, receberá cumprimentos por",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        }
+      ],
+      "word2vec": [
+        {
+          "rank": 1,
+          "score": 0.8515671173298168,
+          "id": "a927d65a-c468-489e-833d-862ad047fde7",
+          "texto": "DE FALECIMENTO DE MARCIJS VINÍCIUS ULIANQ EFFTING \"Eu",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2007,
+          "event_type": "obito"
+        },
+        {
+          "rank": 2,
+          "score": 0.789166912977896,
+          "id": "15e5622b-1a00-424d-896f-4ff1a5251a34",
+          "texto": "Marcus Vinícius Uliano Effting, 30 anos. Residia no centro.",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2006,
+          "event_type": "outro"
+        },
+        {
+          "rank": 3,
+          "score": 0.7857744352767159,
+          "id": "343e65aa-4579-412c-9617-9f4338446324",
+          "texto": "Laguna, 29 de janeiro de 2003. Dionísio Effting -'¦'\"- æ .",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2003,
+          "event_type": "outro"
+        },
+        {
+          "rank": 4,
+          "score": 0.7838795247016379,
+          "id": "d256d275-84b3-4cc8-87d5-370e05562814",
+          "texto": "Fadei com sua equipe de trabalho formada por Cuniberto Effting, Amauri Voltoline, Karleen Gonçalves, Everton Horn, Betânia Waldrich, Angelina Silva, Ivandro Vieira",
+          "periodico": "Jornal O Município (SC) - 2005 a 2019",
+          "ano": 2006,
+          "event_type": "outro"
+        },
+        {
+          "rank": 5,
+          "score": 0.7817846493840619,
+          "id": "4065e632-0672-4095-b973-466b95bc6f5f",
+          "texto": "a advogada lagunense Patrícia Uliano Effting. Defesa de Auto da Infração Ambiental ibbio«y",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2021,
+          "event_type": "outro"
+        }
+      ],
+      "bert": [
+        {
+          "rank": 1,
+          "score": 0.43861138820648193,
+          "id": "51f5970e-009f-4c98-9487-243722c804b2",
+          "texto": "Circulando os convites para o casamento de Patrícia Uliano Effting e Cláudio Moura. Será dia 30. Sepultado aqui, quarta-feira de manhã, o sr. Tomé Inácio",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1996,
+          "event_type": "casamento"
+        },
+        {
+          "rank": 2,
+          "score": 0.43505170941352844,
+          "id": "f958acf7-112d-4c5d-a1d6-c4d7a7273ed1",
+          "texto": "Assistência Publica Pag) socorros diversos doe. 17o Pago João Effting feitio quadros a PrefeiDespesa Patrimonial Pago a Administração do Cemiterio Manoel Antonlo de Souza Macuco, relativo o rnes de ju ho ci ano",
+          "periodico": "Republica (SC) - 1889 a 1937",
+          "ano": 1933,
+          "event_type": "outro"
+        },
+        {
+          "rank": 3,
+          "score": 0.40289366245269775,
+          "id": "5740b2fa-3d80-4235-82b3-ea42a8f71060",
+          "texto": "Florianópolis - O casal Pedro Manoel de Azevedo Nunese Angelina Silva Effting, responsável pela morte de Newton Michael Kovalenko hâ nove anos, que deveriam ter comparecido ontem pela manhã no 2\" Distrito Policiai, no Saco dos Limões, se apresentaram apenas às 14 horas e foram encaminhados á Policia Técnica, no Estreito, onde foram legitimados \"Não vamos falar mais nada\", declarou Pedro aodelegado Bahia ao ser",
+          "periodico": "Diário Catarinense (SC) - 1986 a 1987",
+          "ano": 1986,
+          "event_type": "obito"
+        },
+        {
+          "rank": 4,
+          "score": 0.3359532356262207,
+          "id": "81da2085-367e-4b31-96d8-afab01cf8b45",
+          "texto": "ta Cr $5,00. — Edtíh Kretzer Vargem do Cedro. Grande quantidade de dinheiro tinha-se estraviado. Começamos logo a pedir socorro ao poderoso auxiliar em tais dificuldades, a Santo Antônio — e dentro de poucos dias a quantidade perdida foi encontrada. Envio Cr. $ 5,00pela publicação.—Ana Effting Miehels Cangueri. \"Agradeço a Nossa Senhora e São Judas Tadeu uma",
+          "periodico": "O Apostolo : Orgão do Apostolado da Oração (SC) - 1929 a 1959",
+          "ano": 1943,
+          "event_type": "outro"
+        },
+        {
+          "rank": 5,
+          "score": 0.31362390518188477,
+          "id": "31290f66-54a3-462b-a253-40b55bcc9bda",
+          "texto": "CURSO TÉCNICO DE AGRIMENSUR] SÍRIO EFFTING CARLOS AUGUSTO ROGÉRIO",
+          "periodico": "O Estado de Florianópolis (SC) - 1915 a 1980",
+          "ano": 1975,
+          "event_type": "outro"
+        }
+      ]
+    },
+    "aniversariante parabéns": {
+      "bow": [
+        {
+          "rank": 1,
+          "score": 0.2,
+          "id": "f3f89f7f-8376-4c8f-be16-071618e7b27c",
+          "texto": "risos, como não poderia ser diferente. Parabéns! IRMÃ ULIANO EFFTING ZOCH A linda herdeira do feliz casal Patrícia (Uliano Effting) e",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2005,
+          "event_type": "outro"
+        },
+        {
+          "rank": 2,
+          "score": 0.0,
+          "id": "9204ee7e-a949-49e7-80cb-6d80a40c5629",
+          "texto": "Justina Medeiros, Adriana Joaquim, Vanessa Oenning e Patrícia E.A. Effting. Noite Black Tie",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        },
+        {
+          "rank": 3,
+          "score": 0.0,
+          "id": "e3cb1499-9425-45d5-8880-0e1018ddb226",
+          "texto": ". Patricia Effting, destaque da Brinca Quern Pode '.",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        },
+        {
+          "rank": 4,
+          "score": 0.0,
+          "id": "dc1e6927-3c8f-41fe-98f9-0822f02cbd50",
+          "texto": "MÔNICA C. RlGHETTO IRENE EFFTiNG Conselheiras Tutelares",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        },
+        {
+          "rank": 5,
+          "score": 0.0,
+          "id": "8b8bc23f-39d4-42b2-b349-17886b8f9986",
+          "texto": "Fone/fax: (048) 644-0558 EFFTING Também no dia 5, receberá cumprimentos por",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        }
+      ],
+      "tfidf": [
+        {
+          "rank": 1,
+          "score": 0.295031139718258,
+          "id": "f3f89f7f-8376-4c8f-be16-071618e7b27c",
+          "texto": "risos, como não poderia ser diferente. Parabéns! IRMÃ ULIANO EFFTING ZOCH A linda herdeira do feliz casal Patrícia (Uliano Effting) e",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2005,
+          "event_type": "outro"
+        },
+        {
+          "rank": 2,
+          "score": 0.0,
+          "id": "9204ee7e-a949-49e7-80cb-6d80a40c5629",
+          "texto": "Justina Medeiros, Adriana Joaquim, Vanessa Oenning e Patrícia E.A. Effting. Noite Black Tie",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        },
+        {
+          "rank": 3,
+          "score": 0.0,
+          "id": "e3cb1499-9425-45d5-8880-0e1018ddb226",
+          "texto": ". Patricia Effting, destaque da Brinca Quern Pode '.",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        },
+        {
+          "rank": 4,
+          "score": 0.0,
+          "id": "dc1e6927-3c8f-41fe-98f9-0822f02cbd50",
+          "texto": "MÔNICA C. RlGHETTO IRENE EFFTiNG Conselheiras Tutelares",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        },
+        {
+          "rank": 5,
+          "score": 0.0,
+          "id": "8b8bc23f-39d4-42b2-b349-17886b8f9986",
+          "texto": "Fone/fax: (048) 644-0558 EFFTING Também no dia 5, receberá cumprimentos por",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1995,
+          "event_type": "outro"
+        }
+      ],
+      "word2vec": [
+        {
+          "rank": 1,
+          "score": 0.8305761786693084,
+          "id": "f3f89f7f-8376-4c8f-be16-071618e7b27c",
+          "texto": "risos, como não poderia ser diferente. Parabéns! IRMÃ ULIANO EFFTING ZOCH A linda herdeira do feliz casal Patrícia (Uliano Effting) e",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2005,
+          "event_type": "outro"
+        },
+        {
+          "rank": 2,
+          "score": 0.7474283868400704,
+          "id": "3c97cd1b-e3b6-485c-9074-dbc4568d73e0",
+          "texto": "A vendedora Nice Gaspa-roto Effting, 36 anos, tem opinião semelhante e também não concorda",
+          "periodico": "Correio do Povo (SC) - 1921 a 2014",
+          "ano": 2006,
+          "event_type": "outro"
+        },
+        {
+          "rank": 3,
+          "score": 0.7468725950042716,
+          "id": "59d352d5-2527-4e6a-9c3e-a3c95d59aaa6",
+          "texto": "a data ao lado do esposo, JoSo Ben-. ? Rosilda e Dionisio Effting, domingo",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2005,
+          "event_type": "outro"
+        },
+        {
+          "rank": 4,
+          "score": 0.7350051241482192,
+          "id": "9d817bb4-2423-4536-90ec-3d0b6dd80b7c",
+          "texto": "Prefeitura de Tubarão), Patricia Uliano Effting, ainda que relevantes não",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2021,
+          "event_type": "outro"
+        },
+        {
+          "rank": 5,
+          "score": 0.7306202039339481,
+          "id": "e6d99d86-77d4-4578-862f-7f2b760b6e44",
+          "texto": "Blondin, os noivos que subiram ao altar naquela noite, Patrícia Effting e Cláudio Moura. - Barraca do Beto",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 1996,
+          "event_type": "outro"
+        }
+      ],
+      "bert": [
+        {
+          "rank": 1,
+          "score": 0.6862672567367554,
+          "id": "f3f89f7f-8376-4c8f-be16-071618e7b27c",
+          "texto": "risos, como não poderia ser diferente. Parabéns! IRMÃ ULIANO EFFTING ZOCH A linda herdeira do feliz casal Patrícia (Uliano Effting) e",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2005,
+          "event_type": "outro"
+        },
+        {
+          "rank": 2,
+          "score": 0.6073966026306152,
+          "id": "eeed432a-688a-46d3-bc6d-1ef381a50f95",
+          "texto": "77BÉ7 IRMÃ ULIANOEFFTINGZOCH Em click especial para a coluna, a linda herdeira do feliz",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2002,
+          "event_type": "outro"
+        },
+        {
+          "rank": 3,
+          "score": 0.5929199457168579,
+          "id": "f93336f6-01bb-4567-b191-f21183fc9685",
+          "texto": "A família de MARCUS VINÍCIUS ULIANO EFFTING Agradece aos familiares e amigos, as manifestações de carinho",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2006,
+          "event_type": "outro"
+        },
+        {
+          "rank": 4,
+          "score": 0.5758047699928284,
+          "id": "f0cb7146-88cf-499b-abe3-c21a9c46077e",
+          "texto": "Auto Escola Uliano, Vitoria Simplesmente Gonçalves Uliano Effting sen£j0 apresentada pela NSC TV, as 22h25, e terminando hoje, 11, comemora aniversario na ,",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2019,
+          "event_type": "outro"
+        },
+        {
+          "rank": 5,
+          "score": 0.5624439716339111,
+          "id": "6a0946f5-1043-4768-a1ff-2161871c0a5a",
+          "texto": "donda saudar-me a distinta \\ snrta. Beatriz Effting, pedindo em nome do pai, meu",
+          "periodico": "O Apostolo : Orgão do Apostolado da Oração (SC) - 1929 a 1959",
+          "ano": 1946,
+          "event_type": "outro"
+        }
+      ]
+    },
+    "Effting": {
+      "bow": [
+        {
+          "rank": 1,
+          "score": 0.5547001962252291,
+          "id": "854ee827-0d4a-4ad0-ad61-b624a20392e8",
+          "texto": "Marco Antônio Uliano Effting, filho de Rosilda e Dionísio Effting, aniversarian-",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2001,
+          "event_type": "outro"
+        },
+        {
+          "rank": 2,
+          "score": 0.5,
+          "id": "a9b17f17-7590-4e7a-9868-74d7e51f5ced",
+          "texto": "DRESCH, EFFTING, E|-IAS,",
+          "periodico": "O Estado de Florianópolis (SC) - 1915 a 1980",
+          "ano": 1979,
+          "event_type": "outro"
+        },
+        {
+          "rank": 3,
+          "score": 0.47140452079103173,
+          "id": "48c60bc0-1df2-4e3b-b23f-6a51eca3d2c6",
+          "texto": "Acha ae nosta capital, o Joio Effting, sooio gerente da firma Effting & Cia., da",
+          "periodico": "Republica (SC) - 1889 a 1937",
+          "ano": 1927,
+          "event_type": "outro"
+        },
+        {
+          "rank": 4,
+          "score": 0.4472135954999579,
+          "id": "cf81757a-69d2-4ef3-9b8c-667e7456a57a",
+          "texto": "% Samira Effting O melhor conselho",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2016,
+          "event_type": "outro"
+        },
+        {
+          "rank": 5,
+          "score": 0.4082482904638631,
+          "id": "debadd2c-5540-46ee-9a10-a663339f927a",
+          "texto": "Ernesto Michels Vitorino Effting Silvestre Rrecli",
+          "periodico": "O Estado de Florianópolis (SC) - 1915 a 1980",
+          "ano": 1960,
+          "event_type": "outro"
+        }
+      ],
+      "tfidf": [
+        {
+          "rank": 1,
+          "score": 0.17468114918516767,
+          "id": "854ee827-0d4a-4ad0-ad61-b624a20392e8",
+          "texto": "Marco Antônio Uliano Effting, filho de Rosilda e Dionísio Effting, aniversarian-",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2001,
+          "event_type": "outro"
+        },
+        {
+          "rank": 2,
+          "score": 0.11764606560667633,
+          "id": "a9b17f17-7590-4e7a-9868-74d7e51f5ced",
+          "texto": "DRESCH, EFFTING, E|-IAS,",
+          "periodico": "O Estado de Florianópolis (SC) - 1915 a 1980",
+          "ano": 1979,
+          "event_type": "outro"
+        },
+        {
+          "rank": 3,
+          "score": 0.11347082145581741,
+          "id": "48c60bc0-1df2-4e3b-b23f-6a51eca3d2c6",
+          "texto": "Acha ae nosta capital, o Joio Effting, sooio gerente da firma Effting & Cia., da",
+          "periodico": "Republica (SC) - 1889 a 1937",
+          "ano": 1927,
+          "event_type": "outro"
+        },
+        {
+          "rank": 4,
+          "score": 0.109443915150482,
+          "id": "af7872d1-1990-4442-a32b-215916ea9598",
+          "texto": "gunda-feira (26), a advogada e professora universitária Patrícia Uliano Effting Zoch de Moura. Filha de Rosilda e Dionísio Effting, fes-",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2007,
+          "event_type": "outro"
+        },
+        {
+          "rank": 5,
+          "score": 0.10232753675987408,
+          "id": "cf81757a-69d2-4ef3-9b8c-667e7456a57a",
+          "texto": "% Samira Effting O melhor conselho",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2016,
+          "event_type": "outro"
+        }
+      ],
+      "word2vec": [
+        {
+          "rank": 1,
+          "score": 0.6857144883403489,
+          "id": "f578fb47-118d-482a-adf5-c84a8c197336",
+          "texto": "Erondina Mittelmann Irene Effting Jacqueline Maes",
+          "periodico": "O Estado de Florianópolis (SC) - 1915 a 1980",
+          "ano": 1979,
+          "event_type": "outro"
+        },
+        {
+          "rank": 2,
+          "score": 0.6718437898148888,
+          "id": "a9b17f17-7590-4e7a-9868-74d7e51f5ced",
+          "texto": "DRESCH, EFFTING, E|-IAS,",
+          "periodico": "O Estado de Florianópolis (SC) - 1915 a 1980",
+          "ano": 1979,
+          "event_type": "outro"
+        },
+        {
+          "rank": 3,
+          "score": 0.6521655263190149,
+          "id": "49240067-7f40-46e4-9403-905590b6b7a8",
+          "texto": "neiro Ferreira, Uliano Effting, Nascimento, Marcelo",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2001,
+          "event_type": "nascimento"
+        },
+        {
+          "rank": 4,
+          "score": 0.6145728871541581,
+          "id": "854ee827-0d4a-4ad0-ad61-b624a20392e8",
+          "texto": "Marco Antônio Uliano Effting, filho de Rosilda e Dionísio Effting, aniversarian-",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2001,
+          "event_type": "outro"
+        },
+        {
+          "rank": 5,
+          "score": 0.6141545878290087,
+          "id": "debadd2c-5540-46ee-9a10-a663339f927a",
+          "texto": "Ernesto Michels Vitorino Effting Silvestre Rrecli",
+          "periodico": "O Estado de Florianópolis (SC) - 1915 a 1980",
+          "ano": 1960,
+          "event_type": "outro"
+        }
+      ],
+      "bert": [
+        {
+          "rank": 1,
+          "score": 0.5445954203605652,
+          "id": "a9b17f17-7590-4e7a-9868-74d7e51f5ced",
+          "texto": "DRESCH, EFFTING, E|-IAS,",
+          "periodico": "O Estado de Florianópolis (SC) - 1915 a 1980",
+          "ano": 1979,
+          "event_type": "outro"
+        },
+        {
+          "rank": 2,
+          "score": 0.4783153533935547,
+          "id": "a927d65a-c468-489e-833d-862ad047fde7",
+          "texto": "DE FALECIMENTO DE MARCIJS VINÍCIUS ULIANQ EFFTING \"Eu",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2007,
+          "event_type": "obito"
+        },
+        {
+          "rank": 3,
+          "score": 0.4419192969799042,
+          "id": "4ebfd0fa-32ce-4de0-b84c-30729ae13188",
+          "texto": "candida nas mãos do Criador, Beno Effting",
+          "periodico": "O Apostolo : Orgão do Apostolado da Oração (SC) - 1929 a 1959",
+          "ano": 1950,
+          "event_type": "outro"
+        },
+        {
+          "rank": 4,
+          "score": 0.4412011206150055,
+          "id": "897789ec-dee8-42dc-a61b-42ec0731f441",
+          "texto": "dade. Rosilda Uliano Effting, das mais simpáticas no atendimento da nos-",
+          "periodico": "Jornal de Laguna (SC) - 1995 a 2023",
+          "ano": 2003,
+          "event_type": "outro"
+        },
+        {
+          "rank": 5,
+          "score": 0.42690524458885193,
+          "id": "4cf13f24-272f-4125-82ee-7ae63ea8c5f5",
+          "texto": "ranjas. Antonio Effting —Idem. UBNÇlO HONROSA",
+          "periodico": "A Actualidade (SC) - 1905",
+          "ano": 1905,
+          "event_type": "outro"
+        }
+      ]
+    }
+  }
+}

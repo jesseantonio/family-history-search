@@ -1,0 +1,6 @@
+# Além do que já está em requirements.txt na raiz (scikit-learn, numpy):
+sentence-transformers>=3.0
+
+# gensim não foi usado: sem wheel pré-compilada pra Python 3.14/Windows
+# neste ambiente (precisa compilador C++). O Word2Vec deste trabalho está
+# implementado do zero em numpy — ver word2vec_simples.py.
