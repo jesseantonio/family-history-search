@@ -11,3 +11,8 @@ data/annotations/*
 !data/raw/
 !data/annotations/.gitkeep
 .claude
+!data/processed/.gitkeep
+
+# arquivos temporários do Word/Excel ("~$nome.docx") e caches de teste
+~$*
+.pytest_cache/

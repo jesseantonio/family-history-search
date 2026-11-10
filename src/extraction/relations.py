@@ -20,7 +20,7 @@ import re
 from dataclasses import dataclass
 
 from src.extraction.dates import extract_dates
-from src.extraction.entities import _ends_list_item, _looks_like_name_token, _strip_accents
+from src.extraction.entities import _CONNECTORS, _ends_list_item, _looks_like_name_token, _strip_accents
 
 # "filho de criação" (adotivo), "filho de Deus" (expressão religiosa),
 # "filho da terra" (natural de um lugar) — não são relação de parentesco
@@ -32,6 +32,15 @@ _FILHO_DE_IDIOM_EXCLUSIONS = {"criacao", "deus", "terra", "leite"}
 # a validação de incompatibilidade temporal da Fase 6 pegou esses casos
 # na prática (ex: "Ele, filho de..." virando sujeito="Ele").
 _NOT_A_NAME = {"ele", "ela", "este", "esta", "isso", "isto", "que", "mas", "e", "a", "o", "os", "as"}
+
+# palavras que abrem a frase com maiúscula antes do nome ("Nasceu Pedro Effting, filho de")
+_LEADING_NOISE = {
+    "nasceu", "faleceu", "falleceu", "morreu", "casou", "casou-se", "chegou", "seguiu", "partiu", "regressou",
+    "esteve", "consta", "noticia-se", "acha-se", "sepultou-se", "realizou-se", "hoje", "hontem", "ontem",
+    "amanha", "anteontem", "faleceu-lhe", "ainda", "tambem", "foi", "era", "com", "para", "pela", "pelo",
+}
+# relações cujo alvo é uma pessoa (o resto aponta para lugar ou data)
+_PERSON_TARGET = {"filho_de", "viuvo_de", "casou_com"}
 
 RELATION_PATTERNS: tuple[tuple[str, re.Pattern, float], ...] = (
     ("filho_de", re.compile(r"\bfilh[oa]\s+de\s+", re.IGNORECASE), 0.7),
@@ -57,11 +66,44 @@ class RelationMention:
     status: str  # sempre "extraida" nesta fase
 
 
+# abreviações cujo ponto não encerra o nome ("filho de José e de d. Maria")
+_ABBREVIATIONS = {"d", "dr", "dra", "sr", "sra", "srta", "sr3", "dna", "exmo", "exma", "revmo", "cel", "cap",
+                  "ten", "maj", "gal", "prof", "profa", "pe", "fr", "sto", "sta", "s"}
+
+
+def _is_abbreviation(token: str) -> bool:
+    bare = token.strip("(),;:").rstrip(".")
+    return token.rstrip().endswith(".") and _strip_accents(bare).lower() in _ABBREVIATIONS
+
+
+def _ends_sentence(token: str) -> bool:
+    return token.rstrip().endswith(".") and not _is_abbreviation(token)
+
+
 def _capture_target(text: str, start_pos: int) -> tuple[str, int]:
     window = text[start_pos : start_pos + _MAX_TARGET_CHARS]
-    stop = _TARGET_STOP_RE.search(window)
-    end = start_pos + (stop.start() if stop else len(window))
+    end = start_pos + len(window)
+    for stop in _TARGET_STOP_RE.finditer(window):
+        if stop.group() == ".":
+            last_word = re.search(r"\S*$", window[: stop.start() + 1]).group()
+            if _is_abbreviation(last_word):
+                continue
+        end = start_pos + stop.start()
+        break
     return text[start_pos:end].strip(), end
+
+
+def _trim_person(target: str) -> str:
+    """Alvo que deveria ser um nome: corta na primeira palavra que não parece parte de
+    nome ("Carlos Souza na igreja de São Bento" -> "Carlos Souza")."""
+    kept = []
+    for tok in target.split():
+        if not _looks_like_name_token(tok):
+            break
+        kept.append(tok)
+    while kept and kept[-1].lower() in _CONNECTORS:
+        kept.pop()
+    return " ".join(kept)
 
 
 def _capture_subject(text: str, trigger_start: int) -> str | None:
@@ -74,10 +116,17 @@ def _capture_subject(text: str, trigger_start: int) -> str | None:
     steps = 0
     while start_i > 0 and steps < _MAX_SUBJECT_TOKENS:
         candidate = tokens[start_i - 1].group()
-        if _ends_list_item(candidate) or not _looks_like_name_token(candidate):
+        # "...Stella Bassani. Juvenal Pedro, filho de": o ponto fecha a frase anterior;
+        # "Antonio Effting e Ana Kraus": o "e" separa duas pessoas
+        if (_ends_list_item(candidate) or _ends_sentence(candidate) or candidate.lower() == "e"
+                or not _looks_like_name_token(candidate)):
             break
         start_i -= 1
         steps += 1
+    # "e Samantha Effting", "Nasceu Pedro Effting": conector ou verbo no começo não é nome
+    while start_i < end_i and (tokens[start_i].group().lower() in _CONNECTORS
+                               or _strip_accents(tokens[start_i].group()).lower().strip(",;:") in _LEADING_NOISE):
+        start_i += 1
     span_start, span_end = tokens[start_i].start(), tokens[end_i].end()
     subject_raw = text[span_start:span_end].strip(" ,;:.")
     normalized = _strip_accents(subject_raw).lower()
@@ -94,7 +143,11 @@ def extract_relations(text: str) -> list[RelationMention]:
             if not target_raw:
                 continue
             subject_raw = _capture_subject(text, match.start())
-            evidence = text[max(0, match.start() - 40) : target_end].strip()
+            ev_start = max(0, match.start() - 40)
+            if ev_start > 0 and not text[ev_start - 1].isspace():   # não começa no meio de uma palavra
+                space = text.find(" ", ev_start, match.start())
+                ev_start = space + 1 if space != -1 else ev_start
+            evidence = text[ev_start:target_end].strip()
 
             if relation == "filho_de" and _strip_accents(target_raw).lower().split()[0] in _FILHO_DE_IDIOM_EXCLUSIONS:
                 continue
@@ -102,7 +155,10 @@ def extract_relations(text: str) -> list[RelationMention]:
             targets = [target_raw]
             if relation == "filho_de":
                 # "filho de José e Maria" -> dois pais separados
-                targets = [p.strip() for p in re.split(r"\s+e\s+", target_raw) if p.strip()]
+                # "de José e de d. Maria": o "de" repetido não faz parte do nome
+                targets = [p.strip() for p in re.split(r"\s+e\s+(?:d[aoe]\s+)?", target_raw) if p.strip()]
+            if relation in _PERSON_TARGET:
+                targets = [t for t in map(_trim_person, targets) if len(t) >= 3]
 
             for target in targets:
                 target_kind = None

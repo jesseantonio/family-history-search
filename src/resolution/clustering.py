@@ -22,7 +22,9 @@ from scipy.spatial.distance import squareform
 
 from src.resolution.features import PersonMentionRecord, ScoreBreakdown, compute_score
 
-DEFAULT_THRESHOLD = 0.55
+# Equivale ao limiar antigo de 0,55 na escala que ia só até 0,9 (0,55 / 0,9 ≈ 0,61):
+# os agrupamentos ficam iguais, só o score passou a ir de 0 a 1.
+DEFAULT_THRESHOLD = round(0.55 / 0.9, 4)
 
 
 @dataclass(frozen=True)

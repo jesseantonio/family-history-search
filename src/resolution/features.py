@@ -23,8 +23,16 @@ def _strip_accents(text: str) -> str:
     return "".join(c for c in decomposed if not unicodedata.combining(c)).lower()
 
 
+# tratamentos que antecedem o nome e não fazem parte dele ("d. Ana Kraus" é "Ana Kraus")
+_TITLES = {"d", "da", "dr", "dra", "sr", "sra", "sr3", "srta", "dna", "exmo", "exma", "snr", "snra",
+           "prof", "profa", "cel", "cap", "ten", "maj", "revmo", "pe", "viuva", "viuvo"}
+
+
 def normalize_name(name: str) -> str:
-    return " ".join(_strip_accents(name).split())
+    tokens = _strip_accents(name).replace(",", " ").split()
+    while len(tokens) > 1 and tokens[0].rstrip(".") in _TITLES:
+        tokens.pop(0)
+    return " ".join(tokens)
 
 
 @dataclass(frozen=True)
@@ -144,13 +152,27 @@ def address_or_profession_overlap(a: PersonMentionRecord, b: PersonMentionRecord
     return 0.0
 
 
+# Pesos de cada característica no score total. Somam 1, então o score vai de 0 a 1 de
+# verdade. Endereço/profissão fica com peso 0 enquanto não houver extração desse sinal
+# (antes tinha 0,10 e nunca pontuava, o que limitava o score a 0,9).
+WEIGHTS = {
+    "name_similarity": 0.35 / 0.9,
+    "people_in_common": 0.20 / 0.9,
+    "place_proximity": 0.20 / 0.9,
+    "temporal_compatibility": 0.15 / 0.9,
+    "address_overlap": 0.0,
+}
+
+
 def compute_score(a: PersonMentionRecord, b: PersonMentionRecord) -> ScoreBreakdown:
     sim = name_similarity(a, b)
     people = people_in_common(a, b)
     place = place_proximity(a, b)
     temporal = temporal_compatibility(a, b)
     address = address_or_profession_overlap(a, b)
-    total = 0.35 * sim + 0.20 * people + 0.20 * place + 0.15 * temporal + 0.10 * address
+    total = (WEIGHTS["name_similarity"] * sim + WEIGHTS["people_in_common"] * people
+             + WEIGHTS["place_proximity"] * place + WEIGHTS["temporal_compatibility"] * temporal
+             + WEIGHTS["address_overlap"] * address)
     return ScoreBreakdown(
         name_similarity=sim, people_in_common=people, place_proximity=place,
         temporal_compatibility=temporal, address_overlap=address, total=total,

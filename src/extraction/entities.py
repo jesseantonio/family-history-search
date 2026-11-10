@@ -114,11 +114,18 @@ def find_surname_person(text: str, surname: str) -> PersonMention | None:
     )
 
 
+# Só `doc.ents` é usado, então morfologia e lemas só gastariam tempo. O `parser` (e o
+# `tok2vec` de que ele depende) fica: ele marca o fim das frases, e o NER não cria
+# entidades atravessando esse limite — sem ele, ~75% dos trechos mudam de entidades.
+_NLP_EXCLUDE = ["morphologizer", "lemmatizer", "attribute_ruler"]
+NER_BATCH_SIZE = 64
+
+
 @lru_cache(maxsize=1)
 def _load_nlp():
     import spacy
 
-    return spacy.load("pt_core_news_sm")
+    return spacy.load("pt_core_news_sm", exclude=_NLP_EXCLUDE)
 
 
 def extract_people_and_places(text: str) -> tuple[list[PersonMention], list[PlaceMention]]:
@@ -127,8 +134,16 @@ def extract_people_and_places(text: str) -> tuple[list[PersonMention], list[Plac
     Qualidade observada no corpus é irregular — tratar como sinal auxiliar,
     não como fonte principal.
     """
-    nlp = _load_nlp()
-    doc = nlp(text)
+    return _mentions_from_doc(_load_nlp()(text))
+
+
+def extract_people_and_places_many(texts: list[str]) -> list[tuple[list[PersonMention], list[PlaceMention]]]:
+    """O mesmo que `extract_people_and_places`, para vários trechos de uma vez
+    (`nlp.pipe` em lotes — bem mais rápido que chamar um por um)."""
+    return [_mentions_from_doc(doc) for doc in _load_nlp().pipe(texts, batch_size=NER_BATCH_SIZE)]
+
+
+def _mentions_from_doc(doc) -> tuple[list[PersonMention], list[PlaceMention]]:
     people, places = [], []
     for ent in doc.ents:
         if ent.label_ == "PER":
