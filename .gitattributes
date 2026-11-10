@@ -1,0 +1,5 @@
+# texto sempre com LF no repositório e na cópia de trabalho (evita os avisos LF/CRLF no Windows)
+* text=auto eol=lf
+*.docx binary
+*.png binary
+*.pdf binary

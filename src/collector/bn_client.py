@@ -143,6 +143,25 @@ def _group_by_year(editions: Iterable[Edition]) -> dict[str, list[str]]:
     return grouped
 
 
+# Namespace fixo para gerar ids determinísticos de ocorrência (uuid5). Não mude:
+# as revisões salvas em data/annotations/ são indexadas por esse id.
+_OCCURRENCE_NAMESPACE = uuid.UUID("6f1c2d7e-3b5a-4c8e-9a41-0d2f6b8e7c11")
+
+
+def make_occurrence_id(surname: str, bib: str, year: int, edition: str, physical_page: int) -> str:
+    """Id estável de uma ocorrência: a mesma página da mesma edição, buscada pelo mesmo
+    sobrenome, gera sempre o mesmo id. Assim as revisões feitas na interface
+    continuam valendo quando o pipeline é executado de novo."""
+    key = f"{_normalize(surname).strip()}|{bib}|{int(year)}|{edition}|{int(physical_page)}"
+    return str(uuid.uuid5(_OCCURRENCE_NAMESPACE, key))
+
+
+def is_pdf_bytes(data: bytes) -> bool:
+    """PDFs começam com "%PDF-". Uma resposta 200 com outra coisa (ex.: página HTML de
+    verificação da Cloudflare) não pode ir para o cache como se fosse PDF."""
+    return data[:1024].lstrip().startswith(b"%PDF-")
+
+
 @dataclass(frozen=True)
 class Occurrence:
     """Uma página de uma edição onde o termo buscado aparece."""
@@ -157,6 +176,14 @@ class Occurrence:
     source_url: str
     ocr_raw: str
     collected_at: str
+    # data de publicação da edição (ISO, "AAAA-MM-DD"), lida da primeira página do PDF;
+    # None quando o OCR não permite identificar a data
+    publication_date: str | None = None
+    # busca de uma pessoa (não só do sobrenome): o nome buscado, o modo ("literal" ou
+    # "inteligente") e como ele foi lido nesta página (ex.: "Carlo Barleta")
+    person_query: str | None = None
+    search_mode: str | None = None
+    match_text: str | None = None
 
     def to_dict(self) -> dict:
         return asdict(self)
@@ -173,10 +200,12 @@ def download_edition(edition: Edition, cache_dir: Path, client: httpx.Client, *,
     if response.status_code == 404:
         raise FileNotFoundError(f"edição não encontrada no servidor: {edition.url}")
     response.raise_for_status()
+    if not is_pdf_bytes(response.content):
+        raise httpx.HTTPError(f"a resposta de {edition.url} não é um PDF")
 
     tmp = dest.with_suffix(".pdf.part")
     tmp.write_bytes(response.content)
-    tmp.rename(dest)
+    tmp.replace(dest)
 
     if delay:
         time.sleep(delay)
@@ -232,7 +261,7 @@ def _iter_occurrences(
                 continue
             found += 1
             yield Occurrence(
-                id=str(uuid.uuid4()),
+                id=make_occurrence_id(surname, edition.bib, edition.year, edition.number, page_number),
                 query=surname,
                 bib=edition.bib,
                 periodical=periodical,

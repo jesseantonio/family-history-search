@@ -23,19 +23,30 @@ import networkx as nx
 from src.resolution.features import normalize_name
 
 
-def _cluster_lookup(cluster_report: dict) -> dict[str, str]:
-    """normalized_name -> node_id, usando os clusters da Fase 5 (método por regra)."""
-    lookup: dict[str, str] = {}
-    for cluster in cluster_report.get("clusters_por_regra", []):
-        node_id = f"cluster:{cluster['cluster_id']}"
-        for member in cluster["membros"]:
-            lookup[normalize_name(member["name_raw"])] = node_id
-    return lookup
+class _ClusterLookup:
+    """Resolve uma menção para o nó do seu cluster da Fase 5 (método por regra).
 
+    A chave principal é (ocorrência, nome): duas pessoas homônimas em clusters
+    diferentes continuam separadas, porque cada menção sabe de que ocorrência veio.
+    Só o nome, sem a ocorrência, é usado quando ele pertence a um único cluster;
+    nome ambíguo sem ocorrência correspondente vira um nó próprio por nome."""
 
-def _node_id_for(name_raw: str, cluster_lookup: dict[str, str]) -> str:
-    norm = normalize_name(name_raw)
-    return cluster_lookup.get(norm, f"nome:{norm}")
+    def __init__(self, cluster_report: dict | None):
+        self.by_occurrence: dict[tuple[str, str], str] = {}
+        by_name: dict[str, set[str]] = {}
+        for cluster in (cluster_report or {}).get("clusters_por_regra", []):
+            node_id = f"cluster:{cluster['cluster_id']}"
+            for member in cluster["membros"]:
+                norm = normalize_name(member["name_raw"])
+                self.by_occurrence[(member["occurrence_id"], norm)] = node_id
+                by_name.setdefault(norm, set()).add(node_id)
+        self.unique_by_name = {n: next(iter(ids)) for n, ids in by_name.items() if len(ids) == 1}
+
+    def node_id(self, occurrence_id: str, name_raw: str) -> str:
+        norm = normalize_name(name_raw)
+        return (self.by_occurrence.get((occurrence_id, norm))
+                or self.unique_by_name.get(norm)
+                or f"nome:{norm}")
 
 
 def build_graph(
@@ -43,7 +54,7 @@ def build_graph(
     cluster_report: dict | None = None,
     review: dict | None = None,
 ) -> nx.MultiDiGraph:
-    cluster_lookup = _cluster_lookup(cluster_report) if cluster_report else {}
+    lookup = _ClusterLookup(cluster_report)
     review = review or {}
     graph = nx.MultiDiGraph()
 
@@ -57,8 +68,8 @@ def build_graph(
             if not rel.get("subject_raw"):
                 continue  # aresta precisa de um "quem" conhecido
 
-            subject_id = _node_id_for(rel["subject_raw"], cluster_lookup)
-            target_id = _node_id_for(rel["target_raw"], cluster_lookup)
+            subject_id = lookup.node_id(occ["id"], rel["subject_raw"])
+            target_id = lookup.node_id(occ["id"], rel["target_raw"])
             if subject_id == target_id:
                 continue  # auto-relação: provável erro de extração, não entra
 
@@ -71,7 +82,8 @@ def build_graph(
             graph.add_edge(
                 subject_id, target_id,
                 relation=rel["relation"], status=status, confidence=rel["confidence"],
-                evidence=rel["evidence"], occurrence_id=occ["id"], source_url=occ["source_url"],
+                evidence=rel["evidence"], occurrence_id=occ["id"], relation_index=i,
+                source_url=occ["source_url"],
                 periodical=occ.get("periodical"), year=occ.get("year"),
             )
 

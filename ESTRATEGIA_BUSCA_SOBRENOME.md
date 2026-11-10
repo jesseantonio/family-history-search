@@ -1,5 +1,8 @@
 # Estratégia: busca de sobrenome ponta a ponta
 
+> Documento histórico do planejamento. A interface Streamlit citada aqui foi substituída
+> pela interface web em `src/web` (`python -m src.web`); o fluxo descrito virou `src/pipeline.py`.
+
 Objetivo: o usuário digita um sobrenome, o sistema pesquisa na Hemeroteca
 Digital e devolve direto a linha do tempo e as ocorrências tratadas, do
 jeito que a interface Streamlit já mostra hoje — sem passar manualmente
